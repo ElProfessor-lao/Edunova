@@ -1,0 +1,1282 @@
+{
+  "categories": [
+    {
+      "name": "Emotional Intelligence",
+      "icon": "❤️",
+      "description_en": "Master your emotions and build better relationships",
+      "description_fr": "Maîtrisez vos émotions et construisez de meilleures relations",
+      "lessons": [
+        {
+          "id": "eq_101",
+          "title_en": "What is Emotional Intelligence?",
+          "title_fr": "Qu'est-ce que l'Intelligence Émotionnelle ?",
+          "content_en": "Emotional Intelligence (EQ) is the ability to recognize, understand, and manage your own emotions while also recognizing and influencing the emotions of others. People with high EQ earn $29,000 more per year on average and report significantly higher life satisfaction and relationship quality.\n\nResearch shows that EQ is actually more important than IQ for success in life. While IQ helps you solve problems and process information, EQ helps you work with people, handle stress, navigate social complexities, and make good decisions under pressure. The good news is that unlike IQ, which is largely fixed from birth, EQ can be developed and strengthened throughout your entire life with consistent practice and self-awareness.",
+          "content_fr": "L'intelligence émotionnelle (IE) est la capacité de reconnaître, comprendre et gérer vos propres émotions tout en reconnaissant et en influençant les émotions des autres. Les personnes avec un IE élevé gagnent 29 000 $ de plus par an en moyenne et déclarent une satisfaction de vie et une qualité relationnelle significativement plus élevées.\n\nLa recherche montre que l'IE est en fait plus importante que le QI pour réussir dans la vie. Alors que le QI aide à résoudre des problèmes et à traiter l'information, l'IE aide à travailler avec les gens, à gérer le stress, à naviguer dans les complexités sociales et à prendre de bonnes décisions sous pression. La bonne nouvelle est que contrairement au QI, qui est largement fixe à la naissance, l'IE peut être développée et renforcée tout au long de votre vie avec une pratique constante et une conscience de soi.",
+          "key_points_en": [
+            "Self-awareness: Knowing what you're feeling and why",
+            "Self-regulation: Managing your emotional reactions",
+            "Empathy: Understanding and sharing others' feelings",
+            "Social skills: Building and maintaining healthy relationships"
+          ],
+          "key_points_fr": [
+            "Conscience de soi : Savoir ce que vous ressentez et pourquoi",
+            "Autorégulation : Gérer vos réactions émotionnelles",
+            "Empathie : Comprendre et partager les sentiments des autres",
+            "Compétences sociales : Construire et maintenir des relations saines"
+          ],
+          "examples": [
+            {
+              "bad_en": "I'm so stupid! I always mess everything up!",
+              "bad_fr": "Je suis tellement stupide ! Je gâche toujours tout !",
+              "good_en": "I'm disappointed I made that mistake. What can I learn from this to do better next time?",
+              "good_fr": "Je suis déçu d'avoir fait cette erreur. Qu'est-ce que je peux apprendre de cela pour mieux faire la prochaine fois ?"
+            },
+            {
+              "bad_en": "Just cheer up! It's not that bad. Stop being so dramatic.",
+              "bad_fr": "Secoue-toi ! Ce n'est pas si grave. Arrête d'être si dramatique.",
+              "good_en": "You seem really down right now. I'm here for you if you want to talk about what's bothering you.",
+              "good_fr": "Tu as l'air vraiment abattu en ce moment. Je suis là pour toi si tu veux parler de ce qui te tracasse."
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is emotional intelligence?",
+              "question_fr": "Qu'est-ce que l'intelligence émotionnelle ?",
+              "options_en": [
+                "Getting good grades in school",
+                "Understanding and managing your own emotions and recognizing emotions in others",
+                "Being popular on social media",
+                "Never showing any emotions"
+              ],
+              "options_fr": [
+                "Obtenir de bonnes notes à l'école",
+                "Comprendre et gérer vos propres émotions et reconnaître les émotions des autres",
+                "Être populaire sur les réseaux sociaux",
+                "Ne jamais montrer aucune émotion"
+              ],
+              "correct": 1,
+              "feedback_en": "Correct! EQ is about understanding and managing emotions - both yours and others'.",
+              "feedback_fr": "Correct ! L'IE consiste à comprendre et à gérer les émotions - les vôtres et celles des autres."
+            },
+            {
+              "question_en": "Which of these is a component of emotional intelligence?",
+              "question_fr": "Lequel de ces éléments est une composante de l'intelligence émotionnelle ?",
+              "options_en": [
+                "Self-awareness",
+                "Memorization skills",
+                "Athletic ability",
+                "Musical talent"
+              ],
+              "options_fr": [
+                "Conscience de soi",
+                "Capacités de mémorisation",
+                "Capacité athlétique",
+                "Talent musical"
+              ],
+              "correct": 1,
+              "feedback_en": "Self-awareness (knowing what you're feeling and why) is a key component of EQ.",
+              "feedback_fr": "La conscience de soi (savoir ce que vous ressentez et pourquoi) est un élément clé de l'IE."
+            },
+            {
+              "question_en": "People with high emotional intelligence tend to:",
+              "question_fr": "Les personnes ayant une intelligence émotionnelle élevée ont tendance à :",
+              "options_en": [
+                "Earn less money",
+                "Have more relationship problems",
+                "Earn more money and have better relationships",
+                "Have no emotions at all"
+              ],
+              "options_fr": [
+                "Gagner moins d'argent",
+                "Avoir plus de problèmes relationnels",
+                "Gagner plus d'argent et avoir de meilleures relations",
+                "Ne pas avoir d'émotions du tout"
+              ],
+              "correct": 1,
+              "feedback_en": "Research shows high EQ correlates with higher income and better relationships!",
+              "feedback_fr": "La recherche montre qu'un IE élevé est corrélé à des revenus plus élevés et à de meilleures relations !"
+            },
+            {
+              "question_en": "What percentage of communication is non-verbal?",
+              "question_fr": "Quel pourcentage de la communication est non verbal ?",
+              "options_en": [
+                "25%",
+                "50%",
+                "75%",
+                "93%"
+              ],
+              "options_fr": [
+                "25%",
+                "50%",
+                "75%",
+                "93%"
+              ],
+              "correct": 3,
+              "feedback_en": "93% of communication is non-verbal - 55% body language, 38% tone of voice!",
+              "feedback_fr": "93 % de la communication est non verbale - 55 % de langage corporel, 38 % de ton de voix !"
+            },
+            {
+              "question_en": "Which statement shows low emotional intelligence?",
+              "question_fr": "Quelle déclaration montre une faible intelligence émotionnelle ?",
+              "options_en": [
+                "I can see why you'd feel that way",
+                "Let me take a moment to think before I respond",
+                "You're too sensitive - get over it!",
+                "I notice I'm feeling frustrated right now"
+              ],
+              "options_fr": [
+                "Je comprends pourquoi tu te sens comme ça",
+                "Laisse-moi prendre un moment pour réfléchir avant de répondre",
+                "Tu es trop sensible - passe à autre chose !",
+                "Je remarque que je me sens frustré en ce moment"
+              ],
+              "correct": 2,
+              "feedback_en": "Telling someone they're 'too sensitive' dismisses their feelings instead of validating them.",
+              "feedback_fr": "Dire à quelqu'un qu'il est 'trop sensible' rejette ses sentiments au lieu de les valider."
+            }
+          ]
+        },
+        {
+          "id": "eq_102",
+          "title_en": "The Power of 'I Feel' Statements",
+          "title_fr": "Le Pouvoir des Déclarations 'Je Ressens'",
+          "content_en": "Instead of blaming others, take ownership of your feelings. The formula 'I feel [emotion] when [situation] because [reason]' reduces defensiveness by an astonishing 73%. This simple shift in language transforms how people receive your message and dramatically improves communication outcomes.\n\nWhen you use 'you' statements like 'You always interrupt me' or 'You never listen,' the other person immediately hears an accusation and becomes defensive. Their brain goes into protection mode, and they stop hearing your actual message. But when you say 'I feel frustrated when I'm interrupted because I lose my train of thought,' you're sharing your experience without attacking. This opens dialogue instead of shutting it down, creating space for genuine understanding and problem-solving.",
+          "content_fr": "Au lieu de blâmer les autres, assumez vos sentiments. La formule 'Je ressens [émotion] quand [situation] parce que [raison]' réduit la défensive de 73 %. Ce simple changement de langage transforme la façon dont les gens reçoivent votre message et améliore considérablement les résultats de communication.\n\nLorsque vous utilisez des déclarations 'tu' comme 'Tu m'interromps toujours' ou 'Tu n'écoutes jamais', l'autre personne entend immédiatement une accusation et devient défensive. Son cerveau passe en mode protection, et elle cesse d'entendre votre message réel. Mais quand vous dites 'Je me sens frustré quand on m'interrompt parce que je perds le fil de ma pensée', vous partagez votre expérience sans attaquer. Cela ouvre le dialogue au lieu de le fermer, créant un espace pour une compréhension authentique et la résolution de problèmes.",
+          "key_points_en": [
+            "Formula: I feel [emotion] when [situation] because [reason]",
+            "Avoid 'you' statements which sound like accusations",
+            "Focus on the impact, not the person's intent",
+            "This reduces defensiveness and opens dialogue"
+          ],
+          "key_points_fr": [
+            "Formule : Je ressens [émotion] quand [situation] parce que [raison]",
+            "Évitez les déclarations 'tu' qui sonnent comme des accusations",
+            "Concentrez-vous sur l'impact, pas sur l'intention de la personne",
+            "Cela réduit la défensive et ouvre le dialogue"
+          ],
+          "examples": [
+            {
+              "bad_en": "You never listen to me! You're always on your phone when I'm talking!",
+              "bad_fr": "Tu ne m'écoutes jamais ! Tu es toujours sur ton téléphone quand je parle !",
+              "good_en": "I feel unheard when you look at your phone while I'm speaking because it makes me feel like what I'm saying doesn't matter.",
+              "good_fr": "Je me sens ignoré quand tu regardes ton téléphone pendant que je parle parce que cela me donne l'impression que ce que je dis n'a pas d'importance."
+            },
+            {
+              "bad_en": "You're so lazy! You never help with the housework!",
+              "bad_fr": "Tu es si paresseux ! Tu n'aides jamais avec les tâches ménagères !",
+              "good_en": "I feel overwhelmed when I'm the only one cleaning the kitchen because I'm tired after work and could really use some teamwork.",
+              "good_fr": "Je me sens dépassé quand je suis le seul à nettoyer la cuisine parce que je suis fatigué après le travail et que j'aurais vraiment besoin d'un peu de travail d'équipe."
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is the correct formula for an 'I feel' statement?",
+              "question_fr": "Quelle est la formule correcte pour une déclaration 'Je ressens' ?",
+              "options_en": [
+                "You make me feel [emotion]",
+                "I feel [emotion] when [situation] because [reason]",
+                "You always [behavior]",
+                "Why do you always [negative behavior]?"
+              ],
+              "options_fr": [
+                "Tu me fais sentir [émotion]",
+                "Je ressens [émotion] quand [situation] parce que [raison]",
+                "Tu fais toujours [comportement]",
+                "Pourquoi fais-tu toujours [comportement négatif] ?"
+              ],
+              "correct": 1,
+              "feedback_en": "Correct! The formula 'I feel [emotion] when [situation] because [reason]' owns your feelings.",
+              "feedback_fr": "Correct ! La formule 'Je ressens [émotion] quand [situation] parce que [raison]' assume vos sentiments."
+            },
+            {
+              "question_en": "Why are 'I feel' statements more effective than 'you' statements?",
+              "question_fr": "Pourquoi les déclarations 'Je ressens' sont-elles plus efficaces que les déclarations 'tu' ?",
+              "options_en": [
+                "They're longer and more complicated",
+                "They blame the other person less and reduce defensiveness",
+                "They're less honest about your feelings",
+                "They hide your true emotions"
+              ],
+              "options_fr": [
+                "Elles sont plus longues et plus compliquées",
+                "Elles blâment moins l'autre personne et réduisent la défensive",
+                "Elles sont moins honnêtes sur vos sentiments",
+                "Elles cachent vos vraies émotions"
+              ],
+              "correct": 1,
+              "feedback_en": "Correct! 'You' statements sound like accusations. 'I' statements share your experience without attacking.",
+              "feedback_fr": "Correct ! Les déclarations 'tu' sonnent comme des accusations. Les déclarations 'je' partagent votre expérience sans attaquer."
+            },
+            {
+              "question_en": "Which is the best 'I feel' statement example?",
+              "question_fr": "Quel est le meilleur exemple de déclaration 'Je ressens' ?",
+              "options_en": [
+                "You're so rude for interrupting me!",
+                "I feel disrespected when I'm interrupted because I lose my train of thought",
+                "Why do you always cut me off?",
+                "Stop interrupting me right now!"
+              ],
+              "options_fr": [
+                "Tu es si impoli de m'interrompre !",
+                "Je me sens manqué de respect quand on m'interrompt parce que je perds le fil de ma pensée",
+                "Pourquoi m'interromps-tu toujours ?",
+                "Arrête de m'interrompre immédiatement !"
+              ],
+              "correct": 1,
+              "feedback_en": "Perfect! You owned your feeling, named the specific behavior, and explained the impact.",
+              "feedback_fr": "Parfait ! Vous avez assumé votre sentiment, nommé le comportement spécifique et expliqué l'impact."
+            },
+            {
+              "question_en": "Turn this into an 'I feel' statement: 'You never help with chores!'",
+              "question_fr": "Transformez ceci en déclaration 'Je ressens' : 'Tu n'aides jamais avec les tâches ménagères !'",
+              "options_en": [
+                "You're so lazy and useless",
+                "I feel overwhelmed when I do all the chores alone because I need teamwork",
+                "Why don't you ever help around here?",
+                "Fine, I'll just do everything myself then!"
+              ],
+              "options_fr": [
+                "Tu es si paresseux et inutile",
+                "Je me sens dépassé quand je fais toutes les tâches seul parce que j'ai besoin de travail d'équipe",
+                "Pourquoi n'aides-tu jamais ici ?",
+                "Très bien, je vais tout faire moi-même alors !"
+              ],
+              "correct": 1,
+              "feedback_en": "Excellent! You expressed your feeling, named the situation, and explained why it matters.",
+              "feedback_fr": "Excellent ! Vous avez exprimé votre sentiment, nommé la situation et expliqué pourquoi c'est important."
+            },
+            {
+              "question_en": "What should you avoid when using 'I feel' statements?",
+              "question_fr": "Que devez-vous éviter lorsque vous utilisez des déclarations 'Je ressens' ?",
+              "options_en": [
+                "Using the word 'because' to explain yourself",
+                "Being specific about the situation",
+                "Using the word 'you' which sounds like blame",
+                "Sharing your emotions openly"
+              ],
+              "options_fr": [
+                "Utiliser le mot 'parce que' pour vous expliquer",
+                "Être spécifique sur la situation",
+                "Utiliser le mot 'tu' qui sonne comme un blâme",
+                "Partager vos émotions ouvertement"
+              ],
+              "correct": 1,
+              "feedback_en": "Avoid 'you' which can sound accusatory. Focus on your experience using 'I' and 'when'.",
+              "feedback_fr": "Évitez 'tu' qui peut sonner comme une accusation. Concentrez-vous sur votre expérience en utilisant 'je' et 'quand'."
+            }
+          ]
+        },
+        {
+          "id": "eq_103",
+          "title_en": "Managing Anger in the Moment",
+          "title_fr": "Gérer la Colère sur le Moment",
+          "content_en": "Anger is a normal human emotion, but what you do with it matters tremendously. The 6-second rule is a powerful technique: pause for 6 seconds before reacting to any anger trigger. This brief pause allows your brain's thinking center to catch up with your emotional center, preventing reactions you'll later regret.\n\nDeep breathing is another scientifically-proven method to calm anger. Try the 4-7-8 technique: inhale for 4 seconds, hold for 7 seconds, and exhale for 8 seconds. This activates your parasympathetic nervous system, which directly counteracts your body's stress response. Additionally, simply naming your emotion - saying 'I notice I'm feeling angry right now' - activates your prefrontal cortex and reduces emotional intensity.",
+          "content_fr": "La colère est une émotion humaine normale, mais ce que vous en faites compte énormément. La règle des 6 secondes est une technique puissante : faites une pause de 6 secondes avant de réagir à tout déclencheur de colère. Cette brève pause permet à votre centre de réflexion de rattraper votre centre émotionnel, évitant des réactions que vous pourriez regretter plus tard.\n\nLa respiration profonde est une autre méthode scientifiquement prouvée pour calmer la colère. Essayez la technique 4-7-8 : inspirez pendant 4 secondes, retenez pendant 7 secondes et expirez pendant 8 secondes. Cela active votre système nerveux parasympathique, qui contrecarre directement la réponse au stress de votre corps. De plus, simplement nommer votre émotion - dire 'Je remarque que je me sens en colère en ce moment' - active votre cortex préfrontal et réduit l'intensité émotionnelle.",
+          "key_points_en": [
+            "The 6-second rule prevents regretful reactions",
+            "Deep breathing (4-7-8 method) activates calmness",
+            "Name the emotion to reduce intensity",
+            "Taking space is better than exploding or suppressing"
+          ],
+          "key_points_fr": [
+            "La règle des 6 secondes prévient les réactions regrettables",
+            "La respiration profonde (méthode 4-7-8) active le calme",
+            "Nommer l'émotion réduit son intensité",
+            "Prendre du recul est mieux que d'exploser ou de refouler"
+          ],
+          "examples": [
+            {
+              "bad_en": "Screaming and slamming doors when you're angry",
+              "bad_fr": "Crier et claquer les portes quand vous êtes en colère",
+              "good_en": "Excuse me, I need a moment. *takes deep breaths* I'll be back in 10 minutes.",
+              "good_fr": "Excusez-moi, j'ai besoin d'un moment. *prend de grandes respirations* Je reviens dans 10 minutes."
+            },
+            {
+              "bad_en": "Bottling it up inside until you eventually explode",
+              "bad_fr": "Refouler à l'intérieur jusqu'à exploser",
+              "good_en": "I'm feeling really frustrated right now. Can we take a break and continue this conversation in 15 minutes?",
+              "good_fr": "Je me sens vraiment frustré en ce moment. Peut-on faire une pause et continuer cette conversation dans 15 minutes ?"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is the 6-second rule?",
+              "question_fr": "Qu'est-ce que la règle des 6 secondes ?",
+              "options_en": [
+                "React immediately within 6 seconds",
+                "Pause for 6 seconds before reacting",
+                "Stay angry for exactly 6 seconds",
+                "Take 6 deep breaths"
+              ],
+              "options_fr": [
+                "Réagir immédiatement dans les 6 secondes",
+                "Faire une pause de 6 secondes avant de réagir",
+                "Rester en colère exactement 6 secondes",
+                "Prendre 6 grandes respirations"
+              ],
+              "correct": 1,
+              "feedback_en": "The 6-second rule means pausing before reacting to let your thinking brain catch up.",
+              "feedback_fr": "La règle des 6 secondes signifie faire une pause avant de réagir pour laisser votre cerveau pensant rattraper."
+            },
+            {
+              "question_en": "What happens when you name your emotion?",
+              "question_fr": "Que se passe-t-il quand vous nommez votre émotion ?",
+              "options_en": [
+                "It makes you angrier",
+                "It reduces the intensity of the emotion",
+                "It scares people away",
+                "It's a waste of time"
+              ],
+              "options_fr": [
+                "Cela vous rend plus en colère",
+                "Cela réduit l'intensité de l'émotion",
+                "Cela effraie les gens",
+                "C'est une perte de temps"
+              ],
+              "correct": 1,
+              "feedback_en": "Naming your emotion activates your prefrontal cortex and reduces emotional intensity.",
+              "feedback_fr": "Nommer votre émotion active votre cortex préfrontal et réduit l'intensité émotionnelle."
+            },
+            {
+              "question_en": "Which is a healthy anger management technique?",
+              "question_fr": "Quelle est une technique saine de gestion de la colère ?",
+              "options_en": [
+                "Yelling at someone",
+                "Taking deep breaths and asking for a moment",
+                "Breaking objects",
+                "Sending angry texts"
+              ],
+              "options_fr": [
+                "Crier sur quelqu'un",
+                "Prendre de grandes respirations et demander un moment",
+                "Casser des objets",
+                "Envoyer des textos en colère"
+              ],
+              "correct": 1,
+              "feedback_en": "Deep breathing and taking space are healthy ways to manage anger.",
+              "feedback_fr": "La respiration profonde et prendre du recul sont des moyens sains de gérer la colère."
+            },
+            {
+              "question_en": "What should you say if you need space during an argument?",
+              "question_fr": "Que devriez-vous dire si vous avez besoin d'espace pendant une dispute ?",
+              "options_en": [
+                "Shut up! I'm done!",
+                "I'm feeling frustrated. Can we take 10 minutes and continue then?",
+                "Fine, whatever",
+                "*storms out silently*"
+              ],
+              "options_fr": [
+                "Tais-toi ! J'en ai fini !",
+                "Je me sens frustré. Peut-on prendre 10 minutes et continuer ensuite ?",
+                "Très bien, peu importe",
+                "*sort en trombe silencieusement*"
+              ],
+              "correct": 1,
+              "feedback_en": "Asking for a break calmly is much more effective than storming out.",
+              "feedback_fr": "Demander une pause calmement est beaucoup plus efficace que de partir en trombe."
+            },
+            {
+              "question_en": "Why is reacting immediately often bad?",
+              "question_fr": "Pourquoi réagir immédiatement est-il souvent mauvais ?",
+              "options_en": [
+                "It's always wrong to show anger",
+                "Your thinking brain gets overridden by your emotional brain",
+                "People won't like you",
+                "It takes too much energy"
+              ],
+              "options_fr": [
+                "C'est toujours mal de montrer de la colère",
+                "Votre cerveau pensant est submergé par votre cerveau émotionnel",
+                "Les gens ne vous aimeront pas",
+                "Cela prend trop d'énergie"
+              ],
+              "correct": 1,
+              "feedback_en": "When you're angry, your amygdala hijacks your prefrontal cortex. Pausing lets your thinking brain come back online.",
+              "feedback_fr": "Quand vous êtes en colère, votre amygdale prend le contrôle de votre cortex préfrontal. Faire une pause permet à votre cerveau pensant de revenir en ligne."
+            }
+          ]
+        },
+        {
+          "id": "eq_104",
+          "title_en": "Building Empathy",
+          "title_fr": "Développer l'Empathie",
+          "content_en": "Empathy is the ability to understand and share another person's feelings. It's the #1 relationship skill and predicts success in both personal and professional life better than IQ. Empathy says 'I hear you' not 'I know better' - it's about being present with someone's experience rather than trying to fix it.\n\nTo build empathy, practice active listening without interrupting or judging. Validate their feelings by saying things like 'That makes sense you'd feel that way given what happened.' Don't jump to problem-solving unless asked - often people just need to feel heard. Sometimes the most empathetic response is simply being present and saying 'I'm here with you' rather than offering solutions or advice.",
+          "content_fr": "L'empathie est la capacité de comprendre et de partager les sentiments d'une autre personne. C'est la compétence relationnelle numéro un et prédit mieux le succès dans la vie personnelle et professionnelle que le QI. L'empathie dit 'Je t'entends' pas 'Je sais mieux' - il s'agit d'être présent avec l'expérience de quelqu'un plutôt que d'essayer de la réparer.\n\nPour développer l'empathie, pratiquez l'écoute active sans interrompre ni juger. Validez leurs sentiments en disant des choses comme 'C'est compréhensible que tu te sentes comme ça compte tenu de ce qui s'est passé.' Ne sautez pas sur la résolution de problèmes à moins qu'on vous le demande - souvent, les gens ont juste besoin de se sentir entendus. Parfois, la réponse la plus empathique est simplement d'être présent et de dire 'Je suis là avec toi' plutôt que d'offrir des solutions ou des conseils.",
+          "key_points_en": [
+            "Listen without interrupting or judging",
+            "Validate feelings: 'That makes sense you'd feel that way'",
+            "Don't problem-solve unless asked",
+            "Sometimes just being present is enough"
+          ],
+          "key_points_fr": [
+            "Écoutez sans interrompre ni juger",
+            "Validez les sentiments : 'C'est compréhensible que vous vous sentiez comme ça'",
+            "Ne résolvez pas les problèmes à moins qu'on vous le demande",
+            "Parfois, être simplement présent suffit"
+          ],
+          "examples": [
+            {
+              "bad_en": "At least you have a job! Some people are starving. You should be grateful.",
+              "bad_fr": "Au moins tu as un travail ! Certaines personnes meurent de faim. Tu devrais être reconnaissant.",
+              "good_en": "That sounds really difficult. I'm here for you if you want to talk about it.",
+              "good_fr": "Cela semble vraiment difficile. Je suis là pour toi si tu veux en parler."
+            },
+            {
+              "bad_en": "You'll get over it. It's not that big of a deal. Stop being so dramatic.",
+              "bad_fr": "Tu t'en remettras. Ce n'est pas si grave. Arrête d'être si dramatique.",
+              "good_en": "I can see why you'd be upset. That makes sense given what happened. Want to talk more about it?",
+              "good_fr": "Je comprends pourquoi tu es contrarié. Cela a du sens compte tenu de ce qui s'est passé. Tu veux en parler davantage ?"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is empathy?",
+              "question_fr": "Qu'est-ce que l'empathie ?",
+              "options_en": [
+                "Feeling sorry for someone",
+                "Understanding and sharing another person's feelings",
+                "Solving someone's problems",
+                "Giving advice"
+              ],
+              "options_fr": [
+                "Avoir pitié de quelqu'un",
+                "Comprendre et partager les sentiments d'une autre personne",
+                "Résoudre les problèmes de quelqu'un",
+                "Donner des conseils"
+              ],
+              "correct": 1,
+              "feedback_en": "Empathy is understanding and sharing another person's feelings, not just feeling sorry for them.",
+              "feedback_fr": "L'empathie consiste à comprendre et à partager les sentiments d'une autre personne, pas seulement à avoir pitié d'elle."
+            },
+            {
+              "question_en": "Which response shows empathy?",
+              "question_fr": "Quelle réponse montre de l'empathie ?",
+              "options_en": [
+                "That's nothing, I've had worse",
+                "You should be grateful for what you have",
+                "That sounds really hard. I'm here for you.",
+                "Just get over it already"
+              ],
+              "options_fr": [
+                "Ce n'est rien, j'ai vécu pire",
+                "Tu devrais être reconnaissant pour ce que tu as",
+                "Cela semble vraiment difficile. Je suis là pour toi.",
+                "Passe à autre chose maintenant"
+              ],
+              "correct": 2,
+              "feedback_en": "Validating someone's struggle and offering presence is empathetic.",
+              "feedback_fr": "Valider la lutte de quelqu'un et offrir sa présence est empathique."
+            },
+            {
+              "question_en": "What should you avoid when being empathetic?",
+              "question_fr": "Que devriez-vous éviter lorsque vous êtes empathique ?",
+              "options_en": [
+                "Listening quietly",
+                "Asking questions to understand",
+                "Immediately giving advice or solutions",
+                "Being present"
+              ],
+              "options_fr": [
+                "Écouter tranquillement",
+                "Poser des questions pour comprendre",
+                "Donner immédiatement des conseils ou des solutions",
+                "Être présent"
+              ],
+              "correct": 2,
+              "feedback_en": "Don't jump to problem-solving unless asked. Often people just want to be heard.",
+              "feedback_fr": "Ne sautez pas sur la résolution de problèmes à moins qu'on vous le demande. Souvent, les gens veulent juste être entendus."
+            },
+            {
+              "question_en": "What does validation mean?",
+              "question_fr": "Que signifie la validation ?",
+              "options_en": [
+                "Agreeing with everything they say",
+                "Showing that their feelings make sense given the situation",
+                "Telling them they're wrong",
+                "Ignoring their feelings"
+              ],
+              "options_fr": [
+                "Être d'accord avec tout ce qu'ils disent",
+                "Montrer que leurs sentiments ont du sens compte tenu de la situation",
+                "Leur dire qu'ils ont tort",
+                "Ignorer leurs sentiments"
+              ],
+              "correct": 1,
+              "feedback_en": "Validation means showing someone that their feelings are understandable, not necessarily that you agree.",
+              "feedback_fr": "La validation signifie montrer à quelqu'un que ses sentiments sont compréhensibles, pas nécessairement que vous êtes d'accord."
+            },
+            {
+              "question_en": "Which is the most empathetic response to 'I'm so stressed about this deadline'?",
+              "question_fr": "Quelle est la réponse la plus empathique à 'Je suis tellement stressé par cette échéance' ?",
+              "options_en": [
+                "Just work harder and stop complaining",
+                "Everyone is stressed, that's life",
+                "That sounds really stressful. Want to talk about what's overwhelming you?",
+                "You should have started earlier"
+              ],
+              "options_fr": [
+                "Travaille plus fort et arrête de te plaindre",
+                "Tout le monde est stressé, c'est la vie",
+                "Cela semble vraiment stressant. Tu veux parler de ce qui te submerge ?",
+                "Tu aurais dû commencer plus tôt"
+              ],
+              "correct": 2,
+              "feedback_en": "Validating their stress and offering to listen is empathetic.",
+              "feedback_fr": "Valider leur stress et offrir d'écouter est empathique."
+            }
+          ]
+        },
+        {
+          "id": "eq_105",
+          "title_en": "Handling Criticism Gracefully",
+          "title_fr": "Recevoir les Critiques avec Grâce",
+          "content_en": "Criticism triggers our brain's threat response - it literally feels like a physical attack. Learning to receive feedback gracefully is a superpower that leads to faster growth and better relationships. The key is to pause before responding, even when every fiber of your being wants to get defensive.\n\nListen fully before explaining your side, and look for the grain of truth in every critique. Even poorly delivered feedback usually contains something you can learn from. Thank the person for their feedback (even when it's hard), because they took a risk to help you improve. Remember that feedback is about your behavior, not your identity - 'I made a mistake' vs 'I am a mistake' makes all the difference.",
+          "content_fr": "La critique déclenche la réponse de menace de notre cerveau - elle semble littéralement comme une attaque physique. Apprendre à recevoir des commentaires avec grâce est un superpouvoir qui mène à une croissance plus rapide et à de meilleures relations. La clé est de faire une pause avant de répondre, même quand chaque fibre de votre être veut se défendre.\n\nÉcoutez complètement avant d'expliquer votre position, et cherchez le grain de vérité dans chaque critique. Même les commentaires mal livrés contiennent généralement quelque chose que vous pouvez apprendre. Remerciez la personne pour ses commentaires (même quand c'est difficile), car elle a pris un risque pour vous aider à vous améliorer. Rappelez-vous que le feedback concerne votre comportement, pas votre identité - 'J'ai fait une erreur' vs 'Je suis une erreur' fait toute la différence.",
+          "key_points_en": [
+            "Pause before responding (don't get defensive)",
+            "Listen fully before explaining your side",
+            "Look for the grain of truth in criticism",
+            "Thank them for feedback (even when it's hard)"
+          ],
+          "key_points_fr": [
+            "Faites une pause avant de répondre (ne soyez pas défensif)",
+            "Écoutez complètement avant d'expliquer votre position",
+            "Cherchez le grain de vérité dans la critique",
+            "Remerciez-les pour les commentaires (même quand c'est difficile)"
+          ],
+          "examples": [
+            {
+              "bad_en": "That's not true! You're wrong about me! You don't know what you're talking about!",
+              "bad_fr": "Ce n'est pas vrai ! Tu as tort à mon sujet ! Tu ne sais pas de quoi tu parles !",
+              "good_en": "Thank you for telling me. Can you give me a specific example of what you mean so I can understand better?",
+              "good_fr": "Merci de me le dire. Pouvez-vous me donner un exemple précis de ce que vous voulez dire pour que je puisse mieux comprendre ?"
+            },
+            {
+              "bad_en": "*silence* (walks away angry and upset)",
+              "bad_fr": "*silence* (part en colère et contrarié)",
+              "good_en": "I appreciate you sharing that with me. Let me take some time to think about what you said.",
+              "good_fr": "J'apprécie que vous ayez partagé cela avec moi. Laissez-moi prendre le temps de réfléchir à ce que vous avez dit."
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What should you do first when receiving criticism?",
+              "question_fr": "Que devriez-vous faire d'abord lorsque vous recevez une critique ?",
+              "options_en": [
+                "Get defensive immediately",
+                "Pause and listen fully before responding",
+                "Criticize them back",
+                "Walk away"
+              ],
+              "options_fr": [
+                "Devenir défensif immédiatement",
+                "Faire une pause et écouter complètement avant de répondre",
+                "Les critiquer en retour",
+                "Partir"
+              ],
+              "correct": 1,
+              "feedback_en": "Pausing and listening first allows you to hear the feedback without reacting defensively.",
+              "feedback_fr": "Faire une pause et écouter d'abord vous permet d'entendre les commentaires sans réagir défensivement."
+            },
+            {
+              "question_en": "Why does criticism trigger a strong response?",
+              "question_fr": "Pourquoi la critique déclenche-t-elle une réponse forte ?",
+              "options_en": [
+                "Because it's always unfair",
+                "Because our brain sees it as a threat",
+                "Because people are too sensitive",
+                "Because criticism is always bad"
+              ],
+              "options_fr": [
+                "Parce que c'est toujours injuste",
+                "Parce que notre cerveau le voit comme une menace",
+                "Parce que les gens sont trop sensibles",
+                "Parce que la critique est toujours mauvaise"
+              ],
+              "correct": 1,
+              "feedback_en": "Our brain processes criticism as a social threat, triggering a fight-or-flight response.",
+              "feedback_fr": "Notre cerveau traite la critique comme une menace sociale, déclenchant une réponse de combat ou de fuite."
+            },
+            {
+              "question_en": "Which is the most growth-minded response to feedback?",
+              "question_fr": "Quelle est la réponse la plus axée sur la croissance face aux commentaires ?",
+              "options_en": [
+                "You're wrong about me",
+                "Thank you for the feedback. Can you give me a specific example?",
+                "That's not fair",
+                "I don't care what you think"
+              ],
+              "options_fr": [
+                "Tu as tort à mon sujet",
+                "Merci pour les commentaires. Pouvez-vous me donner un exemple précis ?",
+                "Ce n'est pas juste",
+                "Je me fiche de ce que tu penses"
+              ],
+              "correct": 1,
+              "feedback_en": "Thanking someone and asking for specifics shows a growth mindset.",
+              "feedback_fr": "Remercier quelqu'un et demander des précisions montre un état d'esprit de croissance."
+            },
+            {
+              "question_en": "What should you look for in criticism?",
+              "question_fr": "Que devriez-vous rechercher dans une critique ?",
+              "options_en": [
+                "Reasons to be angry",
+                "The grain of truth that can help you improve",
+                "Ways to prove them wrong",
+                "Nothing, ignore it"
+              ],
+              "options_fr": [
+                "Des raisons d'être en colère",
+                "Le grain de vérité qui peut vous aider à vous améliorer",
+                "Des moyens de prouver qu'ils ont tort",
+                "Rien, l'ignorer"
+              ],
+              "correct": 1,
+              "feedback_en": "Even poorly delivered criticism often contains a kernel of truth you can learn from.",
+              "feedback_fr": "Même les critiques mal livrées contiennent souvent un noyau de vérité dont vous pouvez apprendre."
+            },
+            {
+              "question_en": "How should you respond to unfair criticism?",
+              "question_fr": "Comment devriez-vous répondre à une critique injuste ?",
+              "options_en": [
+                "Yell at them",
+                "Stay calm, listen, then share your perspective respectfully",
+                "Cry and walk away",
+                "Get revenge later"
+              ],
+              "options_fr": [
+                "Leur crier dessus",
+                "Rester calme, écouter, puis partager votre perspective respectueusement",
+                "Pleurer et partir",
+                "Se venger plus tard"
+              ],
+              "correct": 1,
+              "feedback_en": "Staying calm and sharing your perspective respectfully is the most effective response.",
+              "feedback_fr": "Rester calme et partager votre perspective respectueusement est la réponse la plus efficace."
+            }
+          ]
+        },
+        {
+          "id": "eq_106",
+          "title_en": "Reading Body Language",
+          "title_fr": "Lire le Langage Corporel",
+          "content_en": "Did you know that 93% of communication is non-verbal? That means only 7% of your message comes from your actual words. Learning to read body language helps you understand what people really feel, often before they say it aloud. This skill is invaluable in both personal and professional settings.\n\nKey signals to watch for: crossed arms often indicate defensiveness or being closed off; avoiding eye contact can signal discomfort, nervousness, or dishonesty; leaning in shows interest and engagement; and mirroring (matching someone's posture) usually indicates rapport and connection. Pay attention to clusters of signals rather than single gestures - context matters enormously when interpreting body language.",
+          "content_fr": "Saviez-vous que 93 % de la communication est non verbale ? Cela signifie que seulement 7 % de votre message provient de vos mots réels. Apprendre à lire le langage corporel vous aide à comprendre ce que les gens ressentent vraiment, souvent avant qu'ils ne le disent à voix haute. Cette compétence est inestimable dans les contextes personnels et professionnels.\n\nSignaux clés à surveiller : les bras croisés indiquent souvent une défensive ou un repli sur soi ; éviter le contact visuel peut signaler un inconfort, de la nervosité ou de la malhonnêteté ; se pencher montre de l'intérêt et de l'engagement ; et le miroir (copier la posture de quelqu'un) indique généralement un rapport et une connexion. Faites attention aux grappes de signaux plutôt qu'aux gestes isolés - le contexte compte énormément lors de l'interprétation du langage corporel.",
+          "key_points_en": [
+            "Crossed arms = defensive or closed off",
+            "Avoiding eye contact = discomfort or dishonesty",
+            "Leaning in = interest and engagement",
+            "Mirroring = rapport and connection"
+          ],
+          "key_points_fr": [
+            "Bras croisés = défensif ou fermé",
+            "Éviter le contact visuel = inconfort ou malhonnêteté",
+            "Se pencher = intérêt et engagement",
+            "Miroir = rapport et connexion"
+          ],
+          "examples": [
+            {
+              "bad_en": "Ignoring body language signs and continuing to talk when they're clearly disengaged",
+              "bad_fr": "Ignorer les signes de langage corporel et continuer à parler quand ils sont clairement désengagés",
+              "good_en": "Noticing someone seems uncomfortable and asking 'Is everything okay?' or wrapping up the conversation",
+              "good_fr": "Remarquer que quelqu'un semble mal à l'aise et demander 'Est-ce que tout va bien ?' ou conclure la conversation"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What do crossed arms typically signal?",
+              "question_fr": "Que signifient généralement les bras croisés ?",
+              "options_en": [
+                "Interest",
+                "Defensiveness or being closed off",
+                "Happiness",
+                "Excitement"
+              ],
+              "options_fr": [
+                "Intérêt",
+                "Défensive ou repli sur soi",
+                "Bonheur",
+                "Excitation"
+              ],
+              "correct": 1,
+              "feedback_en": "Crossed arms often indicate defensiveness, discomfort, or being closed off.",
+              "feedback_fr": "Les bras croisés indiquent souvent une défensive, un inconfort ou un repli sur soi."
+            },
+            {
+              "question_en": "What does leaning in during conversation usually mean?",
+              "question_fr": "Que signifie généralement se pencher pendant une conversation ?",
+              "options_en": [
+                "Disinterest",
+                "Boredom",
+                "Interest and engagement",
+                "Wanting to leave"
+              ],
+              "options_fr": [
+                "Désintérêt",
+                "Ennui",
+                "Intérêt et engagement",
+                "Vouloir partir"
+              ],
+              "correct": 2,
+              "feedback_en": "Leaning in shows interest and engagement in the conversation.",
+              "feedback_fr": "Se pencher montre de l'intérêt et de l'engagement dans la conversation."
+            },
+            {
+              "question_en": "What percentage of communication is non-verbal?",
+              "question_fr": "Quel pourcentage de la communication est non verbal ?",
+              "options_en": [
+                "50%",
+                "70%",
+                "93%",
+                "100%"
+              ],
+              "options_fr": [
+                "50%",
+                "70%",
+                "93%",
+                "100%"
+              ],
+              "correct": 3,
+              "feedback_en": "93% of communication is non-verbal - body language, tone, and facial expressions.",
+              "feedback_fr": "93 % de la communication est non verbale - langage corporel, ton et expressions faciales."
+            },
+            {
+              "question_en": "What might avoiding eye contact indicate?",
+              "question_fr": "Que peut indiquer le fait d'éviter le contact visuel ?",
+              "options_en": [
+                "Confidence",
+                "Comfort",
+                "Discomfort, nervousness, or dishonesty",
+                "Interest"
+              ],
+              "options_fr": [
+                "Confiance",
+                "Confort",
+                "Inconfort, nervosité ou malhonnêteté",
+                "Intérêt"
+              ],
+              "correct": 2,
+              "feedback_en": "Avoiding eye contact can indicate discomfort, nervousness, social anxiety, or dishonesty.",
+              "feedback_fr": "Éviter le contact visuel peut indiquer un inconfort, de la nervosité, de l'anxiété sociale ou de la malhonnêteté."
+            },
+            {
+              "question_en": "What is mirroring in body language?",
+              "question_fr": "Qu'est-ce que le miroir dans le langage corporel ?",
+              "options_en": [
+                "Copying someone's reflection exactly",
+                "Matching someone's posture and gestures showing rapport",
+                "Avoiding someone's gaze",
+                "Standing far away from someone"
+              ],
+              "options_fr": [
+                "Copier exactement le reflet de quelqu'un",
+                "Correspondre à la posture et aux gestes de quelqu'un montrant un rapport",
+                "Éviter le regard de quelqu'un",
+                "Se tenir loin de quelqu'un"
+              ],
+              "correct": 1,
+              "feedback_en": "Mirroring is subconsciously matching someone's body language, which indicates rapport and connection.",
+              "feedback_fr": "Le miroir consiste à correspondre inconsciemment au langage corporel de quelqu'un, ce qui indique un rapport et une connexion."
+            }
+          ]
+        },
+        {
+          "id": "eq_107",
+          "title_en": "Overcoming Jealousy",
+          "title_fr": "Surmonter la Jalousie",
+          "content_en": "Jealousy stems from insecurity or fear of loss - it's a normal human emotion that everyone experiences. Instead of acting on jealousy, which usually damages relationships, use it as valuable information about what you truly value and what you're afraid of losing. This reframe transforms jealousy from a destructive force into a guide for personal growth.\n\nWhen you feel jealous, pause and ask yourself: 'What am I afraid of losing? What does this say about what I value?' Then, instead of resenting the person you're jealous of, celebrate their success and ask what you can learn from them. Their win isn't your loss - other people's success does not diminish your own potential. Focus on your own growth journey rather than comparing yourself to others.",
+          "content_fr": "La jalousie provient de l'insécurité ou de la peur de la perte - c'est une émotion humaine normale que tout le monde ressent. Au lieu d'agir sur la jalousie, ce qui endommage généralement les relations, utilisez-la comme information précieuse sur ce que vous valorisez vraiment et ce que vous craignez de perdre. Cette reformulation transforme la jalousie d'une force destructrice en un guide pour la croissance personnelle.\n\nQuand vous ressentez de la jalousie, faites une pause et demandez-vous : 'Qu'est-ce que j'ai peur de perdre ? Qu'est-ce que cela dit sur ce que je valorise ?' Ensuite, au lieu de ressentir du ressentiment envers la personne dont vous êtes jaloux, célébrez son succès et demandez-vous ce que vous pouvez apprendre d'elle. Leur victoire n'est pas votre défaite - le succès des autres ne diminue pas votre propre potentiel. Concentrez-vous sur votre propre parcours de croissance plutôt que de vous comparer aux autres.",
+          "key_points_en": [
+            "Name the jealousy without shame",
+            "Ask: 'What am I afraid of losing?'",
+            "Celebrate others' success - their win isn't your loss",
+            "Focus on your own growth, not comparison"
+          ],
+          "key_points_fr": [
+            "Nommez la jalousie sans honte",
+            "Demandez : 'Qu'est-ce que j'ai peur de perdre ?'",
+            "Célébrez le succès des autres - leur victoire n'est pas votre défaite",
+            "Concentrez-vous sur votre propre croissance, pas sur la comparaison"
+          ],
+          "examples": [
+            {
+              "bad_en": "Sabotaging the person you're jealous of or spreading rumors about them",
+              "bad_fr": "Saboter la personne dont vous êtes jaloux ou répandre des rumeurs sur elle",
+              "good_en": "I notice I'm feeling jealous right now. That's interesting - what can I learn from their success to apply to my own journey?",
+              "good_fr": "Je remarque que je me sens jaloux en ce moment. C'est intéressant - qu'est-ce que je peux apprendre de leur succès à appliquer à mon propre parcours ?"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is the healthiest first step when feeling jealous?",
+              "question_fr": "Quelle est la première étape la plus saine lorsque vous vous sentez jaloux ?",
+              "options_en": [
+                "Act on it immediately",
+                "Name the jealousy without shame and get curious about it",
+                "Ignore it completely",
+                "Get revenge"
+              ],
+              "options_fr": [
+                "Agir immédiatement",
+                "Nommer la jalousie sans honte et être curieux à son sujet",
+                "L'ignorer complètement",
+                "Se venger"
+              ],
+              "correct": 1,
+              "feedback_en": "Naming your jealousy and getting curious about it is the healthiest first step.",
+              "feedback_fr": "Nommer votre jalousie et être curieux à son sujet est la première étape la plus saine."
+            },
+            {
+              "question_en": "What question should you ask yourself when jealous?",
+              "question_fr": "Quelle question devriez-vous vous poser lorsque vous êtes jaloux ?",
+              "options_en": [
+                "How can I hurt them?",
+                "What am I afraid of losing?",
+                "Why are they so lucky?",
+                "Who can I blame?"
+              ],
+              "options_fr": [
+                "Comment puis-je leur faire du mal ?",
+                "Qu'est-ce que j'ai peur de perdre ?",
+                "Pourquoi sont-ils si chanceux ?",
+                "Qui puis-je blâmer ?"
+              ],
+              "correct": 1,
+              "feedback_en": "Ask 'What am I afraid of losing?' to understand the root of your jealousy.",
+              "feedback_fr": "Demandez 'Qu'est-ce que j'ai peur de perdre ?' pour comprendre la racine de votre jalousie."
+            },
+            {
+              "question_en": "Is jealousy a sign of something wrong with you?",
+              "question_fr": "La jalousie est-elle un signe que quelque chose ne va pas chez vous ?",
+              "options_en": [
+                "Yes, it means you're a bad person",
+                "No, it's a normal emotion that provides information about what you value",
+                "Only if you act on it",
+                "Always yes"
+              ],
+              "options_fr": [
+                "Oui, cela signifie que vous êtes une mauvaise personne",
+                "Non, c'est une émotion normale qui fournit des informations sur ce que vous valorisez",
+                "Seulement si vous agissez en conséquence",
+                "Toujours oui"
+              ],
+              "correct": 1,
+              "feedback_en": "Jealousy is normal and provides information about what you value and fear losing.",
+              "feedback_fr": "La jalousie est normale et fournit des informations sur ce que vous valorisez et craignez de perdre."
+            },
+            {
+              "question_en": "What's the best way to handle jealousy about a friend's success?",
+              "question_fr": "Quelle est la meilleure façon de gérer la jalousie face au succès d'un ami ?",
+              "options_en": [
+                "Stop being friends with them",
+                "Celebrate their success and ask what you can learn from them",
+                "Spread rumors about them",
+                "Ignore them completely"
+              ],
+              "options_fr": [
+                "Arrêter d'être ami avec eux",
+                "Célébrer leur succès et demander ce que vous pouvez apprendre d'eux",
+                "Répandre des rumeurs sur eux",
+                "Les ignorer complètement"
+              ],
+              "correct": 1,
+              "feedback_en": "Celebrating others' success and learning from them turns jealousy into motivation.",
+              "feedback_fr": "Célébrer le succès des autres et apprendre d'eux transforme la jalousie en motivation."
+            },
+            {
+              "question_en": "What is the root cause of most jealousy?",
+              "question_fr": "Quelle est la cause profonde de la plupart des jalousies ?",
+              "options_en": [
+                "Anger at others",
+                "Insecurity or fear of loss",
+                "Greed",
+                "Competitiveness"
+              ],
+              "options_fr": [
+                "Colère envers les autres",
+                "Insécurité ou peur de la perte",
+                "Avarice",
+                "Compétitivité"
+              ],
+              "correct": 1,
+              "feedback_en": "Most jealousy stems from insecurity, low self-worth, or fear of losing something important.",
+              "feedback_fr": "La plupart des jalousies proviennent de l'insécurité, d'une faible estime de soi ou de la peur de perdre quelque chose d'important."
+            }
+          ]
+        },
+        {
+          "id": "eq_108",
+          "title_en": "The Art of Apologizing",
+          "title_fr": "L'Art de s'Excuser",
+          "content_en": "A genuine apology has four essential parts: acknowledgement of harm, acceptance of responsibility, expression of regret, and commitment to change. Notice what's NOT there - no 'if,' no 'but,' no excuses. A real apology doesn't make conditions or justifications; it takes full ownership of the impact of your actions.\n\nFocus on the impact on the other person, not your intention. 'I'm sorry you were offended' is not an apology - it blames the other person for their reaction. Instead say 'I was wrong to say that. I can see it hurt you. Here's what I'll do differently going forward.' Then, most importantly, change your behavior. An apology without changed behavior is manipulation. Your actions after saying sorry matter more than the words themselves.",
+          "content_fr": "Des excuses sincères ont quatre parties essentielles : reconnaissance du préjudice, acceptation de la responsabilité, expression du regret et engagement à changer. Remarquez ce qui n'est PAS là - pas de 'si', pas de 'mais', pas d'excuses. De vraies excuses ne font pas de conditions ni de justifications ; elles assument pleinement l'impact de vos actions.\n\nConcentrez-vous sur l'impact sur l'autre personne, pas sur votre intention. 'Je suis désolé si vous avez été offensé' n'est pas des excuses - cela blâme l'autre personne pour sa réaction. Dites plutôt 'J'avais tort de dire cela. Je vois que cela vous a blessé. Voici ce que je vais faire différemment à l'avenir.' Ensuite, le plus important, changez votre comportement. Des excuses sans changement de comportement sont de la manipulation. Vos actions après vous être excusé comptent plus que les mots eux-mêmes.",
+          "key_points_en": [
+            "No 'if' or 'but' in an apology",
+            "Focus on impact, not intent",
+            "Ask how to make it right",
+            "Change behavior afterward"
+          ],
+          "key_points_fr": [
+            "Pas de 'si' ou de 'mais' dans des excuses",
+            "Concentrez-vous sur l'impact, pas sur l'intention",
+            "Demandez comment arranger les choses",
+            "Changez votre comportement par la suite"
+          ],
+          "examples": [
+            {
+              "bad_en": "I'm sorry if you were offended - that's not what I meant.",
+              "bad_fr": "Je suis désolé si vous avez été offensé - ce n'est pas ce que je voulais dire.",
+              "good_en": "I was wrong to say that. I can see it hurt you. I won't make comments like that again.",
+              "good_fr": "J'avais tort de dire cela. Je vois que cela vous a blessé. Je ne ferai plus ce genre de commentaires."
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What's wrong with 'I'm sorry if you were offended'?",
+              "question_fr": "Qu'est-ce qui ne va pas avec 'Je suis désolé si vous avez été offensé' ?",
+              "options_en": [
+                "It's too long",
+                "The word 'if' makes it a non-apology that doesn't accept responsibility",
+                "It's too direct",
+                "Nothing, it's perfect"
+              ],
+              "options_fr": [
+                "C'est trop long",
+                "Le mot 'si' en fait une non-excuse qui n'accepte pas la responsabilité",
+                "C'est trop direct",
+                "Rien, c'est parfait"
+              ],
+              "correct": 1,
+              "feedback_en": "The word 'if' suggests the problem is their reaction, not your action. A real apology takes responsibility.",
+              "feedback_fr": "Le mot 'si' suggère que le problème est leur réaction, pas votre action. De vraies excuses assument la responsabilité."
+            },
+            {
+              "question_en": "What are the 4 parts of a real apology?",
+              "question_fr": "Quelles sont les 4 parties d'excuses sincères ?",
+              "options_en": [
+                "Sorry, my bad, oops, whatever",
+                "Acknowledge harm, accept responsibility, express regret, commit to change",
+                "Blame, deny, attack, retreat",
+                "Sorry, but, if, maybe"
+              ],
+              "options_fr": [
+                "Désolé, ma faute, oops, peu importe",
+                "Reconnaître le préjudice, accepter la responsabilité, exprimer des regrets, s'engager à changer",
+                "Blâmer, nier, attaquer, se retirer",
+                "Désolé, mais, si, peut-être"
+              ],
+              "correct": 1,
+              "feedback_en": "A real apology acknowledges harm, accepts responsibility, expresses regret, and commits to change.",
+              "feedback_fr": "De vraies excuses reconnaissent le préjudice, acceptent la responsabilité, expriment des regrets et s'engagent à changer."
+            },
+            {
+              "question_en": "What should you avoid in an apology?",
+              "question_fr": "Que devriez-vous éviter dans des excuses ?",
+              "options_en": [
+                "Taking responsibility",
+                "Using the word 'but'",
+                "Committing to change",
+                "Acknowledging harm"
+              ],
+              "options_fr": [
+                "Assumer la responsabilité",
+                "Utiliser le mot 'mais'",
+                "S'engager à changer",
+                "Reconnaître le préjudice"
+              ],
+              "correct": 1,
+              "feedback_en": "The word 'but' negates everything before it. 'I'm sorry, but...' is not a real apology.",
+              "feedback_fr": "Le mot 'mais' annule tout ce qui précède. 'Je suis désolé, mais...' n'est pas de vraies excuses."
+            },
+            {
+              "question_en": "What should you focus on in an apology?",
+              "question_fr": "Sur quoi devriez-vous vous concentrer dans des excuses ?",
+              "options_en": [
+                "Your good intentions",
+                "Why they're too sensitive",
+                "The impact on the other person, not your intent",
+                "Making excuses"
+              ],
+              "options_fr": [
+                "Vos bonnes intentions",
+                "Pourquoi ils sont trop sensibles",
+                "L'impact sur l'autre personne, pas votre intention",
+                "Faire des excuses"
+              ],
+              "correct": 2,
+              "feedback_en": "Focus on the impact of your actions, not your intentions. Impact matters more than intent.",
+              "feedback_fr": "Concentrez-vous sur l'impact de vos actions, pas sur vos intentions. L'impact compte plus que l'intention."
+            },
+            {
+              "question_en": "What should you do after apologizing?",
+              "question_fr": "Que devriez-vous faire après vous être excusé ?",
+              "options_en": [
+                "Forget about it",
+                "Change your behavior to prevent it happening again",
+                "Keep apologizing repeatedly",
+                "Blame them for accepting the apology"
+              ],
+              "options_fr": [
+                "L'oublier",
+                "Changer votre comportement pour éviter que cela ne se reproduise",
+                "Continuer à s'excuser sans cesse",
+                "Les blâmer d'avoir accepté les excuses"
+              ],
+              "correct": 1,
+              "feedback_en": "An apology without changed behavior is manipulation. Show you mean it by changing.",
+              "feedback_fr": "Des excuses sans changement de comportement sont de la manipulation. Montrez que vous êtes sincère en changeant."
+            }
+          ]
+        },
+        {
+          "id": "eq_109",
+          "title_en": "Managing Social Anxiety",
+          "title_fr": "Gérer l'Anxiété Sociale",
+          "content_en": "Social anxiety is the fear of being judged, rejected, or embarrassed in social situations. The secret most people don't realize is that others are too worried about themselves to judge you harshly. This is called the 'spotlight effect' - we vastly overestimate how much others notice about us.\n\nTo manage social anxiety, focus outward instead of inward. Ask questions about others - people love talking about themselves, and it takes the pressure off you. Prepare 3 conversation starters before events so you're never stuck for words. Practice self-compassion and remember that nervousness is normal - even confident-looking people often feel anxious inside. Start with small, low-stakes social situations and gradually work up to more challenging ones. Every small success builds confidence for the next interaction.",
+          "content_fr": "L'anxiété sociale est la peur d'être jugé, rejeté ou embarrassé dans des situations sociales. Le secret que la plupart des gens ne réalisent pas est que les autres sont trop préoccupés par eux-mêmes pour vous juger sévèrement. C'est ce qu'on appelle 'l'effet projecteur' - nous surestimons énormément ce que les autres remarquent chez nous.\n\nPour gérer l'anxiété sociale, concentrez-vous vers l'extérieur plutôt que vers l'intérieur. Posez des questions sur les autres - les gens adorent parler d'eux-mêmes, et cela vous enlève la pression. Préparez 3 amorces de conversation avant les événements pour ne jamais être à court de mots. Pratiquez l'auto-compassion et rappelez-vous que la nervosité est normale - même les personnes qui semblent confiantes se sentent souvent anxieuses à l'intérieur. Commencez par de petites situations sociales à faible enjeu et augmentez progressivement vers des situations plus difficiles. Chaque petit succès construit la confiance pour la prochaine interaction.",
+          "key_points_en": [
+            "The spotlight effect: others notice less than you think",
+            "Focus outward: ask questions about others",
+            "Prepare conversation starters",
+            "Practice self-compassion"
+          ],
+          "key_points_fr": [
+            "L'effet projecteur : les autres remarquent moins que vous ne le pensez",
+            "Concentrez-vous vers l'extérieur : posez des questions sur les autres",
+            "Préparez des amorces de conversation",
+            "Pratiquez l'auto-compassion"
+          ],
+          "examples": [
+            {
+              "bad_en": "Avoiding social situations entirely because you're afraid of being judged",
+              "bad_fr": "Éviter complètement les situations sociales par peur d'être jugé",
+              "good_en": "I feel nervous, but I'll go for 30 minutes and see how it feels. I can always leave early if I need to.",
+              "good_fr": "Je me sens nerveux, mais je vais y aller pendant 30 minutes et voir ce que ça donne. Je peux toujours partir plus tôt si j'en ai besoin."
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is the spotlight effect?",
+              "question_fr": "Qu'est-ce que l'effet projecteur ?",
+              "options_en": [
+                "People actually are watching your every move",
+                "The tendency to overestimate how much others notice about us",
+                "A fear of bright lights",
+                "A type of anxiety medication"
+              ],
+              "options_fr": [
+                "Les gens regardent vraiment chacun de vos mouvements",
+                "La tendance à surestimer ce que les autres remarquent chez nous",
+                "Une peur des lumières vives",
+                "Un type de médicament contre l'anxiété"
+              ],
+              "correct": 1,
+              "feedback_en": "The spotlight effect is overestimating how much others notice our mistakes or appearance.",
+              "feedback_fr": "L'effet projecteur consiste à surestimer ce que les autres remarquent de nos erreurs ou de notre apparence."
+            },
+            {
+              "question_en": "What's a helpful strategy for social anxiety?",
+              "question_fr": "Quelle est une stratégie utile pour l'anxiété sociale ?",
+              "options_en": [
+                "Avoid all social situations",
+                "Focus outward by asking others questions about themselves",
+                "Drink alcohol to calm your nerves",
+                "Assume everyone is judging you"
+              ],
+              "options_fr": [
+                "Éviter toutes les situations sociales",
+                "Se concentrer vers l'extérieur en posant des questions aux autres sur eux-mêmes",
+                "Boire de l'alcool pour calmer vos nerfs",
+                "Supposer que tout le monde vous juge"
+              ],
+              "correct": 1,
+              "feedback_en": "Focusing outward on others reduces self-consciousness and anxiety.",
+              "feedback_fr": "Se concentrer vers l'extérieur sur les autres réduit la conscience de soi et l'anxiété."
+            },
+            {
+              "question_en": "What should you prepare before a social event?",
+              "question_fr": "Que devriez-vous préparer avant un événement social ?",
+              "options_en": [
+                "Excuses to leave early",
+                "3 conversation starters",
+                "Reasons to be angry",
+                "Nothing"
+              ],
+              "options_fr": [
+                "Des excuses pour partir tôt",
+                "3 amorces de conversation",
+                "Des raisons d'être en colère",
+                "Rien"
+              ],
+              "correct": 1,
+              "feedback_en": "Having 2-3 conversation starters ready reduces anxiety about what to say.",
+              "feedback_fr": "Avoir 2-3 amorces de conversation prêtes réduit l'anxiété sur quoi dire."
+            },
+            {
+              "question_en": "What's the best way to build social confidence?",
+              "question_fr": "Quelle est la meilleure façon de développer la confiance sociale ?",
+              "options_en": [
+                "Avoid all social situations forever",
+                "Gradually expose yourself to social situations, starting with small challenges",
+                "Wait until you feel 100% confident",
+                "Only talk to people online"
+              ],
+              "options_fr": [
+                "Éviter toutes les situations sociales pour toujours",
+                "S'exposer progressivement aux situations sociales, en commençant par de petits défis",
+                "Attendre de se sentir à 100 % confiant",
+                "Parler uniquement aux gens en ligne"
+              ],
+              "correct": 1,
+              "feedback_en": "Gradual exposure (starting with small social situations) builds confidence over time.",
+              "feedback_fr": "L'exposition progressive (en commençant par de petites situations sociales) construit la confiance avec le temps."
+            },
+            {
+              "question_en": "What is true about most people's judgment of you?",
+              "question_fr": "Qu'est-ce qui est vrai concernant le jugement de la plupart des gens sur vous ?",
+              "options_en": [
+                "They're constantly criticizing you",
+                "They're mostly worried about themselves and don't notice your anxiety",
+                "They're waiting for you to fail",
+                "They want you to feel embarrassed"
+              ],
+              "options_fr": [
+                "Ils vous critiquent constamment",
+                "Ils sont surtout préoccupés par eux-mêmes et ne remarquent pas votre anxiété",
+                "Ils attendent que vous échouiez",
+                "Ils veulent que vous vous sentiez embarrassé"
+              ],
+              "correct": 1,
+              "feedback_en": "Most people are focused on themselves and their own worries, not judging you.",
+              "feedback_fr": "La plupart des gens sont concentrés sur eux-mêmes et leurs propres inquiétudes, pas sur vous juger."
+            }
+          ]
+        },
+        {
+          "id": "eq_110",
+          "title_en": "Building Resilience",
+          "title_fr": "Développer la Résilience",
+          "content_en": "Resilience is the ability to bounce back from setbacks, adapt to difficult circumstances, and grow from challenges. It's not about avoiding failure - it's about learning from it. The most resilient people don't fail less; they just interpret failure differently. They see failure as data, not as an indictment of their identity.\n\nTo build resilience, focus on what you can control rather than what you can't. When something goes wrong, ask 'What can I learn from this?' and 'What's my next best step?' instead of 'Why me?' Build a support network of people who believe in you - resilience is not a solo endeavor. Practice gratitude even in hard times; research shows that grateful people are more resilient because they can find meaning in difficulty. Remember that setbacks are temporary and specific, not permanent and pervasive.",
+          "content_fr": "La résilience est la capacité de rebondir après des revers, de s'adapter à des circonstances difficiles et de grandir face aux défis. Il ne s'agit pas d'éviter l'échec - il s'agit d'en apprendre. Les personnes les plus résilientes n'échouent pas moins ; elles interprètent simplement l'échec différemment. Elles voient l'échec comme des données, pas comme une condamnation de leur identité.\n\nPour développer la résilience, concentrez-vous sur ce que vous pouvez contrôler plutôt que sur ce que vous ne pouvez pas. Quand quelque chose tourne mal, demandez 'Qu'est-ce que je peux apprendre de cela ?' et 'Quelle est ma prochaine meilleure étape ?' au lieu de 'Pourquoi moi ?' Construisez un réseau de soutien de personnes qui croient en vous - la résilience n'est pas une entreprise en solo. Pratiquez la gratitude même dans les moments difficiles ; la recherche montre que les personnes reconnaissantes sont plus résilientes parce qu'elles peuvent trouver un sens à la difficulté. Rappelez-vous que les revers sont temporaires et spécifiques, pas permanents et généralisés.",
+          "key_points_en": [
+            "Failure is data, not identity",
+            "Focus on what you can control",
+            "Build a support network",
+            "Practice gratitude even in hard times"
+          ],
+          "key_points_fr": [
+            "L'échec est des données, pas une identité",
+            "Concentrez-vous sur ce que vous pouvez contrôler",
+            "Construisez un réseau de soutien",
+            "Pratiquez la gratitude même dans les moments difficiles"
+          ],
+          "examples": [
+            {
+              "bad_en": "I failed, so I'm a failure. I'll never be good at anything.",
+              "bad_fr": "J'ai échoué, donc je suis un échec. Je ne serai jamais bon à rien.",
+              "good_en": "I failed at that specific thing. What can I learn from this experience to do better next time?",
+              "good_fr": "J'ai échoué à cette chose spécifique. Qu'est-ce que je peux apprendre de cette expérience pour mieux faire la prochaine fois ?"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is resilience?",
+              "question_fr": "Qu'est-ce que la résilience ?",
+              "options_en": [
+                "Never failing",
+                "Bouncing back from setbacks and learning from failure",
+                "Ignoring problems",
+                "Being happy all the time"
+              ],
+              "options_fr": [
+                "Ne jamais échouer",
+                "Rebondir après les revers et apprendre de l'échec",
+                "Ignorer les problèmes",
+                "Être heureux tout le temps"
+              ],
+              "correct": 1,
+              "feedback_en": "Resilience is bouncing back from setbacks and using them as learning opportunities.",
+              "feedback_fr": "La résilience consiste à rebondir après les revers et à les utiliser comme opportunités d'apprentissage."
+            },
+            {
+              "question_en": "What should you focus on after a failure?",
+              "question_fr": "Sur quoi devriez-vous vous concentrer après un échec ?",
+              "options_en": [
+                "What you could have done differently",
+                "Blaming others",
+                "Giving up",
+                "Feeling sorry for yourself"
+              ],
+              "options_fr": [
+                "Ce que vous auriez pu faire différemment",
+                "Blâmer les autres",
+                "Abandonner",
+                "Vous apitoyer sur votre sort"
+              ],
+              "correct": 0,
+              "feedback_en": "Focus on what you can learn and control going forward, not blame.",
+              "feedback_fr": "Concentrez-vous sur ce que vous pouvez apprendre et contrôler à l'avenir, pas sur le blâme."
+            },
+            {
+              "question_en": "What is the relationship between failure and resilience?",
+              "question_fr": "Quelle est la relation entre l'échec et la résilience ?",
+              "options_en": [
+                "Resilient people never fail",
+                "Failure builds resilience when you learn from it",
+                "Failure destroys resilience",
+                "They're unrelated"
+              ],
+              "options_fr": [
+                "Les personnes résilientes n'échouent jamais",
+                "L'échec construit la résilience quand on en apprend",
+                "L'échec détruit la résilience",
+                "Ils ne sont pas liés"
+              ],
+              "correct": 1,
+              "feedback_en": "Experiencing and learning from failure actually builds resilience over time.",
+              "feedback_fr": "Expérimenter et apprendre de l'échec construit en fait la résilience avec le temps."
+            },
+            {
+              "question_en": "What's a resilient mindset about failure?",
+              "question_fr": "Qu'est-ce qu'un état d'esprit résilient face à l'échec ?",
+              "options_en": [
+                "I'm a failure",
+                "I failed at this specific thing, and I can learn from it",
+                "Everyone is judging me",
+                "I'll never try again"
+              ],
+              "options_fr": [
+                "Je suis un échec",
+                "J'ai échoué à cette chose spécifique, et je peux en apprendre",
+                "Tout le monde me juge",
+                "Je n'essaierai plus jamais"
+              ],
+              "correct": 1,
+              "feedback_en": "Resilient people separate their identity from their failures. 'I failed' vs 'I am a failure'.",
+              "feedback_fr": "Les personnes résilientes séparent leur identité de leurs échecs. 'J'ai échoué' vs 'Je suis un échec'."
+            },
+            {
+              "question_en": "What helps build resilience?",
+              "question_fr": "Qu'est-ce qui aide à développer la résilience ?",
+              "options_en": [
+                "Isolating yourself",
+                "Building a support network of people who care about you",
+                "Never asking for help",
+                "Pretending everything is fine"
+              ],
+              "options_fr": [
+                "S'isoler",
+                "Construire un réseau de soutien de personnes qui se soucient de vous",
+                "Ne jamais demander d'aide",
+                "Prétendre que tout va bien"
+              ],
+              "correct": 1,
+              "feedback_en": "Having supportive relationships is one of the strongest predictors of resilience.",
+              "feedback_fr": "Avoir des relations de soutien est l'un des prédicteurs les plus forts de la résilience."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

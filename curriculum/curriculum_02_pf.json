@@ -1,0 +1,1253 @@
+{
+  "categories": [
+    {
+      "name": "Personal Finance",
+      "icon": "💰",
+      "description_en": "Take control of your money and build wealth",
+      "description_fr": "Prenez le contrôle de votre argent et construisez votre richesse",
+      "lessons": [
+        {
+          "id": "pf_101",
+          "title_en": "The 50/30/20 Budget Rule",
+          "title_fr": "La Règle Budgétaire 50/30/20",
+          "content_en": "The 50/30/20 rule is a simple, powerful way to budget your money created by Senator Elizabeth Warren. It helps you balance needs, wants, and savings without complicated spreadsheets. You allocate 50% of your after-tax income to needs, 30% to wants, and 20% to savings and debt repayment.\n\nThis rule works because it's flexible and realistic. Needs are essentials like rent, groceries, utilities, insurance, and minimum debt payments. Wants are nice-to-haves like dining out, streaming services, hobbies, and travel. Savings include emergency funds, retirement accounts, and extra debt payments. Following this rule helps you live within your means while still enjoying life and building future wealth. If your needs exceed 50%, look for ways to reduce housing costs or other essentials, or temporarily adjust the percentages until your situation improves.",
+          "content_fr": "La règle 50/30/20 est un moyen simple et puissant de budgétiser votre argent créé par la sénatrice Elizabeth Warren. Elle vous aide à équilibrer les besoins, les désirs et l'épargne sans feuilles de calcul compliquées. Vous allouez 50 % de votre revenu après impôt aux besoins, 30 % aux désirs et 20 % à l'épargne et au remboursement des dettes.\n\nCette règle fonctionne car elle est flexible et réaliste. Les besoins sont des éléments essentiels comme le loyer, l'épicerie, les services publics, l'assurance et les paiements minimums de la dette. Les désirs sont des éléments agréables comme les restaurants, les services de streaming, les loisirs et les voyages. L'épargne comprend les fonds d'urgence, les comptes de retraite et les paiements supplémentaires de la dette. Suivre cette règle vous aide à vivre selon vos moyens tout en profitant de la vie et en construisant votre richesse future. Si vos besoins dépassent 50 %, cherchez des moyens de réduire les coûts de logement ou d'autres essentiels, ou ajustez temporairement les pourcentages jusqu'à ce que votre situation s'améliore.",
+          "key_points_en": [
+            "50% NEEDS: Rent, food, utilities, insurance, minimum debt payments",
+            "30% WANTS: Dining out, entertainment, hobbies, travel",
+            "20% SAVINGS: Emergency fund, retirement, extra debt payments",
+            "Adjust percentages based on your situation and goals"
+          ],
+          "key_points_fr": [
+            "50% BESOINS : Loyer, nourriture, services publics, assurance, paiements minimums de la dette",
+            "30% DÉSIRS : Restaurants, divertissements, loisirs, voyages",
+            "20% ÉPARGNE : Fonds d'urgence, retraite, paiements supplémentaires de la dette",
+            "Ajustez les pourcentages en fonction de votre situation et de vos objectifs"
+          ],
+          "examples": [
+            {
+              "bad_en": "Spending your entire paycheck without any budget or savings plan",
+              "bad_fr": "Dépenser l'intégralité de votre chèque de paie sans aucun budget ou plan d'épargne",
+              "good_en": "From a $2,000 paycheck: $1,000 for needs (rent, food, utilities), $600 for wants (entertainment, dining out), and $400 for savings",
+              "good_fr": "Sur un salaire de 2 000 $ : 1 000 $ pour les besoins (loyer, nourriture, services publics), 600 $ pour les désirs (divertissements, restaurants) et 400 $ pour l'épargne"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "According to the 50/30/20 rule, what percentage should go to NEEDS?",
+              "question_fr": "Selon la règle 50/30/20, quel pourcentage devrait aller aux BESOINS ?",
+              "options_en": [
+                "30%",
+                "50%",
+                "20%",
+                "70%"
+              ],
+              "options_fr": [
+                "30%",
+                "50%",
+                "20%",
+                "70%"
+              ],
+              "correct": 1,
+              "feedback_en": "Correct! 50% of your income should go to needs like housing, food, and utilities.",
+              "feedback_fr": "Correct ! 50 % de vos revenus devraient aller aux besoins comme le logement, la nourriture et les services publics."
+            },
+            {
+              "question_en": "If you earn $3,000 per month, how much should go to savings?",
+              "question_fr": "Si vous gagnez 3 000 $ par mois, combien devrait aller à l'épargne ?",
+              "options_en": [
+                "$1,500",
+                "$900",
+                "$600",
+                "$300"
+              ],
+              "options_fr": [
+                "1 500 $",
+                "900 $",
+                "600 $",
+                "300 $"
+              ],
+              "correct": 1,
+              "feedback_en": "Correct! 20% of $3,000 = $600 for savings.",
+              "feedback_fr": "Correct ! 20 % de 3 000 $ = 600 $ pour l'épargne."
+            },
+            {
+              "question_en": "Which of these is considered a NEED?",
+              "question_fr": "Lequel de ces éléments est considéré comme un BESOIN ?",
+              "options_en": [
+                "Concert tickets",
+                "Rent payment",
+                "New video game",
+                "Designer handbag"
+              ],
+              "options_fr": [
+                "Billets de concert",
+                "Paiement du loyer",
+                "Nouveau jeu vidéo",
+                "Sac à main de créateur"
+              ],
+              "correct": 1,
+              "feedback_en": "Rent is a need (shelter). Entertainment and luxury items are wants.",
+              "feedback_fr": "Le loyer est un besoin (logement). Le divertissement et les articles de luxe sont des désirs."
+            },
+            {
+              "question_en": "What category does dining out fall into?",
+              "question_fr": "Dans quelle catégorie tombent les restaurants ?",
+              "options_en": [
+                "Needs",
+                "Savings",
+                "Wants",
+                "Emergency fund"
+              ],
+              "options_fr": [
+                "Besoins",
+                "Épargne",
+                "Désirs",
+                "Fonds d'urgence"
+              ],
+              "correct": 1,
+              "feedback_en": "Dining out is a want. Groceries at home would be a need.",
+              "feedback_fr": "Les restaurants sont un désir. L'épicerie à la maison serait un besoin."
+            },
+            {
+              "question_en": "If your needs exceed 50% of your income, what should you do?",
+              "question_fr": "Si vos besoins dépassent 50 % de vos revenus, que devriez-vous faire ?",
+              "options_en": [
+                "Ignore the rule completely",
+                "Reduce wants or find ways to lower needs (cheaper rent, etc.)",
+                "Stop saving entirely",
+                "Get a second job just for wants"
+              ],
+              "options_fr": [
+                "Ignorer complètement la règle",
+                "Réduire les désirs ou trouver des moyens de réduire les besoins (loyer moins cher, etc.)",
+                "Arrêter complètement d'épargner",
+                "Obtenir un deuxième emploi juste pour les désirs"
+              ],
+              "correct": 1,
+              "feedback_en": "Look for ways to reduce needs (cheaper apartment, lower utilities) or cut wants.",
+              "feedback_fr": "Cherchez des moyens de réduire les besoins (appartement moins cher, services publics moins élevés) ou de réduire les désirs."
+            }
+          ]
+        },
+        {
+          "id": "pf_102",
+          "title_en": "The Magic of Compound Interest",
+          "title_fr": "La Magie des Intérêts Composés",
+          "video_url": "/static/videos/compound_interest.mp4",
+          "content_en": "Compound interest is when your money earns interest, and then THAT interest earns interest. Albert Einstein called it 'the eighth wonder of the world' because of its incredible power to turn small, consistent savings into substantial wealth over time. A person who understands compound interest earns it; a person who doesn't pays it.\n\nHere's why starting early matters so much: A 20-year-old who invests $100 monthly until age 30 (just 10 years) and then stops will have MORE money at retirement than someone who starts at 30 and invests $100 monthly for 35 years! The early starter's money has decades to compound, while the late starter misses out on years of growth. The Rule of 72 helps you understand this: divide 72 by your annual return to see how many years it takes to double your money. At 8% return, your money doubles every 9 years.",
+          "content_fr": "Les intérêts composés, c'est quand votre argent gagne des intérêts, et que CES intérêts gagnent à leur tour des intérêts. Albert Einstein l'a appelé 'la huitième merveille du monde' en raison de son pouvoir incroyable de transformer de petites économies constantes en une richesse substantielle avec le temps. Une personne qui comprend les intérêts composés les gagne ; une personne qui ne les comprend pas les paie.\n\nVoici pourquoi commencer tôt est si important : Un jeune de 20 ans qui investit 100 $ par mois jusqu'à 30 ans (juste 10 ans) puis s'arrête aura PLUS d'argent à la retraite que quelqu'un qui commence à 30 ans et investit 100 $ par mois pendant 35 ans ! L'argent de celui qui commence tôt a des décennies pour composer, tandis que celui qui commence tard manque des années de croissance. La règle de 72 vous aide à comprendre cela : divisez 72 par votre rendement annuel pour voir combien d'années il faut pour doubler votre argent. À 8 % de rendement, votre argent double tous les 9 ans.",
+          "key_points_en": [
+            "Starting early is EVERYTHING - time is your biggest advantage",
+            "$100/month from age 20-30 grows to MORE than $100/month from 30-65",
+            "The Rule of 72: Divide 72 by interest rate to see years to double",
+            "Even small amounts grow significantly over long periods"
+          ],
+          "key_points_fr": [
+            "Commencer tôt est TRÈS important - le temps est votre plus grand avantage",
+            "100 $/mois de 20 à 30 ans donne PLUS que 100 $/mois de 30 à 65 ans",
+            "La règle de 72 : Divisez 72 par le taux d'intérêt pour voir les années pour doubler",
+            "Même de petites sommes augmentent considérablement sur de longues périodes"
+          ],
+          "examples": [
+            {
+              "bad_en": "I'll start saving when I'm older and have more money",
+              "bad_fr": "Je commencerai à épargner quand je serai plus vieux et aurai plus d'argent",
+              "good_en": "Start now with any amount - $50/month becomes over $50,000 in 40 years at 8% return!",
+              "good_fr": "Commencez maintenant avec n'importe quel montant - 50 $/mois deviennent plus de 50 000 $ en 40 ans à 8 % de rendement !"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is compound interest?",
+              "question_fr": "Que sont les intérêts composés ?",
+              "options_en": [
+                "Interest paid only on your original investment",
+                "Interest paid on both your original investment AND the interest it earns",
+                "A fee banks charge for accounts",
+                "Interest that is complicated to calculate"
+              ],
+              "options_fr": [
+                "Intérêts payés uniquement sur votre investissement initial",
+                "Intérêts payés à la fois sur votre investissement initial ET sur les intérêts qu'il gagne",
+                "Des frais que les banques facturent pour les comptes",
+                "Des intérêts compliqués à calculer"
+              ],
+              "correct": 1,
+              "feedback_en": "Correct! Compound interest is earning interest on your interest - money growing on itself!",
+              "feedback_fr": "Correct ! Les intérêts composés, c'est gagner des intérêts sur vos intérêts - l'argent qui se multiplie tout seul !"
+            },
+            {
+              "question_en": "Who called compound interest 'the eighth wonder of the world'?",
+              "question_fr": "Qui a appelé les intérêts composés 'la huitième merveille du monde' ?",
+              "options_en": [
+                "Warren Buffett",
+                "Albert Einstein",
+                "Benjamin Franklin",
+                "Elon Musk"
+              ],
+              "options_fr": [
+                "Warren Buffett",
+                "Albert Einstein",
+                "Benjamin Franklin",
+                "Elon Musk"
+              ],
+              "correct": 1,
+              "feedback_en": "Albert Einstein said this about compound interest - recognizing its incredible power.",
+              "feedback_fr": "Albert Einstein a dit cela à propos des intérêts composés - reconnaissant leur puissance incroyable."
+            },
+            {
+              "question_en": "If you invest $1,000 at 10% annual return, how much will you have after 1 year?",
+              "question_fr": "Si vous investissez 1 000 $ à 10 % de rendement annuel, combien aurez-vous après 1 an ?",
+              "options_en": [
+                "$1,000",
+                "$1,050",
+                "$1,100",
+                "$1,200"
+              ],
+              "options_fr": [
+                "1 000 $",
+                "1 050 $",
+                "1 100 $",
+                "1 200 $"
+              ],
+              "correct": 1,
+              "feedback_en": "$1,000 x 10% = $100 interest. Total = $1,100.",
+              "feedback_fr": "1 000 $ x 10 % = 100 $ d'intérêts. Total = 1 100 $."
+            },
+            {
+              "question_en": "Who ends up with MORE money at retirement?",
+              "question_fr": "Qui se retrouve avec PLUS d'argent à la retraite ?",
+              "options_en": [
+                "Person A: Saves $100/month from age 20-30 (10 years), then stops",
+                "Person B: Saves $100/month from age 30-65 (35 years)",
+                "They end up with the same amount",
+                "Neither will have anything"
+              ],
+              "options_fr": [
+                "Personne A : Épargne 100 $/mois de 20 à 30 ans (10 ans), puis s'arrête",
+                "Personne B : Épargne 100 $/mois de 30 à 65 ans (35 ans)",
+                "Ils finissent avec le même montant",
+                "Ni l'un ni l'autre n'aura rien"
+              ],
+              "correct": 1,
+              "feedback_en": "Amazingly, Person A (early starter) ends up with MORE because compound interest has more time to work!",
+              "feedback_fr": "Étonnamment, la personne A (qui commence tôt) finit avec PLUS parce que les intérêts composés ont plus de temps pour travailler !"
+            },
+            {
+              "question_en": "What's the most important factor in building wealth through compound interest?",
+              "question_fr": "Quel est le facteur le plus important pour accumuler de la richesse grâce aux intérêts composés ?",
+              "options_en": [
+                "How much you earn",
+                "Time (starting early)",
+                "Picking winning stocks",
+                "Having a high-paying job"
+              ],
+              "options_fr": [
+                "Combien vous gagnez",
+                "Le temps (commencer tôt)",
+                "Choisir des actions gagnantes",
+                "Avoir un emploi bien rémunéré"
+              ],
+              "correct": 1,
+              "feedback_en": "Time is the most powerful factor. Starting early beats earning more and starting late!",
+              "feedback_fr": "Le temps est le facteur le plus puissant. Commencer tôt bat gagner plus et commencer tard !"
+            }
+          ]
+        },
+        {
+          "id": "pf_103",
+          "title_en": "Building an Emergency Fund",
+          "title_fr": "Construire un Fonds d'Urgence",
+          "content_en": "An emergency fund is cash set aside for unexpected expenses: car repairs, medical bills, job loss, or urgent home repairs. It turns potential crises into mere inconveniences. Without an emergency fund, a $500 car repair might force you into high-interest credit card debt that takes years to escape.\n\nAim to save 3-6 months of essential expenses. Start with a mini-emergency fund of $1,000, then build up to the full amount. Keep this money in a separate high-yield savings account - not in checking where you might spend it, and not in investments where it could lose value. Only use it for TRUE emergencies: necessary, unexpected, and urgent. If you use it, prioritize rebuilding it before spending on wants.",
+          "content_fr": "Un fonds d'urgence est de l'argent mis de côté pour les dépenses imprévues : réparations de voiture, factures médicales, perte d'emploi ou réparations urgentes de la maison. Il transforme des crises potentielles en simples inconvénients. Sans fonds d'urgence, une réparation de voiture de 500 $ pourrait vous forcer à contracter des dettes de carte de crédit à intérêt élevé dont il faudra des années pour se libérer.\n\nVisez à épargner 3 à 6 mois de dépenses essentielles. Commencez par un mini-fonds d'urgence de 1 000 $, puis augmentez jusqu'au montant complet. Gardez cet argent dans un compte d'épargne à haut rendement séparé - pas dans un compte chèque où vous pourriez le dépenser, et pas dans des investissements où il pourrait perdre de la valeur. Utilisez-le uniquement pour les VRAIES urgences : nécessaires, imprévues et urgentes. Si vous l'utilisez, priorisez sa reconstitution avant de dépenser pour des désirs.",
+          "key_points_en": [
+            "Goal: 3-6 months of essential expenses",
+            "Start with $1,000, then build up",
+            "Keep in separate high-yield savings account",
+            "Only use for TRUE emergencies"
+          ],
+          "key_points_fr": [
+            "Objectif : 3 à 6 mois de dépenses essentielles",
+            "Commencez par 1 000 $, puis augmentez",
+            "Gardez dans un compte d'épargne à haut rendement séparé",
+            "Utilisez uniquement pour les VRAIES urgences"
+          ],
+          "examples": [
+            {
+              "bad_en": "No savings - put emergencies on credit card with 25% interest",
+              "bad_fr": "Pas d'économies - mettre les urgences sur une carte de crédit à 25 % d'intérêt",
+              "good_en": "$1,000 emergency fund before paying extra on debt",
+              "good_fr": "1 000 $ de fonds d'urgence avant de payer plus que le minimum sur les dettes"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is an emergency fund for?",
+              "question_fr": "À quoi sert un fonds d'urgence ?",
+              "options_en": [
+                "Vacations",
+                "Unexpected expenses like car repairs or medical bills",
+                "Shopping sales",
+                "Investing in stocks"
+              ],
+              "options_fr": [
+                "Vacances",
+                "Dépenses imprévues comme les réparations de voiture ou les factures médicales",
+                "Soldes shopping",
+                "Investir en actions"
+              ],
+              "correct": 1,
+              "feedback_en": "Emergency funds are for unexpected, necessary expenses - not planned spending.",
+              "feedback_fr": "Les fonds d'urgence sont pour les dépenses imprévues et nécessaires - pas pour les dépenses planifiées."
+            },
+            {
+              "question_en": "How much should you aim for in an emergency fund?",
+              "question_fr": "Quel montant devriez-vous viser pour un fonds d'urgence ?",
+              "options_en": [
+                "1 month of expenses",
+                "3-6 months of expenses",
+                "1 year of expenses",
+                "10 years of expenses"
+              ],
+              "options_fr": [
+                "1 mois de dépenses",
+                "3 à 6 mois de dépenses",
+                "1 an de dépenses",
+                "10 ans de dépenses"
+              ],
+              "correct": 1,
+              "feedback_en": "Most experts recommend 3-6 months of living expenses in your emergency fund.",
+              "feedback_fr": "La plupart des experts recommandent 3 à 6 mois de dépenses de vie dans votre fonds d'urgence."
+            },
+            {
+              "question_en": "Where should you keep your emergency fund?",
+              "question_fr": "Où devriez-vous garder votre fonds d'urgence ?",
+              "options_en": [
+                "In cash under your mattress",
+                "In a separate high-yield savings account",
+                "In the stock market",
+                "In your checking account with daily spending"
+              ],
+              "options_fr": [
+                "En liquide sous votre matelas",
+                "Dans un compte d'épargne à haut rendement séparé",
+                "Dans le marché boursier",
+                "Dans votre compte chèque avec les dépenses quotidiennes"
+              ],
+              "correct": 1,
+              "feedback_en": "Keep it separate and accessible, but not too accessible (not in checking).",
+              "feedback_fr": "Gardez-le séparé et accessible, mais pas trop accessible (pas dans le compte chèque)."
+            },
+            {
+              "question_en": "What is a TRUE emergency?",
+              "question_fr": "Qu'est-ce qu'une VRAIE urgence ?",
+              "options_en": [
+                "A new phone because you want one",
+                "Concert tickets on sale",
+                "Your car broke down and you need it for work",
+                "A vacation sale"
+              ],
+              "options_fr": [
+                "Un nouveau téléphone parce que vous en voulez un",
+                "Des billets de concert en solde",
+                "Votre voiture est tombée en panne et vous en avez besoin pour le travail",
+                "Une vente de vacances"
+              ],
+              "correct": 2,
+              "feedback_en": "True emergencies are necessary, unexpected, and urgent - like car repairs needed for work.",
+              "feedback_fr": "Les vraies urgences sont nécessaires, imprévues et urgentes - comme les réparations de voiture nécessaires pour le travail."
+            },
+            {
+              "question_en": "What should you do after using your emergency fund?",
+              "question_fr": "Que devriez-vous faire après avoir utilisé votre fonds d'urgence ?",
+              "options_en": [
+                "Ignore it",
+                "Rebuild it as soon as possible",
+                "Celebrate by spending more",
+                "Close the account"
+              ],
+              "options_fr": [
+                "L'ignorer",
+                "Le reconstituer dès que possible",
+                "Célébrer en dépensant plus",
+                "Fermer le compte"
+              ],
+              "correct": 1,
+              "feedback_en": "Always rebuild your emergency fund after using it - you never know when the next emergency will hit.",
+              "feedback_fr": "Reconstituer toujours votre fonds d'urgence après l'avoir utilisé - on ne sait jamais quand la prochaine urgence frappera."
+            }
+          ]
+        },
+        {
+          "id": "pf_104",
+          "title_en": "Understanding Credit Scores",
+          "title_fr": "Comprendre les Cotes de Crédit",
+          "content_en": "Your credit score (300-850) determines loan rates, apartment approvals, and even job offers in some industries. A good score (670+) saves you thousands of dollars over your lifetime through lower interest rates. A poor score (below 580) can cost you tens of thousands in extra interest and denied opportunities.\n\nThe five factors: Payment history (35%) - pay on time, every time. Credit utilization (30%) - use less than 30% of available credit. Credit age (15%) - keep old accounts open. Credit mix (10%) - have different types of credit. New credit (10%) - don't open too many accounts at once. The most important rule: always pay at least the minimum on time, and pay your full balance monthly to avoid interest.",
+          "content_fr": "Votre cote de crédit (300-850) détermine les taux de prêt, les approbations d'appartement et même les offres d'emploi dans certaines industries. Une bonne cote (670+) vous économise des milliers de dollars sur votre vie grâce à des taux d'intérêt plus bas. Une mauvaise cote (en dessous de 580) peut vous coûter des dizaines de milliers en intérêts supplémentaires et en opportunités refusées.\n\nLes cinq facteurs : Historique des paiements (35 %) - payez à temps, chaque fois. Utilisation du crédit (30 %) - utilisez moins de 30 % du crédit disponible. Âge du crédit (15 %) - gardez les anciens comptes ouverts. Mixité du crédit (10 %) - ayez différents types de crédit. Nouveau crédit (10 %) - n'ouvrez pas trop de comptes à la fois. La règle la plus importante : payez toujours au moins le minimum à temps, et payez votre solde complet mensuellement pour éviter les intérêts.",
+          "key_points_en": [
+            "Payment history (35%): Pay on time, every time",
+            "Credit utilization (30%): Use less than 30% of available credit",
+            "Credit age (15%): Keep old accounts open",
+            "Pay full balance monthly to avoid interest"
+          ],
+          "key_points_fr": [
+            "Historique des paiements (35 %) : Payez à temps, chaque fois",
+            "Utilisation du crédit (30 %) : Utilisez moins de 30 % du crédit disponible",
+            "Âge du crédit (15 %) : Gardez les anciens comptes ouverts",
+            "Payez le solde complet mensuellement pour éviter les intérêts"
+          ],
+          "examples": [
+            {
+              "bad_en": "Missing payments, maxing out cards, closing old accounts",
+              "bad_fr": "Paiements manqués, cartes à leur maximum, fermeture des anciens comptes",
+              "good_en": "Pay in full each month, keep balances low, keep old cards open",
+              "good_fr": "Payez le solde complet chaque mois, gardez les soldes bas, gardez les anciennes cartes ouvertes"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What's a good credit score range?",
+              "question_fr": "Quelle est une bonne fourchette de cote de crédit ?",
+              "options_en": [
+                "300-500",
+                "500-600",
+                "670-739",
+                "900-1000"
+              ],
+              "options_fr": [
+                "300-500",
+                "500-600",
+                "670-739",
+                "900-1000"
+              ],
+              "correct": 2,
+              "feedback_en": "A good credit score is typically 670-739. Excellent is 740-850.",
+              "feedback_fr": "Une bonne cote de crédit se situe généralement entre 670 et 739. Excellent se situe entre 740 et 850."
+            },
+            {
+              "question_en": "What factor has the biggest impact on your credit score?",
+              "question_fr": "Quel facteur a le plus grand impact sur votre cote de crédit ?",
+              "options_en": [
+                "Credit age",
+                "Payment history",
+                "New credit inquiries",
+                "Types of credit"
+              ],
+              "options_fr": [
+                "Âge du crédit",
+                "Historique des paiements",
+                "Nouvelles demandes de crédit",
+                "Types de crédit"
+              ],
+              "correct": 1,
+              "feedback_en": "Payment history (paying on time) is 35% of your score - the biggest factor.",
+              "feedback_fr": "L'historique des paiements (payer à temps) représente 35 % de votre cote - le facteur le plus important."
+            },
+            {
+              "question_en": "What is credit utilization?",
+              "question_fr": "Qu'est-ce que l'utilisation du crédit ?",
+              "options_en": [
+                "How many credit cards you have",
+                "The percentage of available credit you're using",
+                "Your credit limit total",
+                "Your interest rate"
+              ],
+              "options_fr": [
+                "Combien de cartes de crédit vous avez",
+                "Le pourcentage de crédit disponible que vous utilisez",
+                "Votre limite de crédit totale",
+                "Votre taux d'intérêt"
+              ],
+              "correct": 1,
+              "feedback_en": "Credit utilization is your balance divided by your limit. Keep it under 30%.",
+              "feedback_fr": "L'utilisation du crédit est votre solde divisé par votre limite. Gardez-la en dessous de 30 %."
+            },
+            {
+              "question_en": "Should you close old credit cards you don't use?",
+              "question_fr": "Devriez-vous fermer les anciennes cartes de crédit que vous n'utilisez pas ?",
+              "options_en": [
+                "Yes, immediately",
+                "No, it can hurt your credit age and utilization",
+                "Only if they have fees",
+                "It doesn't matter"
+              ],
+              "options_fr": [
+                "Oui, immédiatement",
+                "Non, cela peut nuire à votre âge de crédit et à votre utilisation",
+                "Seulement si elles ont des frais",
+                "Cela n'a pas d'importance"
+              ],
+              "correct": 1,
+              "feedback_en": "Keeping old accounts open helps your credit age and total available credit.",
+              "feedback_fr": "Garder les anciens comptes ouverts aide votre âge de crédit et votre crédit disponible total."
+            },
+            {
+              "question_en": "How does paying on time affect your credit?",
+              "question_fr": "Comment le paiement à temps affecte-t-il votre crédit ?",
+              "options_en": [
+                "It has no effect",
+                "It's the most important factor - one late payment can drop your score significantly",
+                "Only affects it slightly",
+                "It only matters if you miss multiple payments"
+              ],
+              "options_fr": [
+                "Cela n'a aucun effet",
+                "C'est le facteur le plus important - un seul paiement en retard peut faire chuter votre cote considérablement",
+                "Cela l'affecte seulement légèrement",
+                "Cela compte seulement si vous manquez plusieurs paiements"
+              ],
+              "correct": 1,
+              "feedback_en": "Payment history is 35% of your score. Even one late payment can hurt your score for years.",
+              "feedback_fr": "L'historique des paiements représente 35 % de votre cote. Même un seul paiement en retard peut nuire à votre cote pendant des années."
+            }
+          ]
+        },
+        {
+          "id": "pf_105",
+          "title_en": "Good Debt vs Bad Debt",
+          "title_fr": "Bonne Dette vs Mauvaise Dette",
+          "content_en": "Not all debt is created equal. Good debt helps you build wealth or increase your earning potential. Bad debt destroys wealth and keeps you trapped in a cycle of payments. Understanding the difference is crucial for financial health.\n\nGOOD debt includes mortgages (builds equity as home values typically rise), student loans (increases lifetime earnings by hundreds of thousands), and business loans (can generate income). BAD debt includes credit cards (15-25%+ interest), payday loans (400%+ interest - predatory and dangerous), car loans for depreciating assets (cars lose 20% value immediately), and any debt for consumer goods that go down in value. The golden rule: If it goes up in value, consider borrowing. If it goes down, pay cash.",
+          "content_fr": "Toutes les dettes ne sont pas égales. La bonne dette vous aide à construire votre richesse ou à augmenter votre potentiel de revenus. La mauvaise dette détruit la richesse et vous maintient piégé dans un cycle de paiements. Comprendre la différence est crucial pour la santé financière.\n\nLa BONNE dette comprend les prêts hypothécaires (crée de la valeur car les prix des maisons augmentent généralement), les prêts étudiants (augmentent les revenus à vie de centaines de milliers) et les prêts commerciaux (peuvent générer des revenus). La MAUVAISE dette comprend les cartes de crédit (15-25 % d'intérêt ou plus), les prêts sur salaire (400 % d'intérêt ou plus - prédateurs et dangereux), les prêts automobiles pour des actifs qui se déprécient (les voitures perdent 20 % de leur valeur immédiatement), et toute dette pour des biens de consommation qui perdent de la valeur. La règle d'or : Si sa valeur augmente, envisagez d'emprunter. Si sa valeur diminue, payez comptant.",
+          "key_points_en": [
+            "GOOD debt: mortgage, student loans (increases income potential)",
+            "BAD debt: credit cards (25% interest), payday loans (400%+), car loans",
+            "Rule: If it goes up in value, consider borrowing. If it goes down, pay cash",
+            "Avoid debt for depreciating assets and consumer goods"
+          ],
+          "key_points_fr": [
+            "BONNE dette : prêt hypothécaire, prêts étudiants (augmente le potentiel de revenu)",
+            "MAUVAISE dette : cartes de crédit (25 % d'intérêt), prêts sur salaire (400 %+), prêts automobiles",
+            "Règle : Si sa valeur augmente, envisagez d'emprunter. Si sa valeur diminue, payez comptant",
+            "Évitez la dette pour les actifs qui se déprécient et les biens de consommation"
+          ],
+          "examples": [
+            {
+              "bad_en": "$5,000 vacation on credit card at 25% interest",
+              "bad_fr": "Vacances de 5 000 $ sur carte de crédit à 25 % d'intérêt",
+              "good_en": "$250,000 mortgage for a home that appreciates in value",
+              "good_fr": "Prêt hypothécaire de 250 000 $ pour une maison qui prend de la valeur"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "Which is considered GOOD debt?",
+              "question_fr": "Laquelle est considérée comme une BONNE dette ?",
+              "options_en": [
+                "Credit card debt for clothes",
+                "Payday loan",
+                "Mortgage for a home",
+                "Car loan for a luxury car"
+              ],
+              "options_fr": [
+                "Dette de carte de crédit pour des vêtements",
+                "Prêt sur salaire",
+                "Prêt hypothécaire pour une maison",
+                "Prêt automobile pour une voiture de luxe"
+              ],
+              "correct": 2,
+              "feedback_en": "A mortgage for a home that appreciates in value is generally considered good debt.",
+              "feedback_fr": "Un prêt hypothécaire pour une maison qui prend de la valeur est généralement considéré comme une bonne dette."
+            },
+            {
+              "question_en": "Why are credit cards often considered bad debt?",
+              "question_fr": "Pourquoi les cartes de crédit sont-elles souvent considérées comme une mauvaise dette ?",
+              "options_en": [
+                "They're too convenient",
+                "High interest rates (15-25%+) on carried balances",
+                "They have annual fees",
+                "They're hard to get"
+              ],
+              "options_fr": [
+                "Elles sont trop pratiques",
+                "Taux d'intérêt élevés (15-25 %+) sur les soldes reportés",
+                "Elles ont des frais annuels",
+                "Elles sont difficiles à obtenir"
+              ],
+              "correct": 1,
+              "feedback_en": "Credit card interest rates are very high, making carried balances expensive.",
+              "feedback_fr": "Les taux d'intérêt des cartes de crédit sont très élevés, ce qui rend les soldes reportés coûteux."
+            },
+            {
+              "question_en": "What's the interest rate on most payday loans?",
+              "question_fr": "Quel est le taux d'intérêt de la plupart des prêts sur salaire ?",
+              "options_en": [
+                "10%",
+                "25%",
+                "100%",
+                "400%+"
+              ],
+              "options_fr": [
+                "10 %",
+                "25 %",
+                "100 %",
+                "400 %+"
+              ],
+              "correct": 1,
+              "feedback_en": "Payday loans can have interest rates over 400% APR - they're predatory and should be avoided.",
+              "feedback_fr": "Les prêts sur salaire peuvent avoir des taux d'intérêt supérieurs à 400 % TAEG - ils sont prédateurs et doivent être évités."
+            },
+            {
+              "question_en": "When is a student loan considered good debt?",
+              "question_fr": "Quand un prêt étudiant est-il considéré comme une bonne dette ?",
+              "options_en": [
+                "Never",
+                "Always",
+                "When it leads to a degree that increases your earning potential",
+                "Only for graduate school"
+              ],
+              "options_fr": [
+                "Jamais",
+                "Toujours",
+                "Quand il mène à un diplôme qui augmente votre potentiel de revenu",
+                "Uniquement pour les études supérieures"
+              ],
+              "correct": 2,
+              "feedback_en": "Student loans can be good debt if they lead to significantly higher income.",
+              "feedback_fr": "Les prêts étudiants peuvent être une bonne dette s'ils mènent à un revenu significativement plus élevé."
+            },
+            {
+              "question_en": "What's the rule about debt and asset value?",
+              "question_fr": "Quelle est la règle concernant la dette et la valeur des actifs ?",
+              "options_en": [
+                "Always borrow more than you need",
+                "Consider borrowing for assets that go up in value, pay cash for depreciating assets",
+                "Never borrow for anything",
+                "Always use credit cards"
+              ],
+              "options_fr": [
+                "Empruntez toujours plus que ce dont vous avez besoin",
+                "Envisagez d'emprunter pour les actifs qui prennent de la valeur, payez comptant pour les actifs qui se déprécient",
+                "N'empruntez jamais pour quoi que ce soit",
+                "Utilisez toujours des cartes de crédit"
+              ],
+              "correct": 1,
+              "feedback_en": "Consider debt for appreciating assets (homes, education). Pay cash for depreciating assets (cars, clothes).",
+              "feedback_fr": "Envisagez la dette pour les actifs qui prennent de la valeur (maisons, éducation). Payez comptant pour les actifs qui se déprécient (voitures, vêtements)."
+            }
+          ]
+        },
+        {
+          "id": "pf_106",
+          "title_en": "Introduction to Investing",
+          "title_fr": "Introduction à l'Investissement",
+          "content_en": "Investing is how you make your money work for you. The stock market has historically returned 8-10% annually over long periods. This means every $1,000 invested could grow to over $10,000 in 30 years without you doing anything else! Investing turns your savings into a powerful wealth-building machine.\n\nStart with index funds like VTI (total stock market) or VOO (S&P 500). These provide instant diversification across hundreds of companies, reducing your risk. Invest consistently every month regardless of what the market is doing - this is called dollar-cost averaging. Don't try to time the market (buy low, sell high); research shows even professionals can't do this reliably. Time IN the market beats timing the market. Start early, stay consistent, and let compound interest work its magic.",
+          "content_fr": "Investir, c'est faire travailler votre argent pour vous. Le marché boursier a historiquement rapporté 8 à 10 % annuellement sur de longues périodes. Cela signifie que chaque 1 000 $ investi pourrait atteindre plus de 10 000 $ en 30 ans sans que vous ayez à faire quoi que ce soit d'autre ! L'investissement transforme votre épargne en une puissante machine à créer de la richesse.\n\nCommencez par des fonds indiciels comme VTI (marché boursier total) ou VOO (S&P 500). Ceux-ci offrent une diversification instantanée à travers des centaines d'entreprises, réduisant votre risque. Investissez régulièrement chaque mois, indépendamment de ce que fait le marché - c'est ce qu'on appelle l'investissement périodique par sommes fixes. N'essayez pas de chronométrer le marché (acheter bas, vendre haut) ; la recherche montre que même les professionnels ne peuvent pas le faire de manière fiable. Le temps DANS le marché bat le fait de chronométrer le marché. Commencez tôt, restez constant et laissez les intérêts composés opérer leur magie.",
+          "key_points_en": [
+            "Stock market averages 8-10% annual returns historically",
+            "Index funds provide instant diversification",
+            "Invest consistently, don't try to time the market",
+            "Time IN the market beats timing the market"
+          ],
+          "key_points_fr": [
+            "Le marché boursier offre en moyenne 8 à 10 % de rendement annuel historiquement",
+            "Les fonds indiciels offrent une diversification instantanée",
+            "Investissez régulièrement, n'essayez pas de chronométrer le marché",
+            "Le temps DANS le marché bat le fait de chronométrer le marché"
+          ],
+          "examples": [
+            {
+              "bad_en": "Trying to pick winning stocks and timing the market",
+              "bad_fr": "Essayer de choisir des actions gagnantes et de chronométrer le marché",
+              "good_en": "Buying VOO (S&P 500 index) every month automatically regardless of market conditions",
+              "good_fr": "Acheter VOO (indice S&P 500) chaque mois automatiquement, quelles que soient les conditions du marché"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is an index fund?",
+              "question_fr": "Qu'est-ce qu'un fonds indiciel ?",
+              "options_en": [
+                "A fund that picks the best stocks",
+                "A fund that tracks a market index like the S&P 500",
+                "A type of savings account",
+                "A government bond"
+              ],
+              "options_fr": [
+                "Un fonds qui sélectionne les meilleures actions",
+                "Un fonds qui suit un indice de marché comme le S&P 500",
+                "Un type de compte d'épargne",
+                "Une obligation d'État"
+              ],
+              "correct": 1,
+              "feedback_en": "Index funds track a market index, providing instant diversification at low cost.",
+              "feedback_fr": "Les fonds indiciels suivent un indice de marché, offrant une diversification instantanée à faible coût."
+            },
+            {
+              "question_en": "What's a better strategy than trying to time the market?",
+              "question_fr": "Quelle est une meilleure stratégie que d'essayer de chronométrer le marché ?",
+              "options_en": [
+                "Only buy when markets are up",
+                "Only buy when markets are down",
+                "Invest consistently over time regardless of market conditions",
+                "Don't invest at all"
+              ],
+              "options_fr": [
+                "N'acheter que lorsque les marchés sont en hausse",
+                "N'acheter que lorsque les marchés sont en baisse",
+                "Investir régulièrement dans le temps, quelles que soient les conditions du marché",
+                "Ne pas investir du tout"
+              ],
+              "correct": 1,
+              "feedback_en": "Time IN the market beats timing the market. Consistent investing wins.",
+              "feedback_fr": "Le temps DANS le marché bat le fait de chronométrer le marché. L'investissement constant gagne."
+            },
+            {
+              "question_en": "What average annual return has the S&P 500 historically provided?",
+              "question_fr": "Quel rendement annuel moyen le S&P 500 a-t-il historiquement fourni ?",
+              "options_en": [
+                "2-3%",
+                "5-6%",
+                "8-10%",
+                "15-20%"
+              ],
+              "options_fr": [
+                "2-3 %",
+                "5-6 %",
+                "8-10 %",
+                "15-20 %"
+              ],
+              "correct": 1,
+              "feedback_en": "The S&P 500 has historically returned about 8-10% annually over long periods.",
+              "feedback_fr": "Le S&P 500 a historiquement rapporté environ 8 à 10 % annuellement sur de longues périodes."
+            },
+            {
+              "question_en": "What's the biggest advantage young investors have?",
+              "question_fr": "Quel est le plus grand avantage des jeunes investisseurs ?",
+              "options_en": [
+                "High income",
+                "Time (decades for compound interest to work)",
+                "Low risk tolerance",
+                "Access to IPOs"
+              ],
+              "options_fr": [
+                "Revenu élevé",
+                "Le temps (des décennies pour que les intérêts composés travaillent)",
+                "Faible tolérance au risque",
+                "Accès aux introductions en bourse"
+              ],
+              "correct": 1,
+              "feedback_en": "Time is the young investor's biggest advantage. Starting early beats starting with more money later.",
+              "feedback_fr": "Le temps est le plus grand avantage du jeune investisseur. Commencer tôt bat le fait de commencer avec plus d'argent plus tard."
+            },
+            {
+              "question_en": "What is diversification?",
+              "question_fr": "Qu'est-ce que la diversification ?",
+              "options_en": [
+                "Putting all money in one stock",
+                "Spreading investments across different assets to reduce risk",
+                "Only investing in real estate",
+                "Keeping all money in cash"
+              ],
+              "options_fr": [
+                "Mettre tout l'argent dans une seule action",
+                "Répartir les investissements entre différents actifs pour réduire les risques",
+                "Investir uniquement dans l'immobilier",
+                "Garder tout l'argent en liquide"
+              ],
+              "correct": 1,
+              "feedback_en": "Diversification means spreading investments across different assets to reduce risk.",
+              "feedback_fr": "La diversification signifie répartir les investissements entre différents actifs pour réduire les risques."
+            }
+          ]
+        },
+        {
+          "id": "pf_107",
+          "title_en": "Retirement Accounts Explained",
+          "title_fr": "Explication des Comptes de Retraite",
+          "content_en": "Retirement accounts (Roth IRA, 401k, Traditional IRA) offer tax advantages that supercharge your savings. The government rewards you for saving for retirement with significant tax benefits. Understanding these accounts can save you tens of thousands of dollars.\n\nRoth IRA: You pay taxes now, but withdraw completely tax-free in retirement. Best for young people in lower tax brackets. 401(k): Pre-tax contributions reduce your taxable income now; you pay taxes later in retirement. Many employers match contributions - this is FREE MONEY. Always contribute enough to get the full match. Traditional IRA: Similar to 401(k) but you control it yourself. The earlier you start, the more tax-free growth you get. A 20-year-old who contributes $6,000 to a Roth IRA could have over $100,000 tax-free by retirement.",
+          "content_fr": "Les comptes de retraite (Roth IRA, 401k, IRA traditionnel) offrent des avantages fiscaux qui boostent votre épargne. Le gouvernement vous récompense pour avoir épargné pour la retraite avec des avantages fiscaux significatifs. Comprendre ces comptes peut vous économiser des dizaines de milliers de dollars.\n\nRoth IRA : Vous payez des impôts maintenant, mais vous retirez complètement libre d'impôt à la retraite. Idéal pour les jeunes dans des tranches d'imposition plus basses. 401(k) : Les cotisations avant impôt réduisent votre revenu imposable maintenant ; vous payez des impôts plus tard à la retraite. De nombreux employeurs égalent les cotisations - c'est de l'argent GRATUIT. Cotisez toujours suffisamment pour obtenir la totalité de la contrepartie. IRA traditionnel : Similaire au 401(k) mais vous le gérez vous-même. Plus vous commencez tôt, plus vous obtenez de croissance libre d'impôt.",
+          "key_points_en": [
+            "Roth IRA: Pay taxes now, withdraw tax-free in retirement",
+            "401(k): Pre-tax contributions, pay taxes later",
+            "Employer match = FREE MONEY (always take it)",
+            "Start with Roth IRA if young (your tax rate is low)"
+          ],
+          "key_points_fr": [
+            "Roth IRA : Payez des impôts maintenant, retirez libre d'impôt à la retraite",
+            "401(k) : Cotisations avant impôt, payez des impôts plus tard",
+            "Contrepartie de l'employeur = ARGENT GRATUIT (prenez-la toujours)",
+            "Commencez par un Roth IRA si vous êtes jeune (votre taux d'imposition est bas)"
+          ],
+          "examples": [
+            {
+              "bad_en": "Ignoring retirement accounts until age 40",
+              "bad_fr": "Ignorer les comptes de retraite jusqu'à 40 ans",
+              "good_en": "Start a Roth IRA at 18 with $100/month - that $100 could grow to over $300,000 tax-free by retirement!",
+              "good_fr": "Commencez un Roth IRA à 18 ans avec 100 $/mois - ces 100 $ pourraient atteindre plus de 300 000 $ libres d'impôt à la retraite !"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is a 401(k) employer match?",
+              "question_fr": "Qu'est-ce que la contrepartie de l'employeur pour un 401(k) ?",
+              "options_en": [
+                "Money the employer takes from your paycheck",
+                "Free money the employer adds to your retirement when you contribute",
+                "A fee you pay to have a 401(k)",
+                "Your yearly bonus"
+              ],
+              "options_fr": [
+                "Argent que l'employeur prend de votre paie",
+                "Argent gratuit que l'employeur ajoute à votre retraite lorsque vous cotisez",
+                "Des frais que vous payez pour avoir un 401(k)",
+                "Votre bonus annuel"
+              ],
+              "correct": 1,
+              "feedback_en": "An employer match is free money - always contribute enough to get the full match.",
+              "feedback_fr": "La contrepartie de l'employeur est de l'argent gratuit - cotisez toujours suffisamment pour obtenir la totalité de la contrepartie."
+            },
+            {
+              "question_en": "What's the key difference between Roth IRA and Traditional IRA?",
+              "question_fr": "Quelle est la principale différence entre un Roth IRA et un IRA traditionnel ?",
+              "options_en": [
+                "One has higher limits",
+                "Roth: pay taxes now, withdraw tax-free. Traditional: deduct now, pay taxes later.",
+                "One is for stocks only",
+                "There's no difference"
+              ],
+              "options_fr": [
+                "L'un a des limites plus élevées",
+                "Roth : payez des impôts maintenant, retirez libre d'impôt. Traditionnel : déduisez maintenant, payez des impôts plus tard.",
+                "L'un est uniquement pour les actions",
+                "Il n'y a pas de différence"
+              ],
+              "correct": 1,
+              "feedback_en": "Roth = tax-free withdrawals later. Traditional = tax deduction now, pay taxes later.",
+              "feedback_fr": "Roth = retraits libres d'impôt plus tard. Traditionnel = déduction fiscale maintenant, payez des impôts plus tard."
+            },
+            {
+              "question_en": "Why might a Roth IRA be better for young people?",
+              "question_fr": "Pourquoi un Roth IRA pourrait-il être meilleur pour les jeunes ?",
+              "options_en": [
+                "Higher contribution limits",
+                "Your tax rate is likely lower now than in retirement",
+                "No contribution limits",
+                "Guaranteed returns"
+              ],
+              "options_fr": [
+                "Des limites de cotisation plus élevées",
+                "Votre taux d'imposition est probablement plus bas maintenant qu'à la retraite",
+                "Pas de limites de cotisation",
+                "Rendements garantis"
+              ],
+              "correct": 1,
+              "feedback_en": "Young people are often in lower tax brackets, making Roth accounts attractive.",
+              "feedback_fr": "Les jeunes sont souvent dans des tranches d'imposition plus basses, ce qui rend les comptes Roth attrayants."
+            },
+            {
+              "question_en": "What does 'pre-tax contribution' mean?",
+              "question_fr": "Que signifie 'cotisation avant impôt' ?",
+              "options_en": [
+                "You pay taxes before contributing",
+                "Money goes in before taxes are taken out, reducing your taxable income now",
+                "You never pay taxes",
+                "You pay double taxes"
+              ],
+              "options_fr": [
+                "Vous payez des impôts avant de cotiser",
+                "L'argent entre avant que les impôts ne soient prélevés, réduisant votre revenu imposable maintenant",
+                "Vous ne payez jamais d'impôts",
+                "Vous payez des impôts doubles"
+              ],
+              "correct": 1,
+              "feedback_en": "Pre-tax means the money isn't taxed now, reducing your current taxable income.",
+              "feedback_fr": "Avant impôt signifie que l'argent n'est pas imposé maintenant, ce qui réduit votre revenu imposable actuel."
+            },
+            {
+              "question_en": "What should you do if your employer offers a 401(k) match?",
+              "question_fr": "Que devriez-vous faire si votre employeur offre une contrepartie 401(k) ?",
+              "options_en": [
+                "Ignore it",
+                "Contribute at least enough to get the full match",
+                "Contribute nothing",
+                "Only contribute after maxing Roth IRA"
+              ],
+              "options_fr": [
+                "L'ignorer",
+                "Cotiser au moins suffisamment pour obtenir la totalité de la contrepartie",
+                "Ne rien cotiser",
+                "Cotiser uniquement après avoir maximisé le Roth IRA"
+              ],
+              "correct": 1,
+              "feedback_en": "Always get the full employer match - it's an instant 100% return on your money.",
+              "feedback_fr": "Obtenez toujours la totalité de la contrepartie de l'employeur - c'est un rendement instantané de 100 % sur votre argent."
+            }
+          ]
+        },
+        {
+          "id": "pf_108",
+          "title_en": "Avoiding Lifestyle Inflation",
+          "title_fr": "Éviter l'Inflation du Mode de Vie",
+          "content_en": "Lifestyle inflation is when your spending rises as your income rises. It's why many high earners making $200,000+ still live paycheck to paycheck. Every raise or bonus is an opportunity to either upgrade your lifestyle OR upgrade your future. Choose wisely.\n\nThe solution: Every time you get a raise, save at least 50% of the increase before increasing your spending. For example, if you get a $10,000 raise, increase your savings by $5,000 and your spending by $5,000. This allows you to enjoy some of the raise while still building wealth. Avoid 'keeping up with the Joneses' - most people financing luxury cars and designer goods are actually in deep debt. Focus on your net worth, not flashy purchases. The Joneses are broke; don't be them.",
+          "content_fr": "L'inflation du mode de vie, c'est quand vos dépenses augmentent à mesure que vos revenus augmentent. C'est pourquoi de nombreux hauts revenus gagnant 200 000 $+ vivent encore chèque de paie en chèque de paie. Chaque augmentation ou prime est une opportunité soit d'améliorer votre style de vie, soit d'améliorer votre avenir. Choisissez judicieusement.\n\nLa solution : Chaque fois que vous obtenez une augmentation, économisez au moins 50 % de l'augmentation avant d'augmenter vos dépenses. Par exemple, si vous obtenez une augmentation de 10 000 $, augmentez votre épargne de 5 000 $ et vos dépenses de 5 000 $. Cela vous permet de profiter d'une partie de l'augmentation tout en continuant à construire votre richesse. Évitez de 'suivre les Jones' - la plupart des gens qui financent des voitures de luxe et des articles de créateurs sont en fait lourdement endettés. Concentrez-vous sur votre valeur nette, pas sur les achats tape-à-l'œil. Les Jones sont fauchés ; ne soyez pas comme eux.",
+          "key_points_en": [
+            "Every raise: Save 50% before increasing spending",
+            "Avoid 'keeping up with the Joneses'",
+            "Focus on net worth, not flashy purchases",
+            "The Joneses are broke (most are in debt)"
+          ],
+          "key_points_fr": [
+            "Chaque augmentation : Économisez 50 % avant d'augmenter les dépenses",
+            "Évitez de 'suivre les Jones'",
+            "Concentrez-vous sur votre valeur nette, pas sur les achats tape-à-l'œil",
+            "Les Jones sont fauchés (la plupart sont endettés)"
+          ],
+          "examples": [
+            {
+              "bad_en": "Get a raise, immediately buy a luxury car with a loan",
+              "bad_fr": "Obtenir une augmentation, acheter immédiatement une voiture de luxe avec un prêt",
+              "good_en": "Get a raise, increase savings rate by 10%, enjoy the rest, and drive your paid-off car another year",
+              "good_fr": "Obtenir une augmentation, augmenter le taux d'épargne de 10 %, profiter du reste et conduire votre voiture payée une année de plus"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is lifestyle inflation?",
+              "question_fr": "Qu'est-ce que l'inflation du mode de vie ?",
+              "options_en": [
+                "Prices going up",
+                "Spending increasing as your income rises",
+                "Inflation rates",
+                "Getting a promotion"
+              ],
+              "options_fr": [
+                "La hausse des prix",
+                "Les dépenses qui augmentent à mesure que vos revenus augmentent",
+                "Les taux d'inflation",
+                "Obtenir une promotion"
+              ],
+              "correct": 1,
+              "feedback_en": "Lifestyle inflation is when your spending increases along with your income.",
+              "feedback_fr": "L'inflation du mode de vie, c'est quand vos dépenses augmentent avec vos revenus."
+            },
+            {
+              "question_en": "What should you do with a raise?",
+              "question_fr": "Que devriez-vous faire avec une augmentation ?",
+              "options_en": [
+                "Spend it all immediately",
+                "Save at least 50% of the raise before increasing spending",
+                "Buy a new car",
+                "Upgrade your apartment"
+              ],
+              "options_fr": [
+                "Tout dépenser immédiatement",
+                "Économiser au moins 50 % de l'augmentation avant d'augmenter les dépenses",
+                "Acheter une nouvelle voiture",
+                "Améliorer votre appartement"
+              ],
+              "correct": 1,
+              "feedback_en": "Save at least half of every raise to build wealth while still enjoying some increase.",
+              "feedback_fr": "Économisez au moins la moitié de chaque augmentation pour construire votre richesse tout en profitant d'une certaine augmentation."
+            },
+            {
+              "question_en": "What's wrong with 'keeping up with the Joneses'?",
+              "question_fr": "Qu'est-ce qui ne va pas avec 'suivre les Jones' ?",
+              "options_en": [
+                "Nothing, it's good motivation",
+                "The Joneses are likely in debt and not wealthy",
+                "It's impossible",
+                "It's too expensive"
+              ],
+              "options_fr": [
+                "Rien, c'est une bonne motivation",
+                "Les Jones sont probablement endettés et pas riches",
+                "C'est impossible",
+                "C'est trop cher"
+              ],
+              "correct": 1,
+              "feedback_en": "Most people financing luxury items are actually in debt, not wealthy.",
+              "feedback_fr": "La plupart des gens qui financent des articles de luxe sont en fait endettés, pas riches."
+            },
+            {
+              "question_en": "What should you focus on instead of flashy purchases?",
+              "question_fr": "Sur quoi devriez-vous vous concentrer au lieu d'achats tape-à-l'œil ?",
+              "options_en": [
+                "Your net worth",
+                "What your neighbors think",
+                "Getting likes on social media",
+                "Having the newest phone"
+              ],
+              "options_fr": [
+                "Votre valeur nette",
+                "Ce que vos voisins pensent",
+                "Obtenir des likes sur les réseaux sociaux",
+                "Avoir le téléphone le plus récent"
+              ],
+              "correct": 0,
+              "feedback_en": "Focus on building net worth (assets minus debts), not impressing others.",
+              "feedback_fr": "Concentrez-vous sur la construction de votre valeur nette (actifs moins dettes), pas sur le fait d'impressionner les autres."
+            },
+            {
+              "question_en": "Why do many high earners live paycheck to paycheck?",
+              "question_fr": "Pourquoi de nombreux hauts revenus vivent-ils chèque de paie en chèque de paie ?",
+              "options_en": [
+                "They don't earn enough",
+                "Lifestyle inflation - spending more as they earn more",
+                "Taxes are too high",
+                "They give away too much money"
+              ],
+              "options_fr": [
+                "Ils ne gagnent pas assez",
+                "Inflation du mode de vie - dépenser plus à mesure qu'ils gagnent plus",
+                "Les impôts sont trop élevés",
+                "Ils donnent trop d'argent"
+              ],
+              "correct": 1,
+              "feedback_en": "Even high earners can live paycheck to paycheck if they inflate their lifestyle as income rises.",
+              "feedback_fr": "Même les hauts revenus peuvent vivre chèque de paie en chèque de paie s'ils gonflent leur mode de vie à mesure que leurs revenus augmentent."
+            }
+          ]
+        },
+        {
+          "id": "pf_109",
+          "title_en": "The Psychology of Spending",
+          "title_fr": "La Psychologie des Dépenses",
+          "content_en": "We spend emotionally, not logically. Understanding your money triggers helps you make better decisions. When you're stressed, sad, or bored, you're 30% more likely to make impulse purchases. Advertisers know this and target your emotions, not your logic.\n\nTo combat emotional spending, use these strategies: The 24-hour rule - sleep on any non-essential purchase over $100. 90% of impulse purchases aren't wanted the next day. Unsubscribe from marketing emails - they create artificial urgency. Use cash instead of credit cards; spending cash is more psychologically painful than swiping plastic, so you'll spend less. Track every purchase for a month - awareness alone often reduces spending by 15-20%. Ask yourself before buying: 'Do I need this, or do I want the feeling I think it will give me?'",
+          "content_fr": "Nous dépensons émotionnellement, pas logiquement. Comprendre vos déclencheurs d'argent vous aide à prendre de meilleures décisions. Lorsque vous êtes stressé, triste ou ennuyé, vous avez 30 % plus de chances de faire des achats impulsifs. Les annonceurs le savent et ciblent vos émotions, pas votre logique.\n\nPour lutter contre les dépenses émotionnelles, utilisez ces stratégies : La règle des 24 heures - dormez sur tout achat non essentiel de plus de 100 $. 90 % des achats impulsifs ne sont pas voulus le lendemain. Désabonnez-vous des e-mails marketing - ils créent une urgence artificielle. Utilisez de l'argent liquide au lieu de cartes de crédit ; dépenser de l'argent liquide est psychologiquement plus douloureux que de glisser du plastique, donc vous dépenserez moins. Suivez chaque achat pendant un mois - la simple conscience réduit souvent les dépenses de 15 à 20 %. Demandez-vous avant d'acheter : 'Ai-je besoin de cela, ou est-ce que je veux le sentiment que je pense que cela va me donner ?'",
+          "key_points_en": [
+            "Stress increases spending by 30%",
+            "The pain of paying is less with credit cards",
+            "Sleep on purchases over $100 (24-hour rule)",
+            "Unsubscribe from marketing emails"
+          ],
+          "key_points_fr": [
+            "Le stress augmente les dépenses de 30 %",
+            "La douleur de payer est moins forte avec les cartes de crédit",
+            "Dormez sur les achats de plus de 100 $ (règle des 24 heures)",
+            "Désabonnez-vous des e-mails marketing"
+          ],
+          "examples": [
+            {
+              "bad_en": "Buying things when sad or stressed (retail therapy)",
+              "bad_fr": "Acheter des choses quand on est triste ou stressé (thérapie par le shopping)",
+              "good_en": "Wait 24 hours before any non-essential purchase over $100 - most impulse purchases aren't wanted the next day",
+              "good_fr": "Attendez 24 heures avant tout achat non essentiel de plus de 100 $ - la plupart des achats impulsifs ne sont pas voulus le lendemain"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is 'retail therapy'?",
+              "question_fr": "Qu'est-ce que la 'thérapie par le shopping' ?",
+              "options_en": [
+                "Working in a store",
+                "Spending money to feel better when stressed or sad",
+                "Shopping for work clothes",
+                "Getting paid to shop"
+              ],
+              "options_fr": [
+                "Travailler dans un magasin",
+                "Dépenser de l'argent pour se sentir mieux quand on est stressé ou triste",
+                "Acheter des vêtements de travail",
+                "Être payé pour magasiner"
+              ],
+              "correct": 1,
+              "feedback_en": "Retail therapy is spending to improve mood, but it often leads to regret.",
+              "feedback_fr": "La thérapie par le shopping consiste à dépenser pour améliorer son humeur, mais cela conduit souvent à des regrets."
+            },
+            {
+              "question_en": "Why do people spend more with credit cards than cash?",
+              "question_fr": "Pourquoi les gens dépensent-ils plus avec les cartes de crédit qu'avec l'argent liquide ?",
+              "options_en": [
+                "Credit cards have higher limits",
+                "The 'pain of paying' is less noticeable with credit cards",
+                "Stores prefer credit cards",
+                "Cash is heavy"
+              ],
+              "options_fr": [
+                "Les cartes de crédit ont des limites plus élevées",
+                "La 'douleur de payer' est moins perceptible avec les cartes de crédit",
+                "Les magasins préfèrent les cartes de crédit",
+                "L'argent liquide est lourd"
+              ],
+              "correct": 1,
+              "feedback_en": "Swiping a card is less painful than handing over physical cash, leading to more spending.",
+              "feedback_fr": "Glisser une carte est moins douloureux que de donner de l'argent liquide physique, ce qui conduit à plus de dépenses."
+            },
+            {
+              "question_en": "What's a good rule before making non-essential purchases over $100?",
+              "question_fr": "Quelle est une bonne règle avant de faire des achats non essentiels de plus de 100 $ ?",
+              "options_en": [
+                "Buy it immediately",
+                "Sleep on it for 24 hours",
+                "Put it on a credit card",
+                "Ask a friend to buy it for you"
+              ],
+              "options_fr": [
+                "L'acheter immédiatement",
+                "Dormir dessus pendant 24 heures",
+                "Le mettre sur une carte de crédit",
+                "Demander à un ami de l'acheter pour vous"
+              ],
+              "correct": 1,
+              "feedback_en": "Waiting 24 hours eliminates most impulse purchases - 90% aren't wanted the next day.",
+              "feedback_fr": "Attendre 24 heures élimine la plupart des achats impulsifs - 90 % ne sont pas voulus le lendemain."
+            },
+            {
+              "question_en": "How does stress affect spending?",
+              "question_fr": "Comment le stress affecte-t-il les dépenses ?",
+              "options_en": [
+                "Decreases spending",
+                "Increases spending by about 30%",
+                "Has no effect",
+                "Makes people more logical"
+              ],
+              "options_fr": [
+                "Diminue les dépenses",
+                "Augmente les dépenses d'environ 30 %",
+                "N'a aucun effet",
+                "Rend les gens plus logiques"
+              ],
+              "correct": 1,
+              "feedback_en": "Studies show stress increases spending by about 30% as people seek emotional comfort.",
+              "feedback_fr": "Les études montrent que le stress augmente les dépenses d'environ 30 % car les gens recherchent du réconfort émotionnel."
+            },
+            {
+              "question_en": "What should you unsubscribe from to reduce spending?",
+              "question_fr": "De quoi devriez-vous vous désabonner pour réduire vos dépenses ?",
+              "options_en": [
+                "Your utilities",
+                "Marketing and promotional emails",
+                "Your subscriptions are fine",
+                "Newsletters about your hobbies"
+              ],
+              "options_fr": [
+                "Vos services publics",
+                "Les e-mails marketing et promotionnels",
+                "Vos abonnements vont bien",
+                "Les newsletters sur vos loisirs"
+              ],
+              "correct": 1,
+              "feedback_en": "Marketing emails create artificial urgency and tempt you to spend. Unsubscribe to reduce temptation.",
+              "feedback_fr": "Les e-mails marketing créent une urgence artificielle et vous tentent de dépenser. Désabonnez-vous pour réduire la tentation."
+            }
+          ]
+        },
+        {
+          "id": "pf_110",
+          "title_en": "Financial Independence Principles",
+          "title_fr": "Principes d'Indépendance Financière",
+          "content_en": "Financial independence (FI) means having enough investments to cover your living expenses without needing to work. It's not about being rich - it's about having freedom and options. The 4% Rule says you can safely withdraw 4% of your investments annually without running out of money. Therefore, you need 25 times your annual expenses invested (Annual expenses × 25 = FI number).\n\nFor example, if you spend $40,000 per year, you need $1,000,000 invested. This sounds like a lot, but with compound interest and consistent saving, it's achievable. Save 50% or more of your income and you could reach FI in 15-20 years. Every dollar you save is 25 future dollars you don't need to earn. FI isn't about early retirement for everyone - it's about having the freedom to choose work you love, take career risks, or spend time with family without financial stress. The goal is options, not idleness.",
+          "content_fr": "L'indépendance financière signifie avoir suffisamment d'investissements pour couvrir vos dépenses de subsistance sans avoir besoin de travailler. Il ne s'agit pas d'être riche - il s'agit d'avoir la liberté et des options. La règle des 4 % dit que vous pouvez retirer 4 % de vos investissements annuellement sans manquer d'argent. Par conséquent, vous avez besoin de 25 fois vos dépenses annuelles investies (Dépenses annuelles × 25 = montant FI).\n\nPar exemple, si vous dépensez 40 000 $ par an, vous avez besoin de 1 000 000 $ investis. Cela semble beaucoup, mais avec les intérêts composés et une épargne constante, c'est réalisable. Épargnez 50 % ou plus de vos revenus et vous pourriez atteindre l'indépendance financière en 15 à 20 ans. Chaque dollar que vous économisez représente 25 dollars futurs que vous n'avez pas besoin de gagner. L'indépendance financière ne concerne pas la retraite anticipée pour tout le monde - il s'agit d'avoir la liberté de choisir un travail que vous aimez, de prendre des risques professionnels ou de passer du temps en famille sans stress financier. L'objectif est les options, pas l'oisiveté.",
+          "key_points_en": [
+            "The 4% Rule: You need 25x annual expenses invested",
+            "Save 50%+ of income to reach FI in 15-20 years",
+            "Every dollar saved is 25 future dollars you don't need to earn",
+            "FI is about options, not early retirement"
+          ],
+          "key_points_fr": [
+            "La règle des 4 % : Vous avez besoin de 25 fois les dépenses annuelles investies",
+            "Épargnez 50 % ou plus de vos revenus pour atteindre l'indépendance financière en 15-20 ans",
+            "Chaque dollar économisé représente 25 dollars futurs que vous n'avez pas besoin de gagner",
+            "L'indépendance financière concerne les options, pas la retraite anticipée"
+          ],
+          "examples": [
+            {
+              "bad_en": "Save nothing, work until 70 with no options",
+              "bad_fr": "N'épargnez rien, travaillez jusqu'à 70 ans sans options",
+              "good_en": "Save 50% of income, reach FI at 45 with career freedom and choices",
+              "good_fr": "Épargnez 50 % de vos revenus, atteignez l'indépendance financière à 45 ans avec liberté et choix de carrière"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is the 4% rule?",
+              "question_fr": "Qu'est-ce que la règle des 4 % ?",
+              "options_en": [
+                "Save 4% of income",
+                "Withdraw 4% of your portfolio annually in retirement",
+                "Get 4% returns",
+                "Pay 4% in fees"
+              ],
+              "options_fr": [
+                "Épargner 4 % du revenu",
+                "Retirer 4 % de votre portefeuille annuellement à la retraite",
+                "Obtenir 4 % de rendement",
+                "Payer 4 % de frais"
+              ],
+              "correct": 1,
+              "feedback_en": "The 4% rule says you can withdraw 4% of your portfolio annually in retirement without running out of money.",
+              "feedback_fr": "La règle des 4 % dit que vous pouvez retirer 4 % de votre portefeuille annuellement à la retraite sans manquer d'argent."
+            },
+            {
+              "question_en": "According to the 4% rule, how much do you need invested if your annual expenses are $40,000?",
+              "question_fr": "Selon la règle des 4 %, de combien avez-vous besoin d'investir si vos dépenses annuelles sont de 40 000 $ ?",
+              "options_en": [
+                "$400,000",
+                "$800,000",
+                "$1,000,000",
+                "$2,000,000"
+              ],
+              "options_fr": [
+                "400 000 $",
+                "800 000 $",
+                "1 000 000 $",
+                "2 000 000 $"
+              ],
+              "correct": 1,
+              "feedback_en": "$40,000 ÷ 4% = $1,000,000 needed (25x annual expenses).",
+              "feedback_fr": "40 000 $ ÷ 4 % = 1 000 000 $ nécessaire (25 fois les dépenses annuelles)."
+            },
+            {
+              "question_en": "What is financial independence really about?",
+              "question_fr": "Qu'est-ce que l'indépendance financière signifie vraiment ?",
+              "options_en": [
+                "Being rich",
+                "Having options and freedom, not being dependent on a job for survival",
+                "Never working again",
+                "Having a million dollars"
+              ],
+              "options_fr": [
+                "Être riche",
+                "Avoir des options et la liberté, ne pas dépendre d'un emploi pour survivre",
+                "Ne plus jamais travailler",
+                "Avoir un million de dollars"
+              ],
+              "correct": 1,
+              "feedback_en": "FI is about having enough that work becomes optional - you have choices.",
+              "feedback_fr": "L'indépendance financière consiste à avoir suffisamment pour que le travail devienne optionnel - vous avez des choix."
+            },
+            {
+              "question_en": "What savings rate leads to FI in about 15-20 years?",
+              "question_fr": "Quel taux d'épargne mène à l'indépendance financière en environ 15-20 ans ?",
+              "options_en": [
+                "10%",
+                "25%",
+                "50%",
+                "75%"
+              ],
+              "options_fr": [
+                "10 %",
+                "25 %",
+                "50 %",
+                "75 %"
+              ],
+              "correct": 1,
+              "feedback_en": "Saving 50% of your income can lead to financial independence in 15-20 years.",
+              "feedback_fr": "Épargner 50 % de vos revenus peut mener à l'indépendance financière en 15-20 ans."
+            },
+            {
+              "question_en": "What's the relationship between spending and FI?",
+              "question_fr": "Quelle est la relation entre les dépenses et l'indépendance financière ?",
+              "options_en": [
+                "Higher spending means faster FI",
+                "Lower spending means you need less saved for FI",
+                "Spending doesn't affect FI",
+                "Only income matters"
+              ],
+              "options_fr": [
+                "Des dépenses plus élevées signifient une indépendance financière plus rapide",
+                "Des dépenses plus faibles signifient que vous avez besoin de moins d'épargne pour l'indépendance financière",
+                "Les dépenses n'affectent pas l'indépendance financière",
+                "Seul le revenu compte"
+              ],
+              "correct": 1,
+              "feedback_en": "Reducing spending both increases your savings rate AND reduces the amount you need to save.",
+              "feedback_fr": "Réduire les dépenses augmente à la fois votre taux d'épargne ET réduit le montant que vous devez épargner."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

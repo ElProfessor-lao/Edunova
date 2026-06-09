@@ -1,0 +1,1252 @@
+{
+  "categories": [
+    {
+      "name": "Social Skills",
+      "icon": "🗣️",
+      "description_en": "Build confidence and meaningful connections",
+      "description_fr": "Développez votre confiance et créez des relations significatives",
+      "lessons": [
+        {
+          "id": "ss_101",
+          "title_en": "Active Listening",
+          "title_fr": "L'Écoute Active",
+          "content_en": "Most people listen to respond, not to understand. Active listening means fully concentrating on what someone is saying rather than just passively hearing their words. Research shows that active listening improves relationship satisfaction by 40% and reduces misunderstandings significantly. When people feel truly heard, they feel respected and valued.\n\nThe key components of active listening are: giving full attention (put away your phone, make eye contact), using verbal affirmations ('I see', 'Go on', 'That makes sense'), paraphrasing what you heard ('So what you're saying is...'), and asking thoughtful follow-up questions. Avoid interrupting, judging, or planning your response while they're still speaking. The goal is to understand their perspective, not to win an argument or give advice. Sometimes, being heard is all someone needs.",
+          "content_fr": "La plupart des gens écoutent pour répondre, pas pour comprendre. L'écoute active signifie se concentrer pleinement sur ce que quelqu'un dit plutôt que d'entendre passivement ses mots. La recherche montre que l'écoute active améliore la satisfaction relationnelle de 40 % et réduit considérablement les malentendus. Quand les gens se sentent vraiment écoutés, ils se sentent respectés et valorisés.\n\nLes composants clés de l'écoute active sont : accorder toute son attention (rangez votre téléphone, établissez un contact visuel), utiliser des affirmations verbales ('Je vois', 'Continue', 'C'est logique'), paraphraser ce que vous avez entendu ('Donc ce que vous dites, c'est...'), et poser des questions de suivi réfléchies. Évitez d'interrompre, de juger ou de planifier votre réponse pendant qu'ils parlent encore. L'objectif est de comprendre leur perspective, pas de gagner un argument ou de donner des conseils. Parfois, être entendu est tout ce dont quelqu'un a besoin.",
+          "key_points_en": [
+            "Give full attention - put away your phone",
+            "Use verbal affirmations: 'I see', 'Go on'",
+            "Paraphrase: 'So what you're saying is...'",
+            "Ask thoughtful follow-up questions"
+          ],
+          "key_points_fr": [
+            "Accordez toute votre attention - rangez votre téléphone",
+            "Utilisez des affirmations verbales : 'Je vois', 'Continue'",
+            "Paraphrasez : 'Donc ce que vous dites, c'est...'",
+            "Posez des questions de suivi réfléchies"
+          ],
+          "examples": [
+            {
+              "bad_en": "Yeah, that sucks. Anyway, did you see the game last night? (changing subject)",
+              "bad_fr": "Ouais, c'est nul. Bref, tu as vu le match hier soir ? (changer de sujet)",
+              "good_en": "It sounds like you're feeling a lot of pressure. What part of this situation is causing you the most stress?",
+              "good_fr": "On dirait que vous ressentez beaucoup de pression. Quelle partie de cette situation vous cause le plus de stress ?"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What is active listening?",
+              "question_fr": "Qu'est-ce que l'écoute active ?",
+              "options_en": [
+                "Waiting for your turn to talk",
+                "Fully concentrating to understand the speaker",
+                "Nodding while thinking about something else",
+                "Giving advice immediately"
+              ],
+              "options_fr": [
+                "Attendre son tour pour parler",
+                "Se concentrer pleinement pour comprendre l'orateur",
+                "Hocher la tête tout en pensant à autre chose",
+                "Donner des conseils immédiatement"
+              ],
+              "correct": 1,
+              "feedback_en": "Active listening means fully focusing on understanding the speaker.",
+              "feedback_fr": "L'écoute active signifie se concentrer pleinement pour comprendre l'orateur."
+            },
+            {
+              "question_en": "Which is an example of active listening?",
+              "question_fr": "Quel est un exemple d'écoute active ?",
+              "options_en": [
+                "Checking your phone while they talk",
+                "So what I hear you saying is...",
+                "Interrupting to share your own story",
+                "Planning your response while they speak"
+              ],
+              "options_fr": [
+                "Regarder votre téléphone pendant qu'ils parlent",
+                "Donc ce que j'entends, c'est que...",
+                "Interrompre pour partager votre propre histoire",
+                "Planifier votre réponse pendant qu'ils parlent"
+              ],
+              "correct": 1,
+              "feedback_en": "Paraphrasing shows you're truly listening and understanding.",
+              "feedback_fr": "Paraphraser montre que vous écoutez et comprenez vraiment."
+            },
+            {
+              "question_en": "What should you avoid when actively listening?",
+              "question_fr": "Que devez-vous éviter lorsque vous écoutez activement ?",
+              "options_en": [
+                "Asking follow-up questions",
+                "Interrupting to give advice or share your experience",
+                "Making eye contact",
+                "Nodding to show understanding"
+              ],
+              "options_fr": [
+                "Poser des questions de suivi",
+                "Interrompre pour donner des conseils ou partager votre expérience",
+                "Établir un contact visuel",
+                "Hocher la tête pour montrer votre compréhension"
+              ],
+              "correct": 1,
+              "feedback_en": "Interrupting shuts down communication. Listen fully before responding.",
+              "feedback_fr": "Interrompre interrompt la communication. Écoutez complètement avant de répondre."
+            },
+            {
+              "question_en": "Why is paraphrasing important in active listening?",
+              "question_fr": "Pourquoi la paraphrase est-elle importante dans l'écoute active ?",
+              "options_en": [
+                "It shows you're smarter than the speaker",
+                "It confirms understanding and allows correction",
+                "It makes conversations longer",
+                "It impresses people with your vocabulary"
+              ],
+              "options_fr": [
+                "Cela montre que vous êtes plus intelligent que l'orateur",
+                "Cela confirme la compréhension et permet la correction",
+                "Cela allonge les conversations",
+                "Cela impressionne les gens avec votre vocabulaire"
+              ],
+              "correct": 1,
+              "feedback_en": "Paraphrasing confirms your understanding and lets the speaker clarify if needed.",
+              "feedback_fr": "Paraphraser confirme votre compréhension et permet à l'orateur de clarifier si nécessaire."
+            },
+            {
+              "question_en": "What's the best response to someone who says 'I'm so stressed about this presentation'?",
+              "question_fr": "Quelle est la meilleure réponse à quelqu'un qui dit 'Je suis tellement stressé par cette présentation' ?",
+              "options_en": [
+                "Don't worry, you'll do fine",
+                "I gave a bad presentation once too",
+                "It sounds like you're feeling pressure. What part is most stressful?",
+                "Just practice more and you'll be fine"
+              ],
+              "options_fr": [
+                "Ne t'inquiète pas, ça va bien se passer",
+                "J'ai déjà fait une mauvaise présentation moi aussi",
+                "On dirait que vous ressentez de la pression. Quelle partie est la plus stressante ?",
+                "Entraîne-toi plus et ça ira"
+              ],
+              "correct": 1,
+              "feedback_en": "You validated their feeling AND asked a follow-up question to understand better.",
+              "feedback_fr": "Vous avez validé leur sentiment ET posé une question de suivi pour mieux comprendre."
+            }
+          ]
+        },
+        {
+          "id": "ss_102",
+          "title_en": "Starting Conversations",
+          "title_fr": "Commencer des Conversations",
+          "content_en": "Starting conversations feels scary, but it gets easier with practice and a few go-to openers. The FORD method gives you four reliable topics: Family, Occupation, Recreation, and Dreams. These are universal topics that most people enjoy discussing. Observational openers like 'What do you think of this event?' or 'How do you know the host?' work well because you're commenting on your shared environment.\n\nGive a genuine compliment, then ask a question: 'I love your presentation style. How did you prepare for this?' Most people are nervous too - remembering this reduces your anxiety. The goal isn't to be clever or impressive; it's to be curious and show genuine interest. Prepare 3 conversation starters before events so you're never stuck for words. And remember: asking questions and listening is often more charming than talking about yourself.",
+          "content_fr": "Commencer des conversations semble effrayant, mais cela devient plus facile avec la pratique et quelques amorces de conversation. La méthode FORD vous donne quatre sujets fiables : Famille, Occupation, Loisirs et Rêves. Ce sont des sujets universels que la plupart des gens aiment discuter. Les amorces d'observation comme 'Que pensez-vous de cet événement ?' ou 'Comment connaissez-vous l'hôte ?' fonctionnent bien parce que vous commentez votre environnement commun.\n\nFaites un compliment sincère, puis posez une question : 'J'adore votre style de présentation. Comment vous êtes-vous préparé ?' La plupart des gens sont nerveux aussi - se souvenir de cela réduit votre anxiété. L'objectif n'est pas d'être intelligent ou impressionnant ; c'est d'être curieux et de montrer un intérêt sincère. Préparez 3 amorces de conversation avant les événements pour ne jamais être à court de mots. Et rappelez-vous : poser des questions et écouter est souvent plus charmant que de parler de soi.",
+          "key_points_en": [
+            "Use FORD: Family, Occupation, Recreation, Dreams",
+            "Observational openers: 'What do you think of...'",
+            "Give a genuine compliment, then ask a question",
+            "Most people are nervous too"
+          ],
+          "key_points_fr": [
+            "Utilisez FORD : Famille, Occupation, Loisirs, Rêves",
+            "Amorces d'observation : 'Que pensez-vous de...'",
+            "Faites un compliment sincère, puis posez une question",
+            "La plupart des gens sont nerveux aussi"
+          ],
+          "examples": [
+            {
+              "bad_en": "Awkward silence or starting with a complaint",
+              "bad_fr": "Silence gênant ou commencer par une plainte",
+              "good_en": "I love your shirt! Where did you get it? That's a really unique pattern.",
+              "good_fr": "J'adore votre chemise ! Où l'avez-vous achetée ? C'est un motif vraiment unique."
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What does FORD stand for in conversation starters?",
+              "question_fr": "Que signifie FORD dans les amorces de conversation ?",
+              "options_en": [
+                "Family, Occupation, Recreation, Dreams",
+                "Food, Orders, Racing, Driving",
+                "Friends, Opinions, Relationships, Decisions",
+                "Fun, Openers, Responses, Details"
+              ],
+              "options_fr": [
+                "Famille, Occupation, Loisirs, Rêves",
+                "Nourriture, Commandes, Course, Conduite",
+                "Amis, Opinions, Relations, Décisions",
+                "Plaisir, Amorces, Réponses, Détails"
+              ],
+              "correct": 0,
+              "feedback_en": "FORD = Family, Occupation, Recreation, Dreams - great conversation topics.",
+              "feedback_fr": "FORD = Famille, Occupation, Loisirs, Rêves - d'excellents sujets de conversation."
+            },
+            {
+              "question_en": "What's a good observational opener?",
+              "question_fr": "Qu'est-ce qu'une bonne amorce d'observation ?",
+              "options_en": [
+                "What do you think of this event?",
+                "You're so quiet",
+                "Why are you here?",
+                "I'm bored"
+              ],
+              "options_fr": [
+                "Que pensez-vous de cet événement ?",
+                "Vous êtes si silencieux",
+                "Pourquoi êtes-vous ici ?",
+                "Je m'ennuie"
+              ],
+              "correct": 0,
+              "feedback_en": "Observational openers comment on your shared environment - 'What do you think of...?'",
+              "feedback_fr": "Les amorces d'observation commentent votre environnement partagé - 'Que pensez-vous de... ?'"
+            },
+            {
+              "question_en": "What should you avoid as a conversation starter?",
+              "question_fr": "Que devriez-vous éviter comme amorce de conversation ?",
+              "options_en": [
+                "A genuine compliment",
+                "An open-ended question",
+                "A controversial opinion or negative comment",
+                "An observation about the event"
+              ],
+              "options_fr": [
+                "Un compliment sincère",
+                "Une question ouverte",
+                "Une opinion controversée ou un commentaire négatif",
+                "Une observation sur l'événement"
+              ],
+              "correct": 1,
+              "feedback_en": "Avoid controversial or negative openers - they create awkwardness.",
+              "feedback_fr": "Évitez les amorces controversées ou négatives - elles créent de la gêne."
+            },
+            {
+              "question_en": "How do most people feel about starting conversations?",
+              "question_fr": "Comment la plupart des gens se sentent-ils à propos de commencer des conversations ?",
+              "options_en": [
+                "Completely confident",
+                "Nervous - it's normal to feel some anxiety",
+                "Never nervous",
+                "Only extroverts get nervous"
+              ],
+              "options_fr": [
+                "Complètement confiant",
+                "Nerveux - c'est normal de ressentir une certaine anxiété",
+                "Jamais nerveux",
+                "Seuls les extravertis sont nerveux"
+              ],
+              "correct": 1,
+              "feedback_en": "Most people feel at least some nervousness starting conversations - it's completely normal.",
+              "feedback_fr": "La plupart des gens ressentent au moins une certaine nervosité à l'idée de commencer des conversations - c'est tout à fait normal."
+            },
+            {
+              "question_en": "What's a good follow-up after 'What do you do for work?'",
+              "question_fr": "Qu'est-ce qu'un bon suivi après 'Que faites-vous dans la vie ?'",
+              "options_en": [
+                "Sounds boring",
+                "That's nice",
+                "What do you enjoy most about it?",
+                "My job is better"
+              ],
+              "options_fr": [
+                "Ça semble ennuyeux",
+                "C'est gentil",
+                "Qu'est-ce que vous aimez le plus dans ce métier ?",
+                "Mon travail est meilleur"
+              ],
+              "correct": 1,
+              "feedback_en": "Asking what they enjoy about it shows genuine interest and keeps the conversation going.",
+              "feedback_fr": "Demander ce qu'ils aiment dans leur métier montre un intérêt sincère et fait continuer la conversation."
+            }
+          ]
+        },
+        {
+          "id": "ss_103",
+          "title_en": "Setting Boundaries",
+          "title_fr": "Établir des Limites",
+          "content_en": "Boundaries are how you protect your time, energy, and mental health. They're not selfish - they're essential for healthy relationships. Without boundaries, resentment builds, burnout occurs, and relationships suffer. Setting boundaries is an act of self-respect and actually improves relationships because it prevents hidden resentment.\n\nBe clear and direct, not apologetic. Use 'I' statements: 'I can't do that right now' or 'I need to leave by 7pm.' Don't over-explain or justify your boundary - 'No' is a complete sentence. Practice saying no to small things first to build your boundary-setting muscle. Remember that people who get upset about your boundaries are often the ones who benefited from you having none. You're not responsible for other people's reactions to your healthy boundaries.",
+          "content_fr": "Les limites sont la façon dont vous protégez votre temps, votre énergie et votre santé mentale. Elles ne sont pas égoïstes - elles sont essentielles pour des relations saines. Sans limites, le ressentiment s'accumule, l'épuisement professionnel se produit et les relations en souffrent. Établir des limites est un acte de respect de soi et améliore en fait les relations car cela empêche le ressentiment caché.\n\nSoyez clair et direct, pas apologétique. Utilisez des déclarations 'je' : 'Je ne peux pas faire cela maintenant' ou 'J'ai besoin de partir à 19h.' N'en faites pas trop et ne justifiez pas votre limite - 'Non' est une phrase complète. Entraînez-vous à dire non à de petites choses d'abord pour développer votre muscle d'établissement de limites. Rappelez-vous que les personnes qui se fâchent contre vos limites sont souvent celles qui ont bénéficié de votre absence de limites. Vous n'êtes pas responsable des réactions des autres à vos limites saines.",
+          "key_points_en": [
+            "Be clear and direct, not apologetic",
+            "Use 'I' statements: 'I can't do that right now'",
+            "Don't over-explain or justify",
+            "Practice saying no to small things first"
+          ],
+          "key_points_fr": [
+            "Soyez clair et direct, pas apologétique",
+            "Utilisez des déclarations 'je' : 'Je ne peux pas faire cela maintenant'",
+            "N'en faites pas trop et ne justifiez pas",
+            "Entraînez-vous à dire non à de petites choses d'abord"
+          ],
+          "examples": [
+            {
+              "bad_en": "Saying yes when you want to say no, then feeling resentful",
+              "bad_fr": "Dire oui quand vous voulez dire non, puis ressentir du ressentiment",
+              "good_en": "I can't help with that today. Thanks for understanding. Let me know if another time works.",
+              "good_fr": "Je ne peux pas aider avec cela aujourd'hui. Merci de votre compréhension. Dites-moi si un autre moment fonctionne."
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What are boundaries?",
+              "question_fr": "Que sont les limites ?",
+              "options_en": [
+                "Walls that push people away",
+                "Guidelines that protect your time and energy",
+                "Rules for other people",
+                "Being selfish"
+              ],
+              "options_fr": [
+                "Des murs qui repoussent les gens",
+                "Des directives qui protègent votre temps et votre énergie",
+                "Des règles pour les autres",
+                "Être égoïste"
+              ],
+              "correct": 1,
+              "feedback_en": "Boundaries protect your time, energy, and well-being - they're essential for healthy relationships.",
+              "feedback_fr": "Les limites protègent votre temps, votre énergie et votre bien-être - elles sont essentielles pour des relations saines."
+            },
+            {
+              "question_en": "What's the best way to say no?",
+              "question_fr": "Quelle est la meilleure façon de dire non ?",
+              "options_en": [
+                "I can't do that right now. Thanks for understanding.",
+                "Maybe... I'm not sure...",
+                "Fine, I guess I can",
+                "*silence*"
+              ],
+              "options_fr": [
+                "Je ne peux pas faire cela maintenant. Merci de votre compréhension.",
+                "Peut-être... Je ne suis pas sûr...",
+                "Très bien, je suppose que je peux",
+                "*silence*"
+              ],
+              "correct": 0,
+              "feedback_en": "Be clear and direct without over-explaining or apologizing excessively.",
+              "feedback_fr": "Soyez clair et direct sans trop expliquer ni vous excuser excessivement."
+            },
+            {
+              "question_en": "Is setting boundaries selfish?",
+              "question_fr": "Établir des limites est-il égoïste ?",
+              "options_en": [
+                "Yes, always",
+                "No, it's essential for healthy relationships and prevents resentment",
+                "Only sometimes",
+                "Only if you say no to everything"
+              ],
+              "options_fr": [
+                "Oui, toujours",
+                "Non, c'est essentiel pour des relations saines et prévient le ressentiment",
+                "Seulement parfois",
+                "Seulement si vous dites non à tout"
+              ],
+              "correct": 1,
+              "feedback_en": "Boundaries prevent resentment and burnout. They're not selfish - they're necessary.",
+              "feedback_fr": "Les limites préviennent le ressentiment et l'épuisement. Elles ne sont pas égoïstes - elles sont nécessaires."
+            },
+            {
+              "question_en": "What should you avoid when setting boundaries?",
+              "question_fr": "Que devriez-vous éviter lorsque vous établissez des limites ?",
+              "options_en": [
+                "Being clear",
+                "Using 'I' statements",
+                "Over-explaining and justifying your no",
+                "Being direct"
+              ],
+              "options_fr": [
+                "Être clair",
+                "Utiliser des déclarations 'je'",
+                "Trop expliquer et justifier votre non",
+                "Être direct"
+              ],
+              "correct": 1,
+              "feedback_en": "Don't over-explain - 'I can't do that' is a complete sentence.",
+              "feedback_fr": "N'en faites pas trop - 'Je ne peux pas faire cela' est une phrase complète."
+            },
+            {
+              "question_en": "How can you practice setting boundaries?",
+              "question_fr": "Comment pouvez-vous pratiquer l'établissement de limites ?",
+              "options_en": [
+                "Start with big, scary boundaries first",
+                "Start with small, low-stakes boundaries and work up",
+                "Never practice, just do it perfectly",
+                "Only set boundaries with strangers"
+              ],
+              "options_fr": [
+                "Commencez par les grandes limites effrayantes d'abord",
+                "Commencez par de petites limites sans enjeu et augmentez progressivement",
+                "Ne pratiquez jamais, faites-le parfaitement du premier coup",
+                "Établissez des limites uniquement avec des étrangers"
+              ],
+              "correct": 1,
+              "feedback_en": "Practice with small boundaries first (like declining a small request) to build confidence.",
+              "feedback_fr": "Entraînez-vous d'abord avec de petites limites (comme refuser une petite demande) pour développer votre confiance."
+            }
+          ]
+        },
+        {
+          "id": "ss_104",
+          "title_en": "Reading Social Cues",
+          "title_fr": "Lire les Signaux Sociaux",
+          "content_en": "Social cues are the signals people give about how they're feeling or what they want. Learning to read them prevents awkward moments and helps you respond appropriately. Body language, tone of voice, and facial expressions often reveal more than words. About 93% of communication is non-verbal, so mastering social cues is a superpower.\n\nKey cues to watch for: Step back or leaning away usually means they need physical space. Short, one-word answers indicate disinterest - time to wrap up or change topics. Leaning in shows engagement and interest. Checking their phone repeatedly suggests distraction or boredom. Crossed arms often signal defensiveness or being closed off. Mirroring your posture indicates rapport. Pay attention to clusters of cues rather than single gestures. When in doubt, politely ask: 'Is this still a good time, or should we catch up later?'",
+          "content_fr": "Les signaux sociaux sont les signaux que les gens donnent sur ce qu'ils ressentent ou ce qu'ils veulent. Apprendre à les lire prévient les moments gênants et vous aide à répondre de manière appropriée. Le langage corporel, le ton de la voix et les expressions faciales révèlent souvent plus que les mots. Environ 93 % de la communication est non verbale, donc maîtriser les signaux sociaux est un superpouvoir.\n\nSignaux clés à surveiller : Reculer ou se pencher en arrière signifie généralement qu'ils ont besoin d'espace physique. Des réponses courtes d'un mot indiquent un désintérêt - il est temps de conclure ou de changer de sujet. Se pencher montre de l'engagement et de l'intérêt. Regarder leur téléphone à plusieurs reprises suggère une distraction ou de l'ennui. Les bras croisés signalent souvent une attitude défensive ou fermée. Le miroir de votre posture indique un rapport. Faites attention aux grappes de signaux plutôt qu'aux gestes isolés. En cas de doute, demandez poliment : 'Est-ce toujours un bon moment, ou devrions-nous nous rattraper plus tard ?'",
+          "key_points_en": [
+            "Step back = needs space",
+            "Short answers = not engaged",
+            "Leaning in = interested",
+            "Checking phone = bored or distracted"
+          ],
+          "key_points_fr": [
+            "Reculer = a besoin d'espace",
+            "Réponses courtes = pas engagé",
+            "Se pencher = intéressé",
+            "Regarder le téléphone = ennuyé ou distrait"
+          ],
+          "examples": [
+            {
+              "bad_en": "Keep talking when they're clearly done (short answers, looking away)",
+              "bad_fr": "Continuer à parler quand ils ont clairement fini (réponses courtes, regard détourné)",
+              "good_en": "Noticing cues and wrapping up: 'I should let you go. Great talking with you!'",
+              "good_fr": "Remarquer les signaux et conclure : 'Je devrais vous laisser. Ce fut un plaisir de parler avec vous !'"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What does leaning in during conversation usually mean?",
+              "question_fr": "Que signifie généralement se pencher pendant une conversation ?",
+              "options_en": [
+                "Disinterest",
+                "Boredom",
+                "Interest and engagement",
+                "Wanting to leave"
+              ],
+              "options_fr": [
+                "Désintérêt",
+                "Ennui",
+                "Intérêt et engagement",
+                "Vouloir partir"
+              ],
+              "correct": 2,
+              "feedback_en": "Leaning in shows interest and engagement in the conversation.",
+              "feedback_fr": "Se pencher montre de l'intérêt et de l'engagement dans la conversation."
+            },
+            {
+              "question_en": "What might short, one-word answers indicate?",
+              "question_fr": "Que peuvent indiquer des réponses courtes d'un mot ?",
+              "options_en": [
+                "Deep interest",
+                "They're not engaged or want to end the conversation",
+                "They're thinking deeply",
+                "They're practicing being quiet"
+              ],
+              "options_fr": [
+                "Intérêt profond",
+                "Ils ne sont pas engagés ou veulent terminer la conversation",
+                "Ils réfléchissent profondément",
+                "Ils s'entraînent à être silencieux"
+              ],
+              "correct": 1,
+              "feedback_en": "Short answers often indicate the person isn't engaged or wants to end the conversation.",
+              "feedback_fr": "Les réponses courtes indiquent souvent que la personne n'est pas engagée ou veut terminer la conversation."
+            },
+            {
+              "question_en": "What should you do if someone checks their phone while you're talking?",
+              "question_fr": "Que devriez-vous faire si quelqu'un regarde son téléphone pendant que vous parlez ?",
+              "options_en": [
+                "Talk louder",
+                "Keep talking the same",
+                "Wrap up the conversation - they may be distracted or need to leave",
+                "Get angry"
+              ],
+              "options_fr": [
+                "Parler plus fort",
+                "Continuer à parler normalement",
+                "Conclure la conversation - ils peuvent être distraits ou devoir partir",
+                "Se fâcher"
+              ],
+              "correct": 2,
+              "feedback_en": "Phone-checking often signals distraction. It's usually time to wrap up.",
+              "feedback_fr": "Le fait de regarder le téléphone signale souvent une distraction. Il est généralement temps de conclure."
+            },
+            {
+              "question_en": "What does someone stepping back from you indicate?",
+              "question_fr": "Qu'indique le fait que quelqu'un recule devant vous ?",
+              "options_en": [
+                "They want a hug",
+                "They need physical space",
+                "They're about to dance",
+                "They want you to follow them"
+              ],
+              "options_fr": [
+                "Ils veulent un câlin",
+                "Ils ont besoin d'espace physique",
+                "Ils sont sur le point de danser",
+                "Ils veulent que vous les suiviez"
+              ],
+              "correct": 1,
+              "feedback_en": "Stepping back usually means they need more physical space - respect it.",
+              "feedback_fr": "Reculer signifie généralement qu'ils ont besoin de plus d'espace physique - respectez-le."
+            },
+            {
+              "question_en": "What's the best response to someone who seems disengaged?",
+              "question_fr": "Quelle est la meilleure réponse à quelqu'un qui semble désengagé ?",
+              "options_en": [
+                "Keep talking longer",
+                "Get louder",
+                "Ask 'Is this still a good time to talk?' or wrap up gracefully",
+                "Ignore their cues"
+              ],
+              "options_fr": [
+                "Continuer à parler plus longtemps",
+                "Parler plus fort",
+                "Demander 'Est-ce toujours un bon moment pour parler ?' ou conclure avec grâce",
+                "Ignorer leurs signaux"
+              ],
+              "correct": 2,
+              "feedback_en": "Politely check in or wrap up - 'I should let you go. Great talking!'",
+              "feedback_fr": "Vérifiez poliment ou concluez - 'Je devrais vous laisser. Ce fut un plaisir de parler !'"
+            }
+          ]
+        },
+        {
+          "id": "ss_105",
+          "title_en": "Handling Difficult People",
+          "title_fr": "Gérer les Personnes Difficiles",
+          "content_en": "Difficult people exist in every workplace, family, and social circle. The key to handling them is managing your response, not trying to change them. You cannot control other people's behavior, but you can control how you react. This realization is incredibly freeing.\n\nDon't take their behavior personally - their actions reflect their own issues, not your worth. Set clear boundaries early and enforce them consistently. Use the 'gray rock' method with manipulative people: become boring and unresponsive, giving short, neutral answers until they lose interest. Limit exposure when possible - you don't have to attend every argument you're invited to. Stay calm; don't engage in drama. The best response to provocation is often no response at all. Remember that silence is a powerful answer.",
+          "content_fr": "Les personnes difficiles existent dans tous les lieux de travail, familles et cercles sociaux. La clé pour les gérer est de gérer votre réponse, pas d'essayer de les changer. Vous ne pouvez pas contrôler le comportement des autres, mais vous pouvez contrôler votre réaction. Cette réalisation est incroyablement libératrice.\n\nNe prenez pas leur comportement personnellement - leurs actions reflètent leurs propres problèmes, pas votre valeur. Établissez des limites claires tôt et appliquez-les de manière cohérente. Utilisez la méthode du 'rocher gris' avec les personnes manipulatrices : devenez ennuyeux et sans réaction, donnez des réponses courtes et neutres jusqu'à ce qu'elles perdent intérêt. Limitez l'exposition lorsque c'est possible - vous n'êtes pas obligé d'assister à chaque dispute à laquelle vous êtes invité. Restez calme ; ne vous engagez pas dans le drame. La meilleure réponse à la provocation est souvent l'absence de réponse. Rappelez-vous que le silence est une réponse puissante.",
+          "key_points_en": [
+            "Don't take it personally (their behavior is about them)",
+            "Set clear boundaries early",
+            "Use the gray rock method with manipulators",
+            "Limit exposure when possible"
+          ],
+          "key_points_fr": [
+            "Ne le prenez pas personnellement (leur comportement parle d'eux)",
+            "Établissez des limites claires tôt",
+            "Utilisez la méthode du 'rocher gris' avec les manipulateurs",
+            "Limitez l'exposition lorsque c'est possible"
+          ],
+          "examples": [
+            {
+              "bad_en": "Fight fire with fire - get angry and defensive when provoked",
+              "bad_fr": "Rendre coup pour coup - se fâcher et devenir défensif lorsqu'on est provoqué",
+              "good_en": "Stay calm, don't engage in drama, set clear boundaries: 'I'm not going to discuss this when you're yelling. Let's talk when we're both calm.'",
+              "good_fr": "Restez calme, ne vous engagez pas dans le drame, établissez des limites claires : 'Je ne vais pas discuter de cela quand vous criez. Parlons quand nous sommes tous les deux calmes.'"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What's the key to handling difficult people?",
+              "question_fr": "Quelle est la clé pour gérer les personnes difficiles ?",
+              "options_en": [
+                "Changing them",
+                "Managing your own response, not trying to change them",
+                "Avoiding all conflict",
+                "Fighting back harder"
+              ],
+              "options_fr": [
+                "Les changer",
+                "Gérer votre propre réponse, sans essayer de les changer",
+                "Éviter tout conflit",
+                "Répondre plus fort"
+              ],
+              "correct": 1,
+              "feedback_en": "You can't change others, but you can control your response to them.",
+              "feedback_fr": "Vous ne pouvez pas changer les autres, mais vous pouvez contrôler votre réponse à leur égard."
+            },
+            {
+              "question_en": "What does 'don't take it personally' mean?",
+              "question_fr": "Que signifie 'ne le prenez pas personnellement' ?",
+              "options_en": [
+                "Their behavior reflects their issues, not your worth",
+                "Ignore everything they say",
+                "Agree with them",
+                "Get angry anyway"
+              ],
+              "options_fr": [
+                "Leur comportement reflète leurs problèmes, pas votre valeur",
+                "Ignorer tout ce qu'ils disent",
+                "Être d'accord avec eux",
+                "Se fâcher quand même"
+              ],
+              "correct": 0,
+              "feedback_en": "Difficult people's behavior usually stems from their own issues, not anything about you.",
+              "feedback_fr": "Le comportement des personnes difficiles découle généralement de leurs propres problèmes, pas de quoi que ce soit à propos de vous."
+            },
+            {
+              "question_en": "What is the 'gray rock' method?",
+              "question_fr": "Qu'est-ce que la méthode du 'rocher gris' ?",
+              "options_en": [
+                "Throwing rocks",
+                "Becoming boring and unresponsive to manipulative people",
+                "Painting yourself gray",
+                "Hiding from people"
+              ],
+              "options_fr": [
+                "Lancer des pierres",
+                "Devenir ennuyeux et sans réaction face aux personnes manipulatrices",
+                "Se peindre en gris",
+                "Se cacher des gens"
+              ],
+              "correct": 1,
+              "feedback_en": "Gray rock means giving boring, uninteresting responses so manipulators lose interest.",
+              "feedback_fr": "Le rocher gris signifie donner des réponses ennuyeuses et sans intérêt pour que les manipulateurs perdent intérêt."
+            },
+            {
+              "question_en": "What's the best response to someone trying to provoke you?",
+              "question_fr": "Quelle est la meilleure réponse à quelqu'un qui essaie de vous provoquer ?",
+              "options_en": [
+                "Get angry back",
+                "Stay calm and don't engage in their drama",
+                "Cry",
+                "Walk away silently without responding"
+              ],
+              "options_fr": [
+                "Se fâcher en retour",
+                "Rester calme et ne pas s'engager dans leur drame",
+                "Pleurer",
+                "Partir silencieusement sans répondre"
+              ],
+              "correct": 1,
+              "feedback_en": "Stay calm and don't take the bait. Engaging in drama rewards their behavior.",
+              "feedback_fr": "Restez calme et ne mordez pas à l'hameçon. S'engager dans le drame récompense leur comportement."
+            },
+            {
+              "question_en": "When should you limit exposure to a difficult person?",
+              "question_fr": "Quand devriez-vous limiter l'exposition à une personne difficile ?",
+              "options_en": [
+                "Never",
+                "Only if they're physically violent",
+                "When they consistently drain your energy and don't respect boundaries",
+                "Only at work"
+              ],
+              "options_fr": [
+                "Jamais",
+                "Seulement s'ils sont physiquement violents",
+                "Quand ils drainent constamment votre énergie et ne respectent pas les limites",
+                "Seulement au travail"
+              ],
+              "correct": 2,
+              "feedback_en": "It's okay to limit time with people who consistently disrespect your boundaries.",
+              "feedback_fr": "Il est acceptable de limiter le temps passé avec des personnes qui manquent constamment de respect à vos limites."
+            }
+          ]
+        },
+        {
+          "id": "ss_106",
+          "title_en": "Asking for Help",
+          "title_fr": "Demander de l'Aide",
+          "content_en": "Strong people ask for help. It's not a sign of weakness - it's a sign of self-awareness and efficiency. Research shows that people who ask for help achieve their goals faster and report less stress. Asking for help builds connection and speeds up learning dramatically.\n\nBe specific about what you need: 'Could you review this two-page document by Friday?' is much better than 'Can you help me?' Ask people who can actually help - don't waste time asking the wrong person. Make it easy for them to say no by adding 'No worries if you're too busy.' This makes their yes more genuine. Always say thank you and follow up with appreciation. Reciprocate when they need help. Remember that most people actually enjoy helping others - it makes them feel valued and competent.",
+          "content_fr": "Les personnes fortes demandent de l'aide. Ce n'est pas un signe de faiblesse - c'est un signe de conscience de soi et d'efficacité. La recherche montre que les personnes qui demandent de l'aide atteignent leurs objectifs plus rapidement et signalent moins de stress. Demander de l'aide crée des liens et accélère considérablement l'apprentissage.\n\nSoyez spécifique sur ce dont vous avez besoin : 'Pourriez-vous relire ce document de deux pages d'ici vendredi ?' est bien mieux que 'Pouvez-vous m'aider ?' Demandez à des personnes qui peuvent réellement aider - ne perdez pas de temps à demander à la mauvaise personne. Facilitez-leur la possibilité de dire non en ajoutant 'Pas de souci si vous êtes trop occupé.' Cela rend leur oui plus authentique. Remerciez toujours et faites un suivi avec appréciation. Rendez la pareille lorsqu'ils ont besoin d'aide. Rappelez-vous que la plupart des gens aiment vraiment aider les autres - cela les fait se sentir valorisés et compétents.",
+          "key_points_en": [
+            "Be specific about what you need",
+            "Ask people who can actually help",
+            "Make it easy for them to say no",
+            "Always say thank you"
+          ],
+          "key_points_fr": [
+            "Soyez spécifique sur ce dont vous avez besoin",
+            "Demandez à des personnes qui peuvent réellement aider",
+            "Facilitez-leur la possibilité de dire non",
+            "Remerciez toujours"
+          ],
+          "examples": [
+            {
+              "bad_en": "Can you help me? (too vague - they don't know what you need)",
+              "bad_fr": "Pouvez-vous m'aider ? (trop vague - ils ne savent pas ce dont vous avez besoin)",
+              "good_en": "Could you review this 2-page document by Friday? No worries if you're too busy.",
+              "good_fr": "Pourriez-vous relire ce document de 2 pages d'ici vendredi ? Pas de souci si vous êtes trop occupé."
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What's wrong with 'Can you help me?' as an ask?",
+              "question_fr": "Qu'est-ce qui ne va pas avec 'Pouvez-vous m'aider ?' comme demande ?",
+              "options_en": [
+                "Nothing, it's perfect",
+                "It's too vague - be specific about what you need",
+                "It's too direct",
+                "It's too long"
+              ],
+              "options_fr": [
+                "Rien, c'est parfait",
+                "C'est trop vague - soyez spécifique sur ce dont vous avez besoin",
+                "C'est trop direct",
+                "C'est trop long"
+              ],
+              "correct": 1,
+              "feedback_en": "Vague asks make it hard for people to help. Be specific about what you need.",
+              "feedback_fr": "Les demandes vagues rendent difficile pour les gens d'aider. Soyez spécifique sur ce dont vous avez besoin."
+            },
+            {
+              "question_en": "Why should you make it easy for someone to say no?",
+              "question_fr": "Pourquoi devriez-vous faciliter la possibilité pour quelqu'un de dire non ?",
+              "options_en": [
+                "So they'll say no",
+                "So they don't feel pressured and can say yes authentically",
+                "Because you don't want help",
+                "To be passive aggressive"
+              ],
+              "options_fr": [
+                "Pour qu'ils disent non",
+                "Pour qu'ils ne se sentent pas obligés et puissent dire oui authentiquement",
+                "Parce que vous ne voulez pas d'aide",
+                "Pour être passif-agressif"
+              ],
+              "correct": 1,
+              "feedback_en": "Making it easy to say no makes 'yes' more genuine and respectful of their time.",
+              "feedback_fr": "Faciliter la possibilité de dire non rend le 'oui' plus authentique et respectueux de leur temps."
+            },
+            {
+              "question_en": "What should you always do after receiving help?",
+              "question_fr": "Que devriez-vous toujours faire après avoir reçu de l'aide ?",
+              "options_en": [
+                "Forget about it",
+                "Say thank you and show appreciation",
+                "Ask for more help immediately",
+                "Ignore them"
+              ],
+              "options_fr": [
+                "L'oublier",
+                "Dire merci et montrer votre appréciation",
+                "Demander plus d'aide immédiatement",
+                "Les ignorer"
+              ],
+              "correct": 1,
+              "feedback_en": "Always express genuine gratitude when someone helps you.",
+              "feedback_fr": "Exprimez toujours une gratitude sincère lorsque quelqu'un vous aide."
+            },
+            {
+              "question_en": "Who should you ask for help?",
+              "question_fr": "À qui devriez-vous demander de l'aide ?",
+              "options_en": [
+                "Random strangers",
+                "People who have the expertise or ability to actually help",
+                "Anyone who will listen",
+                "Only family members"
+              ],
+              "options_fr": [
+                "Des étrangers au hasard",
+                "Des personnes qui ont l'expertise ou la capacité d'aider réellement",
+                "N'importe qui qui écoutera",
+                "Uniquement les membres de la famille"
+              ],
+              "correct": 1,
+              "feedback_en": "Ask people who have the specific knowledge or ability to actually help you.",
+              "feedback_fr": "Demandez à des personnes qui ont les connaissances ou la capacité spécifiques pour vous aider réellement."
+            },
+            {
+              "question_en": "Is asking for help a sign of weakness?",
+              "question_fr": "Demander de l'aide est-il un signe de faiblesse ?",
+              "options_en": [
+                "Yes, strong people figure things out alone",
+                "No, it's a sign of strength and self-awareness",
+                "Sometimes",
+                "Only at work"
+              ],
+              "options_fr": [
+                "Oui, les personnes fortes trouvent des solutions seules",
+                "Non, c'est un signe de force et de conscience de soi",
+                "Parfois",
+                "Seulement au travail"
+              ],
+              "correct": 1,
+              "feedback_en": "Asking for help shows self-awareness and efficiency - strong people know when they need assistance.",
+              "feedback_fr": "Demander de l'aide montre une conscience de soi et une efficacité - les personnes fortes savent quand elles ont besoin d'assistance."
+            }
+          ]
+        },
+        {
+          "id": "ss_107",
+          "title_en": "Giving Constructive Feedback",
+          "title_fr": "Donner un Feedback Constructif",
+          "content_en": "Feedback is a gift when delivered well. The SBI model (Situation, Behavior, Impact) provides a clear, non-judgmental framework. This approach focuses on observable facts rather than personality judgments, making it much easier for the recipient to hear and act on.\n\nSituation: When and where it happened ('In yesterday's team meeting...'). Behavior: Specific, observable actions ('when you arrived 10 minutes late...'). Impact: How it affected you or others ('it disrupted the flow and we had to recap...'). Then ask for their perspective: 'Can we talk about how to prevent this?' Avoid labels like 'lazy' or 'inconsiderate' - describe the behavior, not the person. Deliver feedback privately, not in front of others. Be timely but not in the heat of the moment.",
+          "content_fr": "Le feedback est un cadeau lorsqu'il est bien livré. Le modèle SBI (Situation, Comportement, Impact) fournit un cadre clair et non jugeant. Cette approche se concentre sur des faits observables plutôt que sur des jugements de personnalité, ce qui rend beaucoup plus facile pour le destinataire de l'entendre et d'agir en conséquence.\n\nSituation : Quand et où cela s'est produit ('Lors de la réunion d'équipe d'hier...'). Comportement : Actions spécifiques et observables ('quand vous êtes arrivé en retard de 10 minutes...'). Impact : Comment cela vous a affecté ou a affecté les autres ('cela a perturbé le flux et nous avons dû faire un résumé...'). Demandez ensuite leur point de vue : 'Pouvons-nous parler de la façon d'éviter cela ?' Évitez les étiquettes comme 'paresseux' ou 'irréfléchi' - décrivez le comportement, pas la personne. Livrez les commentaires en privé, pas devant les autres. Soyez opportun mais pas dans le feu de l'action.",
+          "key_points_en": [
+            "Situation: When and where it happened",
+            "Behavior: Specific, observable actions",
+            "Impact: How it affected you or others",
+            "Ask for their perspective"
+          ],
+          "key_points_fr": [
+            "Situation : Quand et où cela s'est produit",
+            "Comportement : Actions spécifiques et observables",
+            "Impact : Comment cela vous a affecté ou a affecté les autres",
+            "Demandez leur point de vue"
+          ],
+          "examples": [
+            {
+              "bad_en": "You're always late and it's disrespectful to everyone",
+              "bad_fr": "Vous êtes toujours en retard et c'est irrespectueux pour tout le monde",
+              "good_en": "In yesterday's meeting, when you arrived 10 minutes late, it disrupted the flow and we had to recap. Can we talk about how to help you get to meetings on time?",
+              "good_fr": "Lors de la réunion d'hier, quand vous êtes arrivé en retard de 10 minutes, cela a perturbé le flux et nous avons dû faire un résumé. Pouvons-nous parler de la façon de vous aider à arriver à l'heure aux réunions ?"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What does SBI stand for in feedback?",
+              "question_fr": "Que signifie SBI dans le feedback ?",
+              "options_en": [
+                "Situation, Behavior, Impact",
+                "Start, Begin, Initiate",
+                "Specific, Brief, Immediate",
+                "See, Believe, Improve"
+              ],
+              "options_fr": [
+                "Situation, Comportement, Impact",
+                "Démarrer, Commencer, Initier",
+                "Spécifique, Bref, Immédiat",
+                "Voir, Croire, Améliorer"
+              ],
+              "correct": 0,
+              "feedback_en": "SBI = Situation, Behavior, Impact - a framework for constructive feedback.",
+              "feedback_fr": "SBI = Situation, Comportement, Impact - un cadre pour le feedback constructif."
+            },
+            {
+              "question_en": "Why is it important to describe specific behavior, not label the person?",
+              "question_fr": "Pourquoi est-il important de décrire un comportement spécifique, pas d'étiqueter la personne ?",
+              "options_en": [
+                "It takes longer",
+                "Specific behavior can be discussed and changed; labels feel like attacks",
+                "Labels are more accurate",
+                "It doesn't matter"
+              ],
+              "options_fr": [
+                "Cela prend plus de temps",
+                "Le comportement spécifique peut être discuté et changé ; les étiquettes semblent être des attaques",
+                "Les étiquettes sont plus précises",
+                "Cela n'a pas d'importance"
+              ],
+              "correct": 1,
+              "feedback_en": "Describe the behavior, not the person. 'You were late' vs 'You're inconsiderate'.",
+              "feedback_fr": "Décrivez le comportement, pas la personne. 'Vous étiez en retard' vs 'Vous êtes irréfléchi'."
+            },
+            {
+              "question_en": "What should you do after delivering feedback?",
+              "question_fr": "Que devriez-vous faire après avoir donné un feedback ?",
+              "options_en": [
+                "Walk away",
+                "Ask for their perspective and listen",
+                "Keep talking",
+                "Get defensive"
+              ],
+              "options_fr": [
+                "Partir",
+                "Demander leur point de vue et écouter",
+                "Continuer à parler",
+                "Devenir défensif"
+              ],
+              "correct": 1,
+              "feedback_en": "After sharing your perspective, ask for theirs. Feedback should be a dialogue.",
+              "feedback_fr": "Après avoir partagé votre point de vue, demandez le leur. Le feedback devrait être un dialogue."
+            },
+            {
+              "question_en": "What's wrong with 'You always interrupt me'?",
+              "question_fr": "Qu'est-ce qui ne va pas avec 'Vous m'interrompez toujours' ?",
+              "options_en": [
+                "Nothing",
+                "It's vague ('always') and uses 'you' language that sounds accusatory",
+                "It's too specific",
+                "It's too long"
+              ],
+              "options_fr": [
+                "Rien",
+                "C'est vague ('toujours') et utilise le langage 'vous' qui sonne accusateur",
+                "C'est trop spécifique",
+                "C'est trop long"
+              ],
+              "correct": 1,
+              "feedback_en": "Avoid 'always/never' and use 'I' statements. 'I feel interrupted when...'",
+              "feedback_fr": "Évitez 'toujours/jamais' et utilisez des déclarations 'je'. 'Je me sens interrompu quand...'"
+            },
+            {
+              "question_en": "When should you give feedback?",
+              "question_fr": "Quand devriez-vous donner un feedback ?",
+              "options_en": [
+                "In front of everyone",
+                "Privately and as close to the event as possible",
+                "Months later",
+                "Never"
+              ],
+              "options_fr": [
+                "Devant tout le monde",
+                "En privé et aussi près de l'événement que possible",
+                "Des mois plus tard",
+                "Jamais"
+              ],
+              "correct": 1,
+              "feedback_en": "Give feedback privately and promptly - close to the event but not in the heat of the moment.",
+              "feedback_fr": "Donnez un feedback en privé et rapidement - près de l'événement mais pas dans le feu de l'action."
+            }
+          ]
+        },
+        {
+          "id": "ss_108",
+          "title_en": "Networking That Works",
+          "title_fr": "Le Networking qui Fonctionne",
+          "content_en": "Networking isn't using people - it's building genuine relationships. The most successful networkers focus on how they can help others, not what others can do for them. This mindset shift transforms networking from something uncomfortable into something rewarding.\n\nFollow up within 48 hours of meeting someone, referencing something specific from your conversation. Connect people who could help each other - this creates immense value and makes you a hub in your network. Give without expecting immediate returns; generosity pays off in the long run. Networking happens everywhere, not just at formal events - your neighbor, gym buddy, or fellow volunteer can be valuable connections. Focus on depth over breadth; a few strong relationships are worth more than hundreds of shallow contacts.",
+          "content_fr": "Le networking n'est pas une question d'utiliser les gens - c'est une question de construire des relations authentiques. Les networkers les plus réussis se concentrent sur la façon dont ils peuvent aider les autres, pas sur ce que les autres peuvent faire pour eux. Ce changement de mentalité transforme le networking de quelque chose d'inconfortable en quelque chose de gratifiant.\n\nFaites un suivi dans les 48 heures suivant une rencontre, en mentionnant quelque chose de spécifique de votre conversation. Connectez les personnes qui pourraient s'entraider - cela crée une valeur immense et fait de vous un hub dans votre réseau. Donnez sans attendre de retours immédiats ; la générosité paie à long terme. Le networking se produit partout, pas seulement lors d'événements formels - votre voisin, partenaire de gym ou compagnon bénévole peut être des connexions précieuses. Concentrez-vous sur la profondeur plutôt que sur l'étendue ; quelques relations solides valent plus que des centaines de contacts superficiels.",
+          "key_points_en": [
+            "Focus on how you can help others",
+            "Follow up within 48 hours",
+            "Connect people who can help each other",
+            "Networking happens everywhere"
+          ],
+          "key_points_fr": [
+            "Concentrez-vous sur la façon dont vous pouvez aider les autres",
+            "Faites un suivi dans les 48 heures",
+            "Connectez les personnes qui peuvent s'entraider",
+            "Le networking se produit partout"
+          ],
+          "examples": [
+            {
+              "bad_en": "Can you get me a job? (first message - too direct and self-serving)",
+              "bad_fr": "Pouvez-vous me trouver un emploi ? (premier message - trop direct et intéressé)",
+              "good_en": "I enjoyed learning about your work in renewable energy. I saw this article about solar innovation and thought of you. Hope you're having a great week!",
+              "good_fr": "J'ai aimé en apprendre davantage sur votre travail dans les énergies renouvelables. J'ai vu cet article sur l'innovation solaire et j'ai pensé à vous. J'espère que vous passez une bonne semaine !"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What's the best mindset for networking?",
+              "question_fr": "Quelle est la meilleure mentalité pour le networking ?",
+              "options_en": [
+                "What can people do for me?",
+                "How can I help others and build genuine relationships?",
+                "Collect as many contacts as possible",
+                "Only talk to powerful people"
+              ],
+              "options_fr": [
+                "Que peuvent faire les gens pour moi ?",
+                "Comment puis-je aider les autres et construire des relations authentiques ?",
+                "Collecter autant de contacts que possible",
+                "Parler uniquement aux personnes puissantes"
+              ],
+              "correct": 1,
+              "feedback_en": "Focus on giving value and building genuine relationships, not just taking.",
+              "feedback_fr": "Concentrez-vous sur l'apport de valeur et la construction de relations authentiques, pas seulement sur la prise."
+            },
+            {
+              "question_en": "How soon should you follow up after meeting someone?",
+              "question_fr": "Combien de temps après avoir rencontré quelqu'un devriez-vous faire un suivi ?",
+              "options_en": [
+                "Within 48 hours",
+                "Next year",
+                "Never",
+                "After they follow up first"
+              ],
+              "options_fr": [
+                "Dans les 48 heures",
+                "L'année prochaine",
+                "Jamais",
+                "Après qu'ils aient fait le premier suivi"
+              ],
+              "correct": 1,
+              "feedback_en": "Follow up within 48 hours while you're still memorable.",
+              "feedback_fr": "Faites un suivi dans les 48 heures pendant que vous êtes encore mémorable."
+            },
+            {
+              "question_en": "What's a good follow-up message?",
+              "question_fr": "Qu'est-ce qu'un bon message de suivi ?",
+              "options_en": [
+                "Remember me?",
+                "It was great meeting you at [event]. I enjoyed our conversation about [topic].",
+                "Can you introduce me to...",
+                "Send a blank connection request"
+              ],
+              "options_fr": [
+                "Vous vous souvenez de moi ?",
+                "C'était un plaisir de vous rencontrer à [événement]. J'ai apprécié notre conversation sur [sujet].",
+                "Pouvez-vous me présenter à...",
+                "Envoyer une demande de connexion vide"
+              ],
+              "correct": 1,
+              "feedback_en": "Reference where you met and something specific from your conversation.",
+              "feedback_fr": "Référencez où vous vous êtes rencontrés et quelque chose de spécifique de votre conversation."
+            },
+            {
+              "question_en": "Where does networking happen?",
+              "question_fr": "Où le networking se produit-il ?",
+              "options_en": [
+                "Only at formal networking events",
+                "Everywhere - events, work, social gatherings, online",
+                "Only at work",
+                "Only through LinkedIn"
+              ],
+              "options_fr": [
+                "Uniquement lors d'événements de networking formels",
+                "Partout - événements, travail, rassemblements sociaux, en ligne",
+                "Uniquement au travail",
+                "Uniquement via LinkedIn"
+              ],
+              "correct": 1,
+              "feedback_en": "Networking happens everywhere you interact with people - not just formal events.",
+              "feedback_fr": "Le networking se produit partout où vous interagissez avec des gens - pas seulement lors d'événements formels."
+            },
+            {
+              "question_en": "What's a good way to add value to your network?",
+              "question_fr": "Quelle est une bonne façon d'ajouter de la valeur à votre réseau ?",
+              "options_en": [
+                "Ask for favors constantly",
+                "Share relevant articles, make introductions, offer help without being asked",
+                "Only reach out when you need something",
+                "Keep to yourself"
+              ],
+              "options_fr": [
+                "Demander constamment des faveurs",
+                "Partager des articles pertinents, faire des présentations, offrir de l'aide sans qu'on vous le demande",
+                "Ne contacter que quand vous avez besoin de quelque chose",
+                "Rester dans votre coin"
+              ],
+              "correct": 1,
+              "feedback_en": "Add value by sharing resources, making introductions, and offering help proactively.",
+              "feedback_fr": "Ajoutez de la valeur en partageant des ressources, en faisant des présentations et en offrant de l'aide de manière proactive."
+            }
+          ]
+        },
+        {
+          "id": "ss_109",
+          "title_en": "Repairing Relationships After Conflict",
+          "title_fr": "Réparer les Relations Après un Conflit",
+          "content_en": "Every relationship has conflict. The repair matters more than the rupture. A good repair can actually strengthen trust and deepen connection. The goal isn't to avoid conflict - it's to repair well when it happens.\n\nTake responsibility for your part first, even if you think they're 90% at fault. Listen to their perspective without defending yourself - just hear them out. Ask what would help repair the relationship, not assuming you know. Change your behavior going forward; apologies without changed behavior are manipulation. Use 'I feel' statements rather than blame. A good repair often looks like: 'I was wrong to say that. I can see it hurt you. Here's what I'll do differently. Can we talk about how you're feeling?'",
+          "content_fr": "Toute relation a des conflits. La réparation compte plus que la rupture. Une bonne réparation peut en fait renforcer la confiance et approfondir la connexion. L'objectif n'est pas d'éviter le conflit - c'est de bien réparer quand il se produit.\n\nPrenez d'abord la responsabilité de votre part, même si vous pensez qu'ils sont à 90 % en tort. Écoutez leur perspective sans vous défendre - écoutez-les simplement. Demandez ce qui aiderait à réparer la relation, sans présumer que vous savez. Changez votre comportement à l'avenir ; les excuses sans changement de comportement sont de la manipulation. Utilisez des déclarations 'je ressens' plutôt que des blâmes. Une bonne réparation ressemble souvent à : 'J'avais tort de dire cela. Je vois que cela vous a blessé. Voici ce que je vais faire différemment. Pouvons-nous parler de ce que vous ressentez ?'",
+          "key_points_en": [
+            "Take responsibility for your part",
+            "Listen without defending",
+            "Ask what would help repair",
+            "Change behavior going forward"
+          ],
+          "key_points_fr": [
+            "Prenez la responsabilité de votre part",
+            "Écoutez sans vous défendre",
+            "Demandez ce qui aiderait à réparer",
+            "Changez votre comportement à l'avenir"
+          ],
+          "examples": [
+            {
+              "bad_en": "Let's never talk about that again (avoidance doesn't repair)",
+              "bad_fr": "Ne parlons plus jamais de ça (l'évitement ne répare pas)",
+              "good_en": "I was wrong to say that. I can see it hurt you. I won't make comments like that again. Can we talk about how you're feeling?",
+              "good_fr": "J'avais tort de dire cela. Je vois que cela vous a blessé. Je ne ferai plus ce genre de commentaires. Pouvons-nous parler de ce que vous ressentez ?"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What's more important than the conflict itself?",
+              "question_fr": "Qu'est-ce qui est plus important que le conflit lui-même ?",
+              "options_en": [
+                "Who started it",
+                "Who won",
+                "The repair attempt after the conflict",
+                "Avoiding conflict entirely"
+              ],
+              "options_fr": [
+                "Qui a commencé",
+                "Qui a gagné",
+                "La tentative de réparation après le conflit",
+                "Éviter complètement le conflit"
+              ],
+              "correct": 2,
+              "feedback_en": "The repair attempt matters more than the rupture. Good repairs can strengthen relationships.",
+              "feedback_fr": "La tentative de réparation compte plus que la rupture. Les bonnes réparations peuvent renforcer les relations."
+            },
+            {
+              "question_en": "What's the first step in repairing after conflict?",
+              "question_fr": "Quelle est la première étape pour réparer après un conflit ?",
+              "options_en": [
+                "Blame them",
+                "Take responsibility for your part in the conflict",
+                "Ignore them until they apologize",
+                "Pretend nothing happened"
+              ],
+              "options_fr": [
+                "Les blâmer",
+                "Prendre la responsabilité de votre part dans le conflit",
+                "Les ignorer jusqu'à ce qu'ils s'excusent",
+                "Prétendre que rien ne s'est passé"
+              ],
+              "correct": 1,
+              "feedback_en": "Take responsibility for your part first - even if you think they're mostly to blame.",
+              "feedback_fr": "Prenez d'abord la responsabilité de votre part - même si vous pensez qu'ils sont principalement en tort."
+            },
+            {
+              "question_en": "What should you ask after apologizing?",
+              "question_fr": "Que devriez-vous demander après vous être excusé ?",
+              "options_en": [
+                "Are you happy now?",
+                "What would help repair things between us?",
+                "Nothing, walk away",
+                "Can we forget it?"
+              ],
+              "options_fr": [
+                "Êtes-vous heureux maintenant ?",
+                "Qu'est-ce qui aiderait à réparer les choses entre nous ?",
+                "Rien, partez",
+                "Pouvons-nous l'oublier ?"
+              ],
+              "correct": 1,
+              "feedback_en": "Ask what would help repair the relationship - shows genuine commitment to fixing things.",
+              "feedback_fr": "Demandez ce qui aiderait à réparer la relation - montre un engagement sincère à arranger les choses."
+            },
+            {
+              "question_en": "What should you avoid during repair conversations?",
+              "question_fr": "Que devriez-vous éviter pendant les conversations de réparation ?",
+              "options_en": [
+                "Listening",
+                "Getting defensive or explaining why you did what you did",
+                "Taking responsibility",
+                "Asking questions"
+              ],
+              "options_fr": [
+                "Écouter",
+                "Devenir défensif ou expliquer pourquoi vous avez fait ce que vous avez fait",
+                "Prendre ses responsabilités",
+                "Poser des questions"
+              ],
+              "correct": 1,
+              "feedback_en": "Avoid getting defensive - focus on understanding their perspective, not explaining yours.",
+              "feedback_fr": "Évitez de devenir défensif - concentrez-vous sur la compréhension de leur perspective, pas sur l'explication de la vôtre."
+            },
+            {
+              "question_en": "How do you know a repair is successful?",
+              "question_fr": "Comment savez-vous qu'une réparation est réussie ?",
+              "options_en": [
+                "They apologize first",
+                "You win the argument",
+                "The relationship feels safe again and the issue doesn't keep repeating",
+                "Everyone forgets"
+              ],
+              "options_fr": [
+                "Ils s'excusent en premier",
+                "Vous gagnez l'argument",
+                "La relation semble à nouveau sûre et le problème ne se répète pas",
+                "Tout le monde oublie"
+              ],
+              "correct": 1,
+              "feedback_en": "Successful repair means the relationship feels safe and the issue doesn't keep recurring.",
+              "feedback_fr": "Une réparation réussie signifie que la relation semble sûre et que le problème ne se répète pas."
+            }
+          ]
+        },
+        {
+          "id": "ss_110",
+          "title_en": "Public Speaking Confidence",
+          "title_fr": "Confiance en Parler en Public",
+          "content_en": "Glossophobia (fear of public speaking) affects 75% of people - you're not alone. The secret isn't eliminating nerves; it's reframing them as excitement. Your body's response to nervousness (racing heart, butterflies) is nearly identical to excitement. Simply telling yourself 'I'm excited' instead of 'I'm nervous' improves performance significantly.\n\nPreparation is your best confidence-builder. Practice out loud at least 5 times, ideally recording yourself to spot areas for improvement. Focus on serving your audience rather than on yourself - shift from 'How am I doing?' to 'Are they getting value?' The audience wants you to succeed; they're rooting for you, not against you. Arrive early, get comfortable with the space, and remember that imperfection is human and relatable. Most people won't notice your nervousness - they're too focused on your message.",
+          "content_fr": "La glossophobie (peur de parler en public) affecte 75 % des gens - vous n'êtes pas seul. Le secret n'est pas d'éliminer les nerfs ; c'est de les recadrer comme de l'excitation. La réponse de votre corps à la nervosité (cœur qui s'emballe, papillons) est presque identique à l'excitation. Se dire simplement 'Je suis excité' au lieu de 'Je suis nerveux' améliore considérablement la performance.\n\nLa préparation est votre meilleur bâtisseur de confiance. Entraînez-vous à voix haute au moins 5 fois, idéalement en vous enregistrant pour repérer les domaines à améliorer. Concentrez-vous sur le service à votre public plutôt que sur vous-même - passez de 'Comment je m'en sors ?' à 'Est-ce qu'ils obtiennent de la valeur ?' Le public veut que vous réussissiez ; ils sont de votre côté, pas contre vous. Arrivez tôt, familiarisez-vous avec l'espace et rappelez-vous que l'imperfection est humaine et accessible. La plupart des gens ne remarqueront pas votre nervosité - ils sont trop concentrés sur votre message.",
+          "key_points_en": [
+            "Reframe 'I'm nervous' to 'I'm excited'",
+            "Practice out loud 5+ times",
+            "Focus on serving the audience, not yourself",
+            "The audience wants you to succeed"
+          ],
+          "key_points_fr": [
+            "Recadrez 'Je suis nerveux' en 'Je suis excité'",
+            "Entraînez-vous à voix haute 5+ fois",
+            "Concentrez-vous sur le service au public, pas sur vous-même",
+            "Le public veut que vous réussissiez"
+          ],
+          "examples": [
+            {
+              "bad_en": "Wing it, hope for the best, and avoid eye contact",
+              "bad_fr": "Improviser, espérer le meilleur et éviter le contact visuel",
+              "good_en": "Practice with a timer, record yourself, focus on delivering value to the audience",
+              "good_fr": "Entraînez-vous avec un minuteur, enregistrez-vous, concentrez-vous sur la livraison de valeur au public"
+            }
+          ],
+          "practice_questions": [
+            {
+              "question_en": "What percentage of people fear public speaking?",
+              "question_fr": "Quel pourcentage de personnes a peur de parler en public ?",
+              "options_en": [
+                "25%",
+                "50%",
+                "75%",
+                "95%"
+              ],
+              "options_fr": [
+                "25 %",
+                "50 %",
+                "75 %",
+                "95 %"
+              ],
+              "correct": 2,
+              "feedback_en": "About 75% of people have some fear of public speaking - you're not alone!",
+              "feedback_fr": "Environ 75 % des personnes ont une certaine peur de parler en public - vous n'êtes pas seul !"
+            },
+            {
+              "question_en": "How can you reframe nervousness?",
+              "question_fr": "Comment pouvez-vous recadrer la nervosité ?",
+              "options_en": [
+                "Ignore it",
+                "Tell yourself 'I'm excited' instead of 'I'm nervous' - same physical feeling",
+                "Take medication",
+                "Avoid speaking"
+              ],
+              "options_fr": [
+                "L'ignorer",
+                "Se dire 'Je suis excité' au lieu de 'Je suis nerveux' - même sensation physique",
+                "Prendre des médicaments",
+                "Éviter de parler"
+              ],
+              "correct": 1,
+              "feedback_en": "Nervous and excited feel similar physically. Reframing as excitement improves performance.",
+              "feedback_fr": "La nervosité et l'excitation se ressentent physiquement de manière similaire. Recadrer comme de l'excitation améliore la performance."
+            },
+            {
+              "question_en": "How many times should you practice a presentation?",
+              "question_fr": "Combien de fois devriez-vous pratiquer une présentation ?",
+              "options_en": [
+                "Once",
+                "0 times",
+                "5+ times out loud",
+                "Just think about it"
+              ],
+              "options_fr": [
+                "Une fois",
+                "0 fois",
+                "5+ fois à voix haute",
+                "Juste y penser"
+              ],
+              "correct": 1,
+              "feedback_en": "Practice out loud at least 5 times - it builds confidence and smooths delivery.",
+              "feedback_fr": "Entraînez-vous à voix haute au moins 5 fois - cela construit la confiance et fluidifie la présentation."
+            },
+            {
+              "question_en": "What should you focus on during your speech?",
+              "question_fr": "Sur quoi devriez-vous vous concentrer pendant votre discours ?",
+              "options_en": [
+                "Your own anxiety",
+                "How you look",
+                "Serving the audience and delivering value",
+                "What people think of you"
+              ],
+              "options_fr": [
+                "Votre propre anxiété",
+                "Votre apparence",
+                "Servir le public et offrir de la valeur",
+                "Ce que les gens pensent de vous"
+              ],
+              "correct": 1,
+              "feedback_en": "Focus on serving your audience - it takes attention off yourself and improves your delivery.",
+              "feedback_fr": "Concentrez-vous sur le service à votre public - cela détourne l'attention de vous-même et améliore votre présentation."
+            },
+            {
+              "question_en": "Does the audience want you to succeed or fail?",
+              "question_fr": "Le public veut-il que vous réussissiez ou échouiez ?",
+              "options_en": [
+                "Fail - they're judging you",
+                "Succeed - audiences want speakers to do well",
+                "They don't care",
+                "It depends on the audience"
+              ],
+              "options_fr": [
+                "Échouer - ils vous jugent",
+                "Réussir - les publics veulent que les orateurs réussissent",
+                "Ils s'en fichent",
+                "Cela dépend du public"
+              ],
+              "correct": 1,
+              "feedback_en": "Audiences generally want speakers to succeed - they're rooting for you, not against you.",
+              "feedback_fr": "Les publics veulent généralement que les orateurs réussissent - ils sont de votre côté, pas contre vous."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
